@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18790982/
+title=Endometrial cancer: adjuvant treatment of endometrial cancer--radiotherapy, chemotherapy or both.
+from:Ann Oncol
+time=2008 Sep
+abstract: 

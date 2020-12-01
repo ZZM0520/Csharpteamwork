@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24682566/
+title=Sentinel lymph node mapping in endometrial cancer: a concept ready for clinical routine?
+from:Arch Gynecol Obstet
+time=2014 Jul
+abstract: 

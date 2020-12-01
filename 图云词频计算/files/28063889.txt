@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28063889/
+title=Magnetic Resonance Diffusion-Weighted Imaging: Endometrial Cancer.
+from:J Obstet Gynaecol Can
+time=2017 Feb
+abstract: 

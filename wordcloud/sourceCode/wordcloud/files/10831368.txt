@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10831368/
+title=Re: Ashih et al.: Cost effectiveness of treatment of early endometrial cancer. Gynecol Oncol 74:208-216, 1999.
+from:Gynecol Oncol
+time=2000 Jun
+abstract: 

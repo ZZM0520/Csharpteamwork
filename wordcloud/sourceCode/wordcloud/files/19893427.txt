@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19893427/
+title=Benefit of lymphadenectomy in endometrial cancer: can the truth be obtained by randomized controlled trial after ASTEC?
+from:Int J Gynecol Cancer
+time=2009 Nov
+abstract: 

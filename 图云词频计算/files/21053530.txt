@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21053530/
+title=Adjuvant pelvic radiation therapy in endometrial cancer: The pro argument.
+from:Int J Gynecol Cancer
+time=2010 Oct
+abstract: Adjuvant external beam pelvic radiation therapy for stage I endometrial cancer has become increasingly confusing and controversial. Despite repeated studies showing a disease-free survival benefit to the therapy, its role is being questioned because overall survival has not been demonstrated. By using evidence from the literature, including the most recent randomized data, an argument is made for the use of external beam pelvic radiotherapy for a 63-year-old woman who has undergone a total abdominal hysterectomy and bilateral salpingo-oophorectomy for a grade 2 endometrioid adenocarcinoma of the uterus with 9 of 12 mm of invasion and the presence of lymphovascular space involvement. Her risk of relapse is approximately 25%, and adjuvant external beam radiation can improve her disease-free survival and even possibly improve her chances of cure.

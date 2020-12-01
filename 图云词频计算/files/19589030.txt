@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19589030/
+title=Systemic therapy for recurrent endometrial cancer: a review of North American trials.
+from:Expert Rev Anticancer Ther
+time=2009 Jul
+abstract: While early-stage endometrial cancer is highly curable after hysterectomy for the majority of patients afflicted with this disease, recurrent and metastatic endometrial cancer continues to pose a significant challenge. The median survival of women with advanced or recurrent uterine cancer on most recent clinical trials is only approximately 1 year. This review will discuss the developments of systemic therapy in recurrent endometrial cancer, focusing on North American trials, in particular those documenting recent progress in new drug developments, as well as the future of individualized treatment regimens.

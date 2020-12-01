@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27157039/
+title=MRI of endometrium cancer - how we do it.
+from:Cancer Imaging
+time=2016 May 9
+abstract: Endometrial cancer is the most common malignancy of the female pelvis. New concepts in endometrial cancer treatment emphasize the value of MRI as a major predictor of lymph node metastasis and tumour recurrence. MRI findings aid in triaging patients for a more tailored therapeutic regimen.This review discusses the value of MRI in the preoperative assessment of endometrial cancer and provides a practical approach how to image and report endometrial cancer. Practical tips are provided how to increase the diagnostic accuracy in staging of endometrial cancer and how to avoid pitfalls. 

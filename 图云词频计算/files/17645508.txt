@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17645508/
+title=Prolonged survival among women with BRCA germline mutations and advanced endometrial cancer: a case series.
+from:Int J Gynecol Cancer
+time=2008 May-Jun
+abstract: It is unclear if BRCA mutation carriers diagnosed with advanced endometrial cancer have a better prognosis compared to sporadic cases. From a population database of BRCA1 and 2 mutation carriers in Southwestern Ontario, Canada, we identified three women with advanced-stage endometrial cancer. They were 57, 59, and 64 years of age, and of English/Scottish, Ashkenazi Jewish, and English heritage, respectively. They had different mutations in BRCA1 (Q1240X:C3837T; 68_69delAG; 1961delA). One had a sarcomatoid carcinoma and two had uterine papillary serous carcinoma. All had stage IVB disease, with surgery followed by adjuvant chemotherapy and/or radiotherapy. Follow-up has ranged from 3.3 to 14.6 years. They are still alive and well with no evidence of recurrent disease. This observation raises the question as to whether BRCA mutations may be associated with a better prognosis in patients with advanced endometrial cancer.

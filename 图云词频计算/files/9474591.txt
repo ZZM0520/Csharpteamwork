@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9474591/
+title=Practice guidelines: uterine corpus--endometrial cancer. Society of Gynecologic Oncologists Medical Practice Committee.
+from:Oncology (Williston Park)
+time=1998 Jan
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11001452/
+title=Cost-effectiveness of new technologies for staging endometrial cancer.
+from:Eur Radiol
+time=2000
+abstract: 

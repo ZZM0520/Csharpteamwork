@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21175388/
+title=The current status of lymphadenectomy in the management of endometrial cancer.
+from:Womens Health (Lond)
+time=2011 Jan
+abstract: The International Gynocologic Cancer Society is a biannual meeting for those multidiscipline physicians who are involved in research and the clinical care of women with a gynecologic cancer. Approximately 3000 physicians from all geographic areas attended and heard presentations covering all aspects of gynecologic cancer.

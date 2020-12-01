@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8344323/
+title=Application of short-wave therapy in complex treatment for endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=1993
+abstract: The dynamics of the cellular immunity indices have been studied in 81 patients with endometrial cancer, during the period of combined surgery and post-operative gamma-therapy and also during short-wave therapy. The results obtained testify to the immunostimulating and immunomodulating effect of electromagnetic irradiation of short-wave frequency, thus providing rehabilitation of the immune system in endometrial cancer patients and serving as the basis for short-wave therapy, including it in the complex of therapies given to this group of patients.

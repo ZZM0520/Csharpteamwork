@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30770127/
+title=A tumor board report of an 83-year-old woman with stage IB grade 3 endometrioid endometrial adenocarcinoma.
+from:Curr Probl Cancer
+time=2019 Oct
+abstract: An 83-year-old woman presented with postmenopausal bleeding ultimately leading to surgery and a final diagnosis of stage IB grade 3 endometrioid endometrial adenocarcinoma. The tumor board reviewed current literature regarding the efficacy of sentinel lymph node dissection in appropriately allocating stage in high-grade endometrial cancer. The optimal role of adjuvant treatment in this setting is unclear. Current literature surrounding adjuvant radiation and chemotherapy, as well as current practices in molecular diagnostics for endometrial cancer were reviewed. The tumor board concluded that literature surrounding sentinel lymph node evaluation in high-grade endometrial cancers is robust enough to incorporate into clinical practice. Based on the best available evidence, a decision was made to treat with external beam radiotherapy and withhold chemotherapy.

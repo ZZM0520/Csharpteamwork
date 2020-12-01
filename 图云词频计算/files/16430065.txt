@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16430065/
+title=Radiotherapy in endometrial cancer.
+from:Tunis Med
+time=2005 Dec
+abstract: 

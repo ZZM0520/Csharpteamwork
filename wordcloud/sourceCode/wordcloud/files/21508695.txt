@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21508695/
+title=Adjuvant treatment of advanced-stage endometrial cancer.
+from:Clin Obstet Gynecol
+time=2011 Jun
+abstract: Despite the overall favorable prognosis for women with endometrial cancer, those with advanced and metastatic disease are at significant risk of major morbidity and death. Traditional treatment for advanced-stage endometrial cancer has relied on radiation. The last decade has witnessed a dramatic shift in treatment paradigms for women with advanced-stage endometrial cancer. Chemotherapy is now the cornerstone of treatment for most women with stages III and IV disease. Ongoing trials are exploring multimodal therapy incorporating both chemotherapy and radiation as well as novel chemotherapeutic, biologic and hormonal agents for both advanced primary and recurrent disease. In this review, we discuss the treatment of women with advanced-stage metastatic or recurrent endometrial cancer.

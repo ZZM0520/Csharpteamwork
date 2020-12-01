@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30352454/
+title=Endometrial Cancer in Brazil: Preparing for the Rising Incidence.
+from:Rev Bras Ginecol Obstet
+time=2018 Oct
+abstract: 

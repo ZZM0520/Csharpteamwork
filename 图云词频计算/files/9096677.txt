@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9096677/
+title=Association between tubal ligation and endometrial cancer.
+from:Int J Cancer
+time=1997 Mar 28
+abstract: 

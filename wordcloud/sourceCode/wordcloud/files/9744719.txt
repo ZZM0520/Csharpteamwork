@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9744719/
+title=How do UK gynaecologists manage endometrial carcinoma? A national survey.
+from:Eur J Gynaecol Oncol
+time=1998
+abstract: Objective:The objective of this study was to examine the management of endometrial carcinoma in the United Kingdom (UK).Methods:Consultant gynaecologists were sent an anonymous postal questionnaire requesting information on investigation and management of endometrial carcinoma.Results:Completed questionnaires were received from 701 respondents (51% response). Most responders were general gynaecologists who saw less than five new cases of endometrial cancer annually; 98% of respondents preferred surgical procedure for endometrial carcinoma was total abdominal hysterectomy and bilateral salpingo-oophorectomy. There was a wide variation in diagnostic investigations and radiotherapy practice.

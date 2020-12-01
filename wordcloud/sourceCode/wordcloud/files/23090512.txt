@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23090512/
+title=Missed opportunities for primary endometrial cancer prevention: how to optimize early identification and treatment of high-risk women.
+from:Obstet Gynecol
+time=2012 Nov
+abstract: 

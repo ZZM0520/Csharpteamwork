@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26817318/
+title=[The role of miRNA in endometrial cancer in the context of miRNA 205].
+from:Ginekol Pol
+time=2015 Nov
+abstract: MiRNAs are small, non-coding molecules of ribonucleic acids of approximately 22 bp length, which serve as regulators of gene expression and protein translation due to interference with messenger RNA (mRNA). MiRNAs, which take part in the regulation of cell cycle and apoptosis, may be associated with carcinogenesis. Aberrant expression of miRNAs in endometrial cancer might contribute to the endometrial cancer initiation or progression, as well as metastasis formation, and may influence cancer invasiveness. Specific-miRNAs expressed in endometrial cancer tissues may serve as diagnostic markers of the disease, prognostic biomarkers, or play an important part in oncological therapy We aimed to describe the role of miRNAs in endometrial cancer with special consideration of miRNA 205.

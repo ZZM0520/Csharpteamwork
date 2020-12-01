@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19893425/
+title=Efficacy of systematic pelvic lymphadenectomy in endometrial cancer (MRC ASTEC Trial): a randomized study.
+from:Int J Gynecol Cancer
+time=2009 Nov
+abstract: 

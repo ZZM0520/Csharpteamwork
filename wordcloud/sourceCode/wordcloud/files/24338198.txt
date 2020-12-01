@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24338198/
+title=Endometrial carcinoma metastatic to the clitoris: a case report and review of the literature.
+from:Acta Med Iran
+time=2013
+abstract: Endometrial cancer generally carries a good prognosis. Endometrial carcinoma more frequently metastasizes to the pelvic and para-aortic nodes. Visceral metastases usually occur in the vagina and ovaries. Distant metastases involve lungs and occur as a terminal event. This case report describes vulvalar metastasis of endometrial cancer to the clitoris. Metastatic tumors of the vulva are rare. Moreover, in the presence of metastatic endometrial carcinoma to the vulva, it is necessary to verify if other visceral metastases are present. Endometrial cancer can extend through direct dermatogens and lymphatic spread. We report a clitoral metastasis of an endometrial carcinoma and discuss whether the possible mechanism is vascular spreading or direct seeding.

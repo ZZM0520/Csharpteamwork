@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19078923/
+title=Endometrial cancer: contemporary insights into our most common gynecologic cancer.
+from:Cancer Control
+time=2009 Jan
+abstract: 

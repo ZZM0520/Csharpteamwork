@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10921018/
+title=[Clinical analysis of postoperative radiotherapy for stage I endometrial cancer].
+from:Zhonghua Zhong Liu Za Zhi
+time=1998 May
+abstract: Objective:To evaluate the role and complications of adjuvant radiotherapy for stage I endometrial cancer after surgery.Methods:From May, 1986 to December, 1995, 20 patients with stage I endometrial cancer received total abdominal hysterectomy with bilateral salpingo-oophorectomy(TAH/BSO), and additional pelvic lymph node dissection in 5 cases. Most of the patients received radio therapy in 2-4 weeks after surgery. The radiation fields included pelvic lymph nodes with a total dose of 40-50 Gy.Results:All the patients had survived for 10 years. Only one patient developed distant metastases. Acute radiation reaction was observed in all patients. Late radiation-induced damage occured in six patients and was severe in two.Conclusion:Postoperative radiotherapy in the management of stage I endometrial cancer is beneficial for the controal of local recurrence but has relatively high frequency of late radiation injury.

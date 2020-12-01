@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1300754/
+title=[The effect of indomethacin and leukinferon on the thromboxane B2 level in the blood plasma of patients with endometrial cancer in the perioperative period].
+from:Vopr Onkol
+time=1992
+abstract: The paper discusses the effect of indomethacin, leukinferon as well as their combined effect on blood thromboxane B2 (TxB2) level in 40 endometrial cancer patients in the perioperative period. Perioperative treatment with indomethacin was followed by a significant decrease in blood TxB2 level before surgery and in the postoperative period. Treatment with leukinferon exerted similar effect which, however, was less pronounced than that of indomethacin. The effect was most apparent when the two drugs were combined. The influence of indomethacin and leukinferon on metabolism of arachidonic acid in tumor cells and those of the immune system of endometrial cancer patients are discussed as well possible role of eicosanoids in the pathogenetic mechanism of growth and dissemination of reproductive tumors.

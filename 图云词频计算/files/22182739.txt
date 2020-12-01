@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22182739/
+title=[FDG-PET and endometrial cancer].
+from:Bull Cancer
+time=2012 Jan
+abstract: FDG-PET is widely used for the diagnosis, the staging and the search for recurrence of many tumors. However, there are currently no recommendations for its use in endometrial cancer. This article is an update of the literature data to enable everyone to form an opinion on the subject. Future prospects are considered.

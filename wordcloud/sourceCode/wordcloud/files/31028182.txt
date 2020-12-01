@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31028182/
+title=The Role of ARID1A in Endometrial Cancer and the Molecular Pathways Associated With Pathogenesis and Cancer Progression.
+from:In Vivo
+time=2019 May-Jun
+abstract: AT-rich interaction domain 1A gene (ARID1A) encodes for a subunit of the switch/sucrose non-fermentable (SWI/SNF) complex, a chromatin remodeling complex, and it has been implicated in the pathogenesis of various cancer types. In this review, we discuss how ARID1A is linked to endometrial cancer and what molecular pathways are affected by mutation or inhibition of ARID1A. We also discuss the potential use of ARID1A not only as a prognostic biomarker, but also as a target for therapeutic interventions.

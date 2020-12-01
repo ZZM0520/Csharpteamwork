@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18181084/
+title=Polycystic ovary syndrome and endometrial cancer.
+from:Semin Reprod Med
+time=2008 Jan
+abstract: An association between polycystic ovary syndrome (PCOS) and endometrial carcinoma was first suggested in 1949. Since then, several studies have been published that appear to support this association, and it is common practice among gynecologists and physicians to prescribe hormonal treatment to reduce this perceived risk, although there is no consensus as to the subgroup of PCOS in whom this is required. The mechanism(s) underlying any association are also unclear, but it is again widely assumed that chronic anovulation, which results in continuous estrogen stimulation of the endometrium unopposed by progesterone, is a major factor. However, obesity, hyperinsulinemia, and hyperandrogenism, which are also features of PCOS, are risk factors for endometrial carcinoma, but it does not necessarily follow that the incidence or mortality from endometrial cancer is increased in women with the syndrome. Potential strategies to prevent endometrial cancer in PCOS women are discussed.

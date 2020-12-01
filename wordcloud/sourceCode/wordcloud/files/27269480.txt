@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27269480/
+title=The role of surgery in recurrent endometrial cancer.
+from:Expert Rev Anticancer Ther
+time=2016 Jul
+abstract: Introduction:Endometrial cancer is a common gynecologic malignancy in the United States, and the recurrence rate depends on the disease stage at diagnosis. Recurrence can affect several areas and follow different patterns.Areas covered:The role of surgery at the time of recurrence is not clearly defined. In this review, we fully describe the current evidence available. In particular, we describe how surgical treatment might be recommended for 1) vaginal or pelvic recurrences; 2) retroperitoneal or localized intra-abdominal recurrence, when a maximal cytoreductive effort is more likely to be successful; or 3) isolated distant recurrences when microscopically tumor-free margins can be achieved. Expert commentary: Cases should be evaluated individually, considering factors such as comorbidities, risks of intervention, and impact of treatment on quality of life.

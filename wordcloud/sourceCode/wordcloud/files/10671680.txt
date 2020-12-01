@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10671680/
+title=Mutational analysis of the CTNNB1 (beta-catenin) gene in human endometrial cancer: frequent mutations at codon 34 that cause nuclear accumulation.
+from:Oncol Rep
+time=2000 Mar-Apr
+abstract: Recently, CTNNB1 (beta-catenin) has been found to function as an oncoprotein that works in the Wnt signaling pathway, and mutation of this gene has been reported in various human cancers. In this study, we analyzed 44 endometrial cancers and found somatic missense mutations in five (11%) tumors. Interestingly, four (80%) of the five tumors with mutations would cause amino acid alterations at residues next to Ser 33, one of the targets for phosphorylation of glycogen synthase kinase (GSK)-3beta. The tumors with mutations showed accumulation of the CTNNB1 protein in cytoplasm and nucleus. This is the first report of frequent somatic mutation of the CTNNB1 gene at codons adjacent to those encoding to Ser/Thr residues in endometrial cancer.

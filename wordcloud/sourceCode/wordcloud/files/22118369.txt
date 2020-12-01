@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22118369/
+title=Endometrial cancer - reduce to the minimum. A new paradigm for adjuvant treatments?
+from:Radiat Oncol
+time=2011 Nov 25
+abstract: Background:Up to now, the role of adjuvant radiation therapy and the extent of lymph node dissection for early stage endometrial cancer are controversial. In order to clarify the current position of the given adjuvant treatment options, a systematic review was performed.Materials and methods:Both, Pubmed and ISI Web of Knowledge database were searched using the following keywords and MESH headings: "Endometrial cancer", "Endometrial Neoplasms", "Endometrial Neoplasms/radiotherapy", "External beam radiation therapy", "Brachytherapy" and adequate combinations.Conclusion:Recent data from randomized trials indicate that external beam radiation therapy - particularly in combination with extended lymph node dissection - or radical lymph node dissection increases toxicity without any improvement of overall survival rates. Thus, reduced surgical aggressiveness and limitation of radiotherapy to vaginal-vault-brachytherapy only is sufficient for most cases of early stage endometrial cancer.

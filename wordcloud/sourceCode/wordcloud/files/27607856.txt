@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27607856/
+title=What Is New in Endometrial Cancer?: Best Articles From the Past Year.
+from:Obstet Gynecol
+time=2016 Oct
+abstract: This month we focus on current research in endometrial cancer. Dr. Wright discusses four recent publications, which are concluded with a "bottom line" that is the take-home message. The complete reference for each can be found in on this page, along with direct links to the abstracts. 

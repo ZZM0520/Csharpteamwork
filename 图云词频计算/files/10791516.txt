@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10791516/
+title=Who benefits from radiotherapy in treatment of endometrial cancer and at what price?
+from:Lancet
+time=2000 Apr 22
+abstract: 

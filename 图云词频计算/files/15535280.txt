@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15535280/
+title=[Long-time survival cases of endometrial cancer].
+from:Nihon Rinsho
+time=2004 Oct
+abstract: 

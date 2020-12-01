@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17475316/
+title=Vitamin D, ecologic studies and endometrial cancer.
+from:Prev Med
+time=2007 Nov
+abstract: 

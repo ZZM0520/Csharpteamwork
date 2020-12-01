@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12760308/
+title=Steroid and xenobiotic receptor (SXR) is a key system for the acquisition of cisplatin resistance in endometrial cancer cells.
+from:J Int Med Res
+time=2003 Mar-Apr
+abstract: A novel steroid and xenobiotic receptor (SXR) may be involved in chemoresistance, and we studied this receptor in endometrial cancer cell lines. The cisplatin (CDDP)-sensitive Ishikawa cell line and its CDDP-resistant sub-clone (ISIW+) were used. ISIW+ cells showed a much higher SXR expression. When Ishikawa cells were cultured with SXR anti-sense oligonucleotides (AS), the cells failed to pass crisis and did not gain cisplatin resistance. In an experiment using SCID mice, all AS-treated animals survived, whereas controls had 50% survival at 35 days. The present data indicate that SXR is a key system to induce, maintain and reverse a cisplatin-resistant phenotype in endometrial cancer cells.

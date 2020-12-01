@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11336774/
+title=Adenocarcinoma diagnosed at endometrial ablation.
+from:Obstet Gynecol
+time=2001 May
+abstract: Background:Endometrial ablation is a surgical alternative to hysterectomy. Cases exist in the literature of endometrial adenocarcinoma found at endometrial ablation. If endometrial cancer is occult it might not be detected during ablation, especially if destructive techniques are used.Case:A 41-year-old woman had a history of menorrhagia. A previous D&amp;C showed benign proliferative endometrium. Investigations for menorrhagia found no abnormalities. The diagnosis was dysfunctional uterine bleeding. Endometrial ablation was done and the pathologic examination of the resected endometrium found focal, well-differentiated adenocarcinoma of the endometrium.Conclusion:This case shows the importance of patient selection, evaluation, and surveillance after endometrial ablation. Resection of the endometrium is superior to destructive techniques because it provides tissue for pathologic evaluation. We recommend close postoperative surveillance in such cases.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22742476/
+title=Complete uterine inversion in a patient with endometrial cancer.
+from:J Obstet Gynaecol Can
+time=2012 Jul
+abstract: 

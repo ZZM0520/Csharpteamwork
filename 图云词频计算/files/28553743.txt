@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28553743/
+title=Two cases of endometrial cancer arising from adenomyosis during aromatase inhibitors therapy after mastectomy.
+from:J Obstet Gynaecol
+time=2017 Oct
+abstract: 

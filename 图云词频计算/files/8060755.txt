@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8060755/
+title=Prognostic value of progesterone receptors in endometrial cancer.
+from:Cancer Treat Res
+time=1994
+abstract: 

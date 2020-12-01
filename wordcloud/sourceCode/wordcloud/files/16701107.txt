@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16701107/
+title=Advanced endometrial cancer: is lymphadenectomy necessary or sufficient?
+from:Gynecol Oncol
+time=2006 May
+abstract: 

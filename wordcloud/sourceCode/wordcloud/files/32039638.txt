@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/32039638/
+title=Low preoperative serum ALB level is independently associated with poor overall survival in endometrial cancer patients.
+from:Future Oncol
+time=2020 Mar
+abstract: <b>Aim:</b> To reveal the prognostic significance of serum albumin (ALB) concentration in endometrial cancer (EC) patients in China. <b>Patients &amp; methods:</b> 345 EC patients were enrolled in a single center, and the preoperative serum ALB concentration were measured. Kaplan-Meier curve analysis and Cox proportional hazards regression model were performed to evaluate the associations between ALB concentration and overall survival (OS) of EC patients. <b>Results:</b> The EC patients with lower preoperative serum ALB concentration exhibited a significantly poorer OS (p &lt; 0.05). Univariate analysis and multivariate analysis indicated that serum ALB concentration was an independent prognostic factor of unfavorable OS for EC patients. <b>Conclusion:</b> Our results showing that ALB concentration may serve as an independent prognostic factor for EC patients.

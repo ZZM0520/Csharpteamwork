@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11037521/
+title=Endometrial cancer of the uterus. American College of Radiology. ACR Appropriateness Criteria.
+from:Radiology
+time=2000 Jun
+abstract: 

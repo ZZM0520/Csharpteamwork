@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30907671/
+title=Cadmium: a new risk factor for endometrial cancer?
+from:Expert Rev Anticancer Ther
+time=2019 May
+abstract: 

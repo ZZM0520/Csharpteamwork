@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12838154/
+title=Endometrial cancer. Watching for the warning signs.
+from:Mayo Clin Womens Healthsource
+time=2003 Jun
+abstract: 

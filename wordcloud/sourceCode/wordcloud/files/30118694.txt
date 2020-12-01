@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30118694/
+title=Prevalence of endometrial cancer or atypical hyperplasia diagnosed incidentally in infertility clinic.
+from:Am J Obstet Gynecol
+time=2018 Nov
+abstract: 

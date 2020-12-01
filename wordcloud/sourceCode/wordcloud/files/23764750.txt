@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23764750/
+title=Does thyroid-stimulating hormone influence the prognosis of patients with endometrial cancer? A multicentre trial.
+from:Br J Cancer
+time=2013 Jul 9
+abstract: Background:Thyroid function has been suggested to interfere with tumour biology and prognosis in different cancers. The present study was performed to investigate the impact of pre-therapeutic serum thyroid-stimulating hormone (TSH) levels on the prognosis of patients with endometrial cancer.Methods:Pre-therapeutic serum TSH was investigated in 199 patients with endometrial cancer. After stratification in TSH risk groups, univariate and multivariable survival analyses were performed.Results:Elevated TSH was independently associated with poor disease-specific survival in univariate/multivariable survival analyses (P=0.01 and P=0.03, respectively).Conclusion:Thyroid-stimulating hormone may serve as a novel and independent prognostic parameter for disease-specific survival in patients with endometrial cancer.

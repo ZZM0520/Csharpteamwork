@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7853290/
+title=Endometrial cancer in a double uterus. A report of two cases.
+from:J Reprod Med
+time=1994 Nov
+abstract: Two cases of double uteri associated with endometrial adenocarcinoma are presented. A correct diagnosis in this situation may be difficult to make due to anatomic difficulties or the unrecognized presence of a second uterine cavity. Ultrasound imaging should be considered to look for a second uterine cavity after a negative endometrial biopsy when clinically suspecting endometrial cancer.

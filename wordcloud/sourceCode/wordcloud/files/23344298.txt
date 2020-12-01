@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23344298/
+title=In reply: risk factors for developing endometrial cancer.
+from:Obstet Gynecol
+time=2013 Feb
+abstract: 

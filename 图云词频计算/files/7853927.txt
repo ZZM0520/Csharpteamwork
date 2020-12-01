@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7853927/
+title=[Should gynecologists discontinue curettage? Ultrasound is better in the diagnosis of endometrial cancer].
+from:Lakartidningen
+time=1995 Feb 8
+abstract: 

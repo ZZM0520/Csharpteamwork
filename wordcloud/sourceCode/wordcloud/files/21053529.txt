@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21053529/
+title=To stage or not to stage? That is the question: (with apologies to Shakespeare).
+from:Int J Gynecol Cancer
+time=2010 Oct
+abstract: The International Federation of Gynecology and Obstetrics staging rules for endometrial cancer require pelvic and para-aortic node dissection to define the extent of disease. Retrospective studies have reported improved survival in women who underwent lymphadenectomy compared with those who did not. This association may not be causally related because of bias. Recently reported prospective randomized trials of pelvic lymphadenectomy have failed to demonstrate a survival benefit. Critics of these trials remain skeptical because of perceived limitations in design, particularly the inclusion of non-high-risk women and the lack of full para-aortic lymphadenectomy. Until new trial evidence is produced to the contrary, routine lymphadenectomy cannot be recommended for endometrial cancer.

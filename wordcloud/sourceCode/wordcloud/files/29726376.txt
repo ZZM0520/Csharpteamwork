@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/29726376/
+title=Treatment toxicity in endometrial cancer: can we identify and manage it better?
+from:Lancet Oncol
+time=2018 May
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31049759/
+title=Immune check-point in endometrial cancer.
+from:Int J Clin Oncol
+time=2019 Aug
+abstract: Background:Endometrial cancer (EC) is one of the most frequent tumors in women. Despite recent advances in treatment approaches, the prognosis in advanced, recurrent, or metastatic disease remains poor. The aim was to provide the clinician with an update, the current status, and the new developments in the management of EC. Based on the new EC molecular classification, we focused on the impact of immune check-point inhibitors.Methods:Pivotal trials, published literature, and conference proceedings were reviewed. PubMed and Scopus databases were searched to select English-language articles.Results:Immune check-point inhibitors are the subject of ongoing studies and their benefit seems to be related to microsatellite instability (MSI) status.Conclusions:Immune check-point inhibitors should be considered a promising treatment option to better personalize therapeutic strategies in EC.

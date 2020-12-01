@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9045311/
+title=Endometrial cancer: incidence, prognostic factors, diagnosis, and treatment.
+from:Semin Oncol
+time=1997 Feb
+abstract: Endometrial cancer is the most common gynecologic malignancy seen in the United States. Risk factors include unopposed estrogen (both endogenous and exogenous). Since tamoxifen is said to have weak estrogen activity, it has been suggested that tamoxifen may cause endometrial cancers. Of the 15 studies reported (clinical trials, prevalence, cross-sectional, and case control), 12 showed no relationship, two noted an increased incidence of endometrial cancer, and one noted a decreased incidence. When one considers the increased incidence of endometrial cancer in breast cancer patients, potential surveillance and ascertainment bias, latency, and occult endometrial cancers, it appears that there is a very small, if any, association of tamoxifen and endometrial cancer. In the asymptomatic patient on tamoxifen, routine yearly gynecologic examinations are recommended. Special studies to evaluate the endometrium do not appear to be indicated in the asymptomatic patient.

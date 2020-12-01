@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27352572/
+title=Preserving fertility in women with endometrial cancer: two clinical cases.
+from:Eur J Gynaecol Oncol
+time=2016
+abstract: Endometrial cancer is diagnosed increasingly in young women who wish to have children, and treatments intended to preserve fertility in these patients are becoming more common. The authors describe two women with endometrial cancer who were diagnosed and treated at our center and who needed assisted human reproductive technology, and review current knowledge based on similar cases.

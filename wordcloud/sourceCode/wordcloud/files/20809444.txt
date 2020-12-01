@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20809444/
+title=An update on endometrial cancer.
+from:Tex Med
+time=2010 Sep 1
+abstract: 

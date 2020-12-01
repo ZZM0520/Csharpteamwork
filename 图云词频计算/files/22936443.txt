@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22936443/
+title=Hypoxia-induced factor-1alpha in endometrial carcinoma: a mini-review of current evidence.
+from:Histol Histopathol
+time=2012 Oct
+abstract: Despite the well-established role of hypoxia in cancer biology, the literature on its effects on endometrial cancer is scarce; it mainly refers to experimental settings rather than patient-derived results. Herein, an overview of the hypoxia inducible factor 1α (HIF-1α) biology, focusing on endometrial cancer, is presented. The molecular mechanisms possibly involved in endometrial cancer progression are presented, followed by a systematic approach to the current literature on immunohistochemistry evaluation of HIF-1α expression in endometrial carcinoma. Since no consensus has been made regarding HIF-1α evaluation, the evidence of possible involvement of HIF-1α in endometrial carcinoma prognosis is weak. After a consensus has been made, properly powered studies may be able to clarify whether HIF-1α can act as a prognosticator in endometrial carcinoma.

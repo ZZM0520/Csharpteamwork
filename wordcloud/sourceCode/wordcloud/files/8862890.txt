@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8862890/
+title=Surgical staging endometrial cancer.
+from:Clin Obstet Gynecol
+time=1996 Sep
+abstract: Nothing improves the subsequent care of a woman with endometrial cancer more than the accurate determination of the extent of her disease. A significant number of women whose malignancy is apparently confined to the uterus will have extrauterine disease after careful, complete surgical staging. The failure to detect and effectively treat unrecognized metastatic disease can have fatal consequences; the decision to prescribe potentially harmful therapy to women who do not have metastatic disease also has deleterious effects. Although the optimal surgical management of any patient must be individualized, careful and complete surgical staging at the time of hysterectomy offers the most complete data for future management.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25967933/
+title=Laparoscopic Sentinel Node Biopsy Using Real-time 3-dimensional Single-photon Emission Computed Tomographic Guidance in Endometrial Cancer.
+from:J Minim Invasive Gynecol
+time=2015 Sep-Oct
+abstract: In endometrial cancer, the histopathological analysis of the lymphatic nodes is essential to establish a correct prognosis and tailored adjuvant treatment. It is well-known that patients with early-stage endometrial cancer have a low incidence of nodal disease. In this group, systematic lymphadenectomy is not recommended. To improve the detection rate of sentinel nodes in clinical practice, new techniques are emerging like real-time 3-dimensional single-photon emission computed tomographic (SPECT) imaging. We report our experience using this innovative technique for intraoperative detection of sentinel nodes in endometrial cancer. The real-time 3-dimensional SPECT sentinel node biopsy seems to be feasible and accurate in endometrial cancer although further studies are needed to set the precision and predictive values compared with the current differed SPECT techniques and blue dye techniques. 

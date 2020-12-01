@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18177829/
+title=Laparoscopy-assisted vaginal hysterectomy compared with abdominal hysterectomy in clinical stage I endometrial cancer.
+from:Am J Obstet Gynecol
+time=2008 Mar
+abstract: 

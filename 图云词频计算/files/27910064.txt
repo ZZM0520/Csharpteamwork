@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27910064/
+title=Clinical Behavior and Treatment of Endometrial Cancer.
+from:Adv Exp Med Biol
+time=2017
+abstract: Endometrial cancer is the most common gynecologic malignancy diagnosed in women in the developed nations. It affects a disproportionate number of reproductive-aged women. While the overall prognosis is good compared to other cancers affecting women, the pathogenesis and clinical behavior of endometrial cancer are heterogeneous. The risk factors associated with the type I and type II endometrial cancers and their pathogenesis will be discussed, as well as the evaluation and primary treatment of women with endometrial cancer. The chapter will also focus on risk stratification for recurrence after surgery and role of adjuvant treatments. Finally, the treatment of recurrent endometrial cancer will be presented.

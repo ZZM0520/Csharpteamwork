@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21436698/
+title=Is lymphadenectomy justified in endometrial cancer?
+from:Int J Gynecol Cancer
+time=2011 Apr
+abstract: Endometrial cancer has in the meantime become the most frequent malignant tumor of the female genital tract. With a 5-year survival rate of 82% for all stages and more than 90% for the most common stage I, it is a carcinoma with an excellent prognosis. Against this background and in light of the results of recent studies, the value of extensive surgical staging including pelvic and para-aortic lymphadenectomy beyond the standard therapy of hysterectomy with bilateral adnexectomy must be questioned.

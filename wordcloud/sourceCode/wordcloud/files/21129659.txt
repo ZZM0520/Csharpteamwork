@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21129659/
+title=[Endometrial cancer].
+from:Cancer Radiother
+time=2010 Nov
+abstract: Endometrial cancers are frequent and affect mainly postmenopausal women. They are mostly diagnosed at an early stage with an excellent prognosis. Surgery is the reference for a precise FIGO staging who guide adjuvant treatment. Tumor extension, grade, myometrium invasion and involved lymph nodes will be discriminating in therapeutic strategy. The management of stages I and II has been recently amended by ESMO, who proposed surveillance, brachytherapy, and radiation therapy followed by brachytherapy for respectively low, intermediate and high risk groups. These recommendations are controversial and must be confirmed. Locally advanced stages represent a heterogeneous population in which surgery should be proposed if it is feasible then followed by radiotherapy and/or chemotherapy. Based on an illustrated clinical case, indications, delineation, dosimetry and complications expected with radiotherapy are demonstrated.

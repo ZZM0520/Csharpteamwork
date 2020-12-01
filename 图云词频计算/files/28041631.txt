@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28041631/
+title=Targeting fibroblast growth factor pathways in endometrial cancer.
+from:Curr Probl Cancer
+time=2017 Jan-Feb
+abstract: Novel treatments that improve outcomes for patients with recurrent or metastatic endometrial cancer (EC) remain an unmet need. Aberrant signaling by fibroblast growth factors (FGFs) and FGF receptors (FGFRs) has been implicated in several human cancers. Activating mutations in FGFR2 have been found in up to 16% of ECs, suggesting an opportunity for targeted therapy. This review summarizes the role of the FGF pathway in angiogenesis and EC, and provides an overview of FGFR-targeted therapies under clinical development for the treatment of EC.

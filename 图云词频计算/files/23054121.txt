@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23054121/
+title=The increasing credibility of sentinel lymph node mapping in endometrial cancer.
+from:Ann Surg Oncol
+time=2013 Feb
+abstract: 

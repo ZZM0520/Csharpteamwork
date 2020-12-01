@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22236833/
+title=[Endometrial cancer: place for adjuvant chemotherapy].
+from:Bull Cancer
+time=2012 Jan
+abstract: Endometrial cancer is the most common gynaecological cancer in western countries. Radiotherapy remains the mainstay of postoperative management, but accumulating data show that adjuvant chemotherapy may display promising results after surgery. Characteristic features of the patients and disease, type of treatment including modality of surgery, radiation and chemotherapy are different from studies reported. The results from these trials are inconsistent but certain groups of patients with high-risk features could have advantage to adjuvant chemotherapy. The indication of adjuvant chemotherapy must be discussed in this situation taking into account the patient's profile with potential comorbidities and risk of toxicities.

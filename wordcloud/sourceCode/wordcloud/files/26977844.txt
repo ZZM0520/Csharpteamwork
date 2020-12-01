@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26977844/
+title=Endometrial (Uterine) Cancer: What You Need to Know.
+from:Am Fam Physician
+time=2016 Mar 15
+abstract: 

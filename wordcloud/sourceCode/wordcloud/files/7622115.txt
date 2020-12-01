@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7622115/
+title=Conservative treatment of endometrial cancer permitting subsequent triplet pregnancy.
+from:Gynecol Oncol
+time=1995 Aug
+abstract: We report on a 28-year-old woman who received conservative treatment of endometrial carcinoma by curettage and progestins. After regression of endometrial lesions the patient's infertility was treated by gamete intrafallopian transfer (GIFT). Intact triplet pregnancy was diagnosed 3 weeks later. The patient was delivered of three infants by caesarean section following premature rupture of membranes at 30 weeks of gestation. Subsequent standard treatment of endometrial cancer by abdominal hysterectomy and bilateral salpingo-oophorectomy after 4 weeks revealed no clinical or histological evidence of persistent carcinoma. One year after surgery the patient remained without evidence of disease. We believe that individualized cancer therapy may be safely performed in carefully selected cases.

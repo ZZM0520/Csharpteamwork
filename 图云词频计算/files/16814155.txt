@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16814155/
+title=The role of radiation therapy in locally advanced endometrial cancer.
+from:Semin Radiat Oncol
+time=2006 Jul
+abstract: Locally advanced endometrial cancer comprises those patients considered at high risk for recurrence of disease and death from cancer, which include patients with pathologic stage III and IV endometrioid adenocarcinoma and patients with uterine papillary serous carcinoma regardless of stage. The management of locally advanced endometrial cancer patients remains an evolving issue. The primary treatment for these patients is surgical resection. Controversy exists over the optimal adjuvant treatment, particularly in patients whose disease is completely resected. This article addresses the role of adjuvant radiation therapy for these locally advanced high-risk endometrial cancer patients. In addition, this article reviews the current data and treatment approaches using radiation therapy in the management of these high-risk patients.

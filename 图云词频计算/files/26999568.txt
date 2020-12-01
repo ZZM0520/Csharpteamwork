@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26999568/
+title=The clinical management of inoperable endometrial carcinoma.
+from:Expert Rev Anticancer Ther
+time=2016 May
+abstract: Unresectable endometrial cancer, while rare, has a very poor prognosis, with a survival rate of 2 to 8 months. Although endometrial cancer is generally regarded as a survivable disease, the less common advanced and aggressive forms account for a large portion of endometrial cancer related deaths. Given the paucity of inoperable disease, randomized clinical data is lacking in this specific patient population. Management decisions regarding radiation therapy or systemic therapy are largely guided by the existing data in the setting of recurrence or second-line treatment, adjuvant therapy following optimal debulking, or in patients who are considered inoperable due to medical comorbidities rather than the extent of their disease. 

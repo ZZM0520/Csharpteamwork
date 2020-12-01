@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9275447/
+title=[Modern veiws on pathological classification, therapy and the factors affecting prognosis in endometrial cancer].
+from:Zhonghua Fu Chan Ke Za Zhi
+time=1996 Aug
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16302726/
+title=Multiple roles of cyclooxygenase-2 in endometrial cancer.
+from:Anticancer Res
+time=2005 Nov-Dec
+abstract: Cyclooxygenase-2 (COX-2) plays a critical role not only in maintenance of the endometrium during the menstrual cycle, but also in the progression of endometrial cancer. The role of COX-2 in tumor growth and development is complex and multifaceted. This review presents evidence for the expression of COX-2 being linked to angiogenesis, tumor cell apoptosis, tumor cell growth, metastasis and local immunosuppression in cancer progression. It also outlines the clinicopathological and prognostic significance of COX-2 in endometrial cancer.

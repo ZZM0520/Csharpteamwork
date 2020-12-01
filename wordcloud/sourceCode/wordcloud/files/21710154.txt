@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21710154/
+title=Inguinal recurrence of early stage endometrial cancer after 7 months of surgical staging: the role of PET-CT in diagnosis and management.
+from:Int J Clin Oncol
+time=2012 Jun
+abstract: The inguinal area is an unexpected recurrence site for early stage endometrial cancer. A 45 year old woman who underwent surgical staging for endometrial cancer presented with a right groin mass at the seventh month of follow-up. Fluorine-18 fluorodeoxyglucose positron emission tomography-computed tomography (PET-CT) revealed pathologic activity accumulation in only the inguinal mass and no distant metastasis. Based on the PET-CT results, local treatment for the isolated single recurrence was chosen instead of a systemic treatment option. The mass was excised with right inguinal superficial lymph node dissection. Histopathologic examination revealed the recurrence of an endometrioid-type adenocancer. In conclusion, the inguinal region should be considered for recurrences, even at the early stage. PET-CT may be a helpful method for diagnosis, excluding systemic metastasis, and planning the treatment in such cases.

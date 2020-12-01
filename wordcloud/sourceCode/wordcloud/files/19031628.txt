@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19031628/
+title=[Endometrial cancer].
+from:J Gynecol Obstet Biol Reprod (Paris)
+time=2008 Jul
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12414823/
+title=Family history of breast cancer as a determinant of the risk of developing endometrial cancer: a nationwide cohort study.
+from:J Med Genet
+time=2002 Nov
+abstract: 

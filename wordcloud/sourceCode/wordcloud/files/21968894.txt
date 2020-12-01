@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21968894/
+title=[Endometrial cancer - state of the art].
+from:Ther Umsch
+time=2011 Oct
+abstract: Endometrial cancer is the most common genital malignant tumor in women in industrial countries. The typical symptoms are postmenopausal bleeding or metrorrhagia. Following anamneses, clinical examination and transvaginal sonography, histological confirmation is obtained by dilation and curettage. Hysterectomy, bilateral salpingo-oophorectomy and according to tumor stage pelvic and paraaortic lymphadenectomy are the mainstay of surgical treatment that is performed more and more often by laparoscopy. Adjuvant pelvic external beam radiation or vaginal brachytherapie are added if indicated. In certain situations adjuvant chemotherapy is necessary. Follow-up by clinical examination and transvaginal sonography are reasonable for the first few postoperative years.

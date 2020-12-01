@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20168122/
+title=Evaluation of two management strategies for preoperative grade I endometrial cancer.
+from:Obstet Gynecol
+time=2009 Nov
+abstract: 

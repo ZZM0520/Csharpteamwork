@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10443240/
+title=[The effect of live tularemia vaccination on the short- and long-term results of combined therapy of patients with endometrial cancer].
+from:Vopr Onkol
+time=1999
+abstract: A randomized investigation of the immediate (wound healing) and end-results (relapse and metastasis frequency, recurrence-free period, 2-, 3- or 5-year survival, lethality rate and mean lifespan) of combined (surgery + distant gamma-therapy) treatment of two groups of patients with endometrial carcinoma was carried out. The study group was operated on days 15-20 after immunization with tularemia live vaccine (TLV) while the controls were had no preliminary immunization. It was shown that all indices of the immediate and end-results of treatment were significantly better in the study group for all stages. It is concluded that TLV immunization given 15-20 days before surgery is followed by a lower frequency of postoperative complications and better end-results.

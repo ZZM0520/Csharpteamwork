@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22212613/
+title=[Radiation therapy versus chemoradiation as adjuvant treatment in high-risk endometrial cancer].
+from:Bull Cancer
+time=2012 Jan
+abstract: Endometrial cancer is a common malignancy. Management of these tumors depends on several risk factors such as FIGO staging, myometrial invasion, histology or pelvic lymph node involvement. According to those factors, low risk, intermediate and high risk groups were defined. A high risk endometrial cancer has a poorer prognostic and more risks of recurrence. Treatment of such disease should be more aggressive. However modalities of these treatments have not yet been clearly defined.

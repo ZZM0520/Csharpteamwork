@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9625439/
+title=Prolonged remission of endometrial cancer with paclitaxel and carboplatin.
+from:Anticancer Drugs
+time=1998 Mar
+abstract: Recurrent endometrial cancer has grave prognosis. Chemotherapy and hormonal therapy are mainstays of palliative treatment. Unfortunately the frequency of complete response and duration of progression-free interval are limited. This case report describes a patient with recurrent metastatic endometrial cancer who was initially treated with radiotherapy followed by surgery. Her recurrent tumor progressed during treatment with external radiation and a progestogen. She received paclitaxel (135 mg/m2 i.v. infusion over 24 h) and carboplatin (AUC 7.5 microg x h/ml) every 4 weeks with complete remission after 8 months which has persisted for 22 months. Paclitaxel and carboplatin combination should be considered for the treatment of endometrial cancer.

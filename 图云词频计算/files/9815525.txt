@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9815525/
+title=[Hormone replacement therapy and endometrial cancer].
+from:Gynakol Geburtshilfliche Rundsch
+time=1998
+abstract: It is well known that the endometrial cancer risk can be diminished by adding progestin to the estrogen regimen. By the time, there seems to be no evidence that estrogen increases the risk of recurrence after treatment for endometrial cancer in early-stage disease. In the treatment of osteoporosis, vasomotor symptoms, and cardiovascular diseases hormone replacement therapy has to be given. Informed consent, patient desire and risk-benefit considerations must be included into the decision on estrogen replacement therapy, as long as there is no prospective trial to resolve the controversy.

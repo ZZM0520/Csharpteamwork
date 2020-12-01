@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21319507/
+title=Comparison of histopathologic classification and surgical stage by cytokeratin 8 and cytokeratin 18 in endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=2010
+abstract: Purpose of investigation:The aim of the study was to show the role of the cytoskeletal proteins CK8 and CK18 in endometrial cancer invasion and to histopathologically classify endometrial cancer patients.Methods:This study was a prospective analysis of 49 histologic samples of consecutively surgically operated endometrial cancer patients. After histopathologic classification the most invasive tumor area was selected for immunohistochemistry. Monoclonal antihuman keratin Ab-4 and keratin Ab-1 were applied.Results:CK8 and CK18 stained tumoral tissue and tumoral cell debris in the lymphovascular space were significantly correlated with stage (p &lt; or = 0.005).Conclusions:To understand the causes of early treatment failure in endometrial cancer patients, further studies are needed to show the role of enhancing factors of endometrial cancer invasion.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18760653/
+title=[Adjuvant therapy and role of radiation therapy in advanced endometrial cancers].
+from:Cancer Radiother
+time=2008 Nov
+abstract: The treatment of patients with endometrial cancer is rapidly evolving. Literature data give more information on prognostic factors, allowing treatment stratification. If treatment has become less heavy in early-stage disease, therapeutic approaches have become more aggressive in more advanced disease. In this situation, treatment combines external irradiation and chemotherapy. Despite these advances, numerous questions remain on the best therapeutic sequence. Optimal chemotherapy regimens remain to be determined. On-going randomized trials will help to answer these questions.

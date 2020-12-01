@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27183849/
+title=New risk loci for endometrial cancer identified.
+from:Lancet Oncol
+time=2016 Jun
+abstract: 

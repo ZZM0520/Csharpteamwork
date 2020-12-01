@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7921803/
+title=[Cytologic method for the assessment of pathomorphology in the comprehensive therapy of endometrial cancer].
+from:Klin Lab Diagn
+time=1994
+abstract: The share of endometrial cancer cases in the structure of female genital cancer morbidity increased of late. Advanced age of a patient, presence of concomitant diseases (diabetes mellitus, essential hypertension, disorders in heart work and fatty metabolism) are contraindications against surgical interventions; hence, combined radiotherapy is the only treatment modality permissible. Cytologic methods, among other things, are used to assess the efficacy of radiotherapy. The present research demonstrated the potentialities of the cytologic method in assessment of the efficacy of combined radiotherapy of endometrial cancer using metronidazole and of the specificities of combined radiation exposure effects on tumor cells. The author analyzes case histories of 160 patients with endometrial cancer; 97 of these were administered metronidazole, 63 were controls.

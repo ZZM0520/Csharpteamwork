@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16765558/
+title=Management of endometrial cancer.
+from:Eur J Surg Oncol
+time=2006 Oct
+abstract: Aim:To review broadly the diagnosis and treatment of endometrial cancer, concentrating on the evidence base.Methods:The peer reviewed literature has been cited selectively to support the principal themes of the review.Results:A rising incidence of endometrial cancer will continue to present challenges to improve survival particularly for high-risk and advanced disease. Lymphadenectomy and adjuvant radiotherapy are and will be used more rationally as evidence for their effectiveness accumulates.Conclusions:The area of greatest need in endometrial cancer is now to improve outcomes for women with advanced/recurrent disease.

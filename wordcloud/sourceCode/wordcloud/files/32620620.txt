@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/32620620/
+title=Molecular Characterization of Second Primary Endometrial Cancer.
+from:Anticancer Res
+time=2020 Jul
+abstract: Background/aim:The objective of this study was to determine the molecular and clinicopathological features, as well as the prognosis of patients with endometrial cancer (EC) having prior malignancy (second primary EC: SPEC) compared with those without a history of prior malignancy (first primary EC: FPEC).Materials and methods:We enrolled 294 FPEC patients and 32 SPEC patients who had undergone surgical resection with curative intent. EC was divided into four groups according to Cancer Genome Atlas Research Network (TCGA) classification.Results:SPEC patients having greater than a 10-year interval from prior malignancy had risk factors including type II histology, deeper myometrial invasion, cervical invasion, and copy number high (CNH) phenotype compared with patients having less than a 10-year interval (p=0.007, p=0.002, p=0.015 and p=0.001).Conclusion:SPEC patients having greater than a 10-year interval from prior malignancy possessed numerous high-risk factors for EC.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9887226/
+title=Surgical staging of endometrial cancer: does the patient benefit?
+from:Gynecol Oncol
+time=1998 Dec
+abstract: 

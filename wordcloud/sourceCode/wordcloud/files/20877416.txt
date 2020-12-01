@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20877416/
+title=Radiotherapy: Intermediate-risk endometrial cancer--adjuvant treatment.
+from:Nat Rev Clin Oncol
+time=2010 Oct
+abstract: 

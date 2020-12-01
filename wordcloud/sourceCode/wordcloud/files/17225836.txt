@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17225836/
+title=Racial and ethnic disparities in cancers of the uterine corpus.
+from:J Natl Med Assoc
+time=2006 Dec
+abstract: Survival after diagnosis of cancer of the uterine corpus is significantly worse in black women as compared with white women. The etiology of the racial and ethnic disparities that exist in endometrial cancer incidence and outcome is multifactorial and complex. Potential explanations include cancer biology, differences in access to care, sociodemographic characteristics, response to treatment and comorbid factors. In this article, a review was performed to assess the magnitude and reasons for the observed disparity in endometrial cancer mortality. Strategies and recommendations to reduce or eliminate differences in endometrial cancer outcome are explored. These include advocacy for more research to clarify the underlying causes of cancer disparities at all levels, including the molecular basis of disparate outcomes, improving access to quality healthcare services, establishing culturally competent models of healthcare delivery, and developing novel cost-effective screening and early prevention methods.

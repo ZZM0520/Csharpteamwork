@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17955798/
+title=[Is diagnostic curettage sufficient prior to endometrial ablation? Case of an early stage endometrial cancer].
+from:Ceska Gynekol
+time=2005 Nov
+abstract: Objective:To demonstrate a case of unrecognized endometrial cancer at endometrial ablation.Subject:Case report.Setting:Department of Obstetrics and Gynaecology and Department of Pathology, Jessenius Faculty Hospital, Martin, Slovakia.Subject and method:Authors describe a case of an early endometrial cancer diagnosed from material obtained by bipolar loop electrode during endometrial ablation.Conclusion:Authors poing out insufficiency of curettage as a method of endometrial biopsy prior to ablation. Using of the loop electrode may minimize the incidence of unrecognized malignancies.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16364689/
+title=Screening and the prevention of gynecologic cancer: endometrial cancer.
+from:Best Pract Res Clin Obstet Gynaecol
+time=2006 Apr
+abstract: Over the years, endometrial cancer has remained the most common gynecologic malignancy in the United States. Two categories of endometrial cancer exist: type I and type II. Type I cancers constitute the majority of cases of endometrial cancer, and the risk factors for this type have been studied in greatest detail. These cancers are driven by estrogen, and many of the risk factors are directly or indirectly linked to a state of excessive estrogen. Protective factors seem to be related to conditions that may result in decreased estrogen exposure. Cure rates for endometrial cancer remain high, mainly because of the early stage at which the majority of cases present. Warning signs of abnormal vaginal bleeding or discharge allow detection of these cancers in their early stages. Screening for these cancers is not effective and often leads to additional unnecessary tests; thus, it is not currently recommended in the general population.

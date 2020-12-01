@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26958135/
+title=Endometrial carcinoma located in the right septate uterus cavity: a case report.
+from:Pan Afr Med J
+time=2015 Nov 20
+abstract: Endometrial cancer in patients with uterine congenital malformations is exceptional and there are only a few rare cases published in the literature. We report the case of a 67 years-old patient with an endometrial cancer located in the right cavity of a complete septate uterus. 

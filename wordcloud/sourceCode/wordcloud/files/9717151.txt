@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9717151/
+title=[Early detection of endometrial cancer].
+from:Med Clin (Barc)
+time=1998 Jul 4
+abstract: 

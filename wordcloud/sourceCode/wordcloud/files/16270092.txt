@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16270092/
+title=What influence does hormone replacement therapy have on endometrial cancer risk?
+from:Nat Clin Pract Oncol
+time=2005 Nov
+abstract: 

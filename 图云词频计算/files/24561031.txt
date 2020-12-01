@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24561031/
+title=Improving oncologic outcomes for women with endometrial cancer: realigning our sights.
+from:Gynecol Oncol
+time=2014 May
+abstract: This review will examine existing results on the postoperative treatment of women with high-risk and advanced stage endometrial cancer. Preliminary data suggests that response to treatment is highly dependent on both grade and stage. It is hoped that this discussion will highlight deficiencies in our collective knowledge base to be addressed in future clinical trials for the benefit of women with endometrial cancer. 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8500501/
+title=Endometrial cancer treatment today.
+from:Eur J Gynaecol Oncol
+time=1993
+abstract: The Authors stress the role of surgery in the clinical management of endometrial cancer. The half Century case-series of Padua Gynaecologic Institute is considered.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11601073/
+title=[Diagnosis of endometrial cancer].
+from:Rev Prat
+time=2001 Sep 1
+abstract: Endometrial cancer, a hormone-related disease with unopposal hyperestrogenemia as one of its major risk factor is usually diagnosed during post menopausal bleeding. Pathologic examination after endometrial biopsy or curettage is mandatory for the diagnosis before any treatment. The 2 first line procedures in the work up are transvaginal ultrasound with colour Doppler and hysteroscopy. Currently, there is not any cost-effective screening test for the early detection of endometrial cancer.

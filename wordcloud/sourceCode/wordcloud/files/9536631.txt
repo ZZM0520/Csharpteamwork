@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9536631/
+title=[Estrogen replacement to women treated for endometrial cancer].
+from:Ugeskr Laeger
+time=1998 Mar 16
+abstract: Oestrogen replacement therapy in women treated for endometrial cancer has long been considered contra-indicated. Based on a review of the literature, which shows a low risk of recurrence during oestrogen replacement therapy in women treated for low-risk endometrial cancer, we advocate that this group of patients could be offered oestrogen replacement therapy and be provided with the benefits of prevention of cardiovascular disease and osteoporosis. Further studies are needed to investigate the survival and recurrence rates of high-risk patients treated with oestrogen replacement therapy.

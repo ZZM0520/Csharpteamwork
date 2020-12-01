@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11965713/
+title=[Primary hormone treatment of early endometrial cancer].
+from:Akush Ginekol (Sofiia)
+time=1999
+abstract: Six cases of primary treated endometrial cancer are included in this research work. Five of these women ended with tumour regression and 2 with pregnancies and deliveries of children. All of the women are still alive without having disease with mean follow-up period of 36.5 months (from 16 to 80 months). We consider that this is very promising method of treatment to offer y conservative treatment with high level of survival and possibility for having y child. Diagnostic and therapeutic data for the patients who are with early endometrial cancer and wish to have y child are analyised in this study. Four of the women were treated with GnRh-analogs-Zoladex and 2 with progestins-high doses.

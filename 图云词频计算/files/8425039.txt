@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8425039/
+title=Adenocarcinoma of the uterine corpus.
+from:Curr Opin Obstet Gynecol
+time=1993 Feb
+abstract: Carcinoma of the endometrium is the most common malignancy seen in the female pelvic genital organs. Fortunately, survival is high because most patients are diagnosed in the early stage of the disease. As a result of studies identifying important prognostic factors and a significant number of patients with early clinical stage having extrauterine disease, surgical staging has been adopted for this disease entity. Knowing the exact extent of the disease allows more appropriate adjuvant therapy to be applied postoperatively. It is apparent that the patient with surgical stage I cancer needs radiation therapy only rarely, which obviously saves time and expense and reduces complications. Many patients who have been successfully treated for endometrial cancer may and should enjoy the benefits of estrogen replacement therapy without the risk of increased recurrence of their disease.

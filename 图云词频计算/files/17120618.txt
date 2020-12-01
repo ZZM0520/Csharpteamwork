@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17120618/
+title=Association of promoter hypermethylation of the RASSF1A gene with prognostic parameters in endometrial cancer.
+from:Oncol Res
+time=2006
+abstract: RASSF1A is a tumor suppressor gene that is frequently hypermethylated in various human cancers. In the present study, we examined RASSF1A methylation status in 70 patients with endometrial cancer to search for correlations between the promoter hypermethylation of RASSF1A and the clinicopathologic parameters. Thirty-six of 70 endometrial cancers demonstrated hypermethylation of the RASSF1A promoter. Advanced stage disease (FIGO stage III, IV), lymph node involvement, and high grade (G3) are more frequent in patients with RASSF1A hypermethylation than in those without. We also observed a higher incidence of recurrences and lower disease-free survival (DFS) in patients with RASSF1A hypermethylation (77.8% and 97.0% at 5 years for methylated and unmethylated patients, respectively, p = 0.039). Our results suggest that RASSF1A hypermethylation might be a useful indicator of tumor aggressiveness in endometrial cancer patients.

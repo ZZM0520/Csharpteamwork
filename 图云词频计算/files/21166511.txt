@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21166511/
+title=Unresolved issues in the management of endometrial cancer.
+from:Expert Rev Anticancer Ther
+time=2011 Jan
+abstract: Endometrial cancers are the most common gynecological malignancies in developed countries. Surgery is the main treatment modality but radiotherapy and, increasingly, chemotherapy are used to treat women with advanced disease and those at high risk of recurrence. Although the treatment of endometrial cancer is becoming increasingly evidence based, there remains a lack of consensus in several aspects of management. These include issues related to the type and extent of surgery and the role of adjuvant treatments as well as more conservative treatment options for younger women. This article discusses these unresolved issues, the current evidence in these areas, and highlights where current research is attempting to answer some of the outstanding questions.

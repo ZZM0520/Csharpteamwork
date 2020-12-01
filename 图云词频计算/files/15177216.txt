@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15177216/
+title=[Conservative treatment of endometrial cancer and atypical hyperplasia].
+from:Gynecol Obstet Fertil
+time=2004 May
+abstract: Endometrial carcinoma is the most frequent pelvic cancer encountered in women. The discovery of an endometrial carcinoma in a woman seeking pregnancy cannot be considered as exceptional. The medical alternative to the classic radical surgical treatment is studied in a review. Treatment with progestins might be considered and discussed with the couple in special indications. The oncologic risk to which this treatment exposes is limited. However, the application and the surveillance of this therapeutic protocol must obey strict rules, in order to recognize without delay any resistance to treatment. The spontaneous fertility of such patients seems weak, most probably because of their age, but assisted reproductive techniques (ART) could be considered in particular cases. Secondary hysterectomy is controversial, but a recent tendency is to widen this practice is becoming apparent.

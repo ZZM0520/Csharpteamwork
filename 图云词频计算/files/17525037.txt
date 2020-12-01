@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17525037/
+title=Molecular determinants of invasion in endometrial cancer.
+from:Clin Transl Oncol
+time=2007 May
+abstract: Endometrial carcinoma is the most common gynaecological malignancy in the western world and the most frequent among infiltrating tumours of the female genital tract. Despite the characterisation of molecular events associated with the development of endometrial carcinoma, those associated with the early steps of infiltration and invasion in endometrial cancer are less known. Deep myometrial invasion correlates with more undifferentiated tumours, lymph-vascular invasion, node affectation and decreased global survival. In this review we present an overview of the molecular pathology of myometrial infiltration that defines the initial steps of invasion in endometrial cancer. Down-regulation of E-cadherin as a main player of epithelial to mesenchymal transition, as well as modifications on other molecules involved in cell-cell contacts, render cells with a migratory phenotype. In addition, altered signalling pathways and transcription factors associate with myometrial invasion, histologic grade and metastasis.

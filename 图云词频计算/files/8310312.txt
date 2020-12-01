@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8310312/
+title=Endometrial cancer: prognostic factors.
+from:Semin Oncol
+time=1994 Feb
+abstract: 

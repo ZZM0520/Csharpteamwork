@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21908501/
+title=Endometrial cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.
+from:Ann Oncol
+time=2011 Sep
+abstract: 

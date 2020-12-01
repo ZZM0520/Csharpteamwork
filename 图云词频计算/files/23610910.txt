@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23610910/
+title=[Lymph node dissection in endometrial cancer type I].
+from:Akush Ginekol (Sofiia)
+time=2012
+abstract: The role of the lymphadenectomy (staging, prognostic, curative) as a part of surgical treatment of endometrial cancer type I is a subject of controversial discussions among oncogynecologists. In the present study has been presented the experience in the surgical management of endometrial cancer type I in one single institution. The incidence rate of lymph node metastases (LM) and the relationship between grading, stage, depth of myometrial invasion and LM have been revealed. The analysis of the results drew the conclusion that stage, grading and depth of myometrial invasion increase the risk of LM in women with endometrial cancer type I.

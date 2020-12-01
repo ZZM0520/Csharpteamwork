@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7978932/
+title=Tamoxifen and endometrial cancer.
+from:Ann N Y Acad Sci
+time=1994 Sep 30
+abstract: 

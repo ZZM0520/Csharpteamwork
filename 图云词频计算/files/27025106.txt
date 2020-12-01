@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27025106/
+title=[MICROSATELLITE INSTABILITY IN ENDOMETRIAL CANCER].
+from:Akush Ginekol (Sofiia)
+time=2015
+abstract: Microsatellite instability (MSI) is involved in the pathogenesis of about 30% of endometrial cancer cases. In accumulating data from the past few years MSI is shown to have both clinical and prognostic value. In the present work we are discussing the components and molecular mechanisms of functioning of the mismatch repair system (MMR). MSI is a hallmark of endometrial tumors with DNA MMR deficiency. We summarized the main pathways for accumulating mutations in coding and non-coding DNA sequences, which is a result of errors during replication of microsatellite tandem repeats. A few studies rising valuable conclusions about the correlation between MSI and endometrial cancer are revised.

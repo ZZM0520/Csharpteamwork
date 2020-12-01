@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7967971/
+title=[A woman with uterus bicornis unicollis. An anomaly "masked" endometrial cancer].
+from:Lakartidningen
+time=1994 Nov 2
+abstract: 

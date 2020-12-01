@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1511709/
+title=Role of vaginal surgery in the 1st stage endometrial cancer. Experience of the Florence School.
+from:Eur J Gynaecol Oncol
+time=1992
+abstract: The role of vaginal surgery in first stage endometrial carcinoma is reviewed. Out of total of 231 patients with endometrial cancer, observed at the Gynecologic Clinic of Florence from 1977 to 1981, 187 were at Stage I and 180 of them were submitted to surgery. During the period 1977-1979, the treatment protocol recommended vaginal hysterectomy; since 1980 abdominal surgery has prevailed. Depending on risk factors, adjunctive radiotherapy was employed. No statistically significant difference was observed in the actuarial survival curves between different surgery routes. However, severe complications and operative mortality was significantly lower in patients operated by vaginal hysterectomy. The vaginal route may be considered an adequate alternative therapy for endometrial carcinoma Stage I.

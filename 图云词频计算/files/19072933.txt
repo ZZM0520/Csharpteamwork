@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19072933/
+title=Issues surrounding lymphadenectomy in the management of endometrial cancer.
+from:J Surg Oncol
+time=2009 Mar 15
+abstract: The development of surgical staging in the management of endometrial cancer has arisen over the last several decades with anticipated benefits including prognostic information, tailoring of adjuvant treatment, and a possible therapeutic effect. This review addresses the important issues surrounding lymphadenectomy in endometrial cancer. Other issues including the use of sentinel lymph node techniques, advanced imaging modalities and the consideration of a binary grading system to simplify triaging of patients will also be discussed.

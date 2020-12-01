@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27861202/
+title=Novel approaches to early detection of endometrial cancer.
+from:Curr Opin Obstet Gynecol
+time=2017 Feb
+abstract: Purpose of review:Detection of endometrial cancer at an early stage leads to better oncologic outcomes. To date, a screening test for endometrial cancer does not exist.Recent findings:Evolving knowledge of molecular changes involved in endometrial cancer carcinogenesis paired with sensitive and high-throughput technological advancements are a promising combination that can be leveraged to detect tumor DNA and proteins. These molecular biomarkers can be identified in biospecimens collected via minimally invasive and noninvasive approaches. Exploiting lower genital tract secretions as a biospecimen also allows for patient self-sampling.Summary:Successful development of a screening test for endometrial cancer using self-collected lower genital tract biospecimens has the potential to increase accessibility to care and improve patient compliance.

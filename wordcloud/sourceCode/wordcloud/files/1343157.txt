@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1343157/
+title=[Familial-populational studies of endometrial cancer: segregation and genetic dispersion analyses].
+from:Vopr Onkol
+time=1992
+abstract: A clinico-genealogic investigation was carried out in 216 patients with endometrial cancer. Familial accumulation of endometrial and other cancer incidence was established. The segregation rates appeared to be lower than those expected from simple Mendelian models (2-11%). A multifactorial nature of endometrial cancer in overall susceptibility to the disease was found to be at 61%. A genetic correlation analysis showed endometrial cancer to share common genes with breast and gastric cancer in females. Tables of recurrent risk of the disease for relatives were prepared to be used in medico-genetic counseling.

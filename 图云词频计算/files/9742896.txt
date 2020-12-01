@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9742896/
+title=Contemporary issues in the management of endometrial cancer.
+from:CA Cancer J Clin
+time=1998 Sep-Oct
+abstract: Several important issues exist in the management of endometrial cancer, including the possible induction of endometrial cancer by tamoxifen: the newly developed surgical staging system; the increasing use of minimal-access surgery, including laparoscopy; the role of postoperative adjuvant therapy; the frequency and extent of follow-up visits and surveillance; and the use of estrogen replacement therapy in women with a history of endometrial cancer.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16533455/
+title=Endometrial cancer.
+from:J Obstet Gynaecol Can
+time=2006 Jan
+abstract: 

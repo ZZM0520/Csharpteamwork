@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24606597/
+title=Peritumoral enhancement in endometrial cancer on dynamic contrast-enhanced imaging: radiologic-pathologic correlation.
+from:J Obstet Gynaecol Res
+time=2014 May
+abstract: We report two cases of endometrial carcinoma in which peritumoral enhancement (PTE) was detected on dynamic contrast-enhanced (DCE) images and was compared with the pathologic findings. In the first case, DCE images showed subendometrial enhancement (SEE) disrupted by focally irregular PTE, reflecting the increased vascularity at the tumor attachment site. In the second case, DCE images revealed the presence of PTE as an irregular, thin-layered early enhancement, reflecting the increased vascularity at the tumor front. In similar cases, the presence of PTE should be recognized in order to avoid a possible misinterpretation as SEE. 

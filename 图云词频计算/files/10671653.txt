@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10671653/
+title=Complete surgical staging in endometrial cancer provides prognostic information only.
+from:Semin Radiat Oncol
+time=2000 Jan
+abstract: Endometrial cancer is the most common gynecologic malignancy in the United States. Surgical resection provides the best chance for cure and guides the potential need for adjuvant therapy. Controversy exists regarding the extent of surgical staging, in particular, the necessity and rationale for removing or sampling the draining lymphatics. An emerging practice in the United States is to perform more aggressive lymph node dissections. The data indicate that surgical staging provides prognostic information only and may indirectly influence survival only through guiding adjuvant therapy.

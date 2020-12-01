@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22274312/
+title=Re: the revised 2009 FIGO staging system for endometrial cancer: should the 1988 FIGO stages IA and IB be altered?
+from:Int J Gynecol Cancer
+time=2012 Feb
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19863460/
+title=Obesity and endometrial cancer: challenges for public health action.
+from:Womens Health (Lond)
+time=2009 Nov
+abstract: 

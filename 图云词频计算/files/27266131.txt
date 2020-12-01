@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27266131/
+title=[Diabetes mellitus and endometrial cancer].
+from:Nihon Rinsho
+time=2016 Apr
+abstract: 

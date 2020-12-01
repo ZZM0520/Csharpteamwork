@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19861581/
+title=Where is the future of endometrial cancer therapy?
+from:Ann Oncol
+time=2009 Nov
+abstract: 

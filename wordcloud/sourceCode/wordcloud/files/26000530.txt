@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26000530/
+title=Time interval between endometrial biopsy and surgical staging for type I endometrial cancer: association between tumor characteristics and survival outcome.
+from:Obstet Gynecol
+time=2015 Jun
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9111798/
+title=Endometrial cancer in Indian women.
+from:Natl Med J India
+time=1996 Nov-Dec
+abstract: 

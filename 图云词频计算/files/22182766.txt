@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22182766/
+title=[French recommendations for endometrial cancer 2010: clinical use and questions still debated].
+from:Bull Cancer
+time=2012 Jan
+abstract: Most of patients with endometrial cancer are diagnosed at an early stage and therapeutics should be more limited in order to decrease morbidity. New French recommendations have been published in 2010, integrating this objective of therapeutic de-escalation. This review presents the take home messages of these recommendations (pretherapeutic staging, new FIGO staging and its criticism, evolution of surgical treatment more limited for low risk patients, management of specific histology, postoperative treatment, follow up) and the possible difficulties in the daily use of these recommendations. Indeed, the current recommended management for endometrial cancer is more complex but the ultimate goal is to tailor treatment at best for each patient.

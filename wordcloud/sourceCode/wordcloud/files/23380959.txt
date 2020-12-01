@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23380959/
+title=MicroRNAs in endometrial cancer.
+from:Int J Clin Oncol
+time=2013 Apr
+abstract: MicroRNAs (miRNAs) are small non-coding ribonucleic acids (RNAs) of approximately 22 bp that induce RNA interference with a complementary messenger RNA (mRNA) and act in silencing of mRNA. miRNAs are strongly associated with cancer development and those involved in carcinogenesis are classified into oncogenic miRNAs and tumor suppressor miRNAs (tumor suppressor miRs). Specific miRNAs are expressed in various tissues and changes in regulation of gene expression are thought to cause carcinogenesis. Thus, tissue-specific miRNAs may be biomarkers for cancer diagnosis and prognosis. Approaches to application of miRNAs as cancer therapy are also ongoing, based on the involvement of miRNAs in carcinogenesis. In endometrial cancer, miRNAs are associated with regulation of gene expression, epigenetic dysfunction and carcinogenesis. Thus, miRNAs are likely to have key roles in diagnosis, prognostic prediction, and therapy in endometrial cancer.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30913308/
+title=Microsatellite instability in endometrial cancer: New purpose for an old test.
+from:Cancer
+time=2019 Jul 1
+abstract: Historically, microsatellite instability testing has been used to identify endometrial cancer patients with Lynch Syndrome. Now, it is also being used to identify those who may be immunotherapy candidates.

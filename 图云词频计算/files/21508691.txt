@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21508691/
+title=Management of endometrial cancer in young women.
+from:Clin Obstet Gynecol
+time=2011 Jun
+abstract: Endometrial cancer is the most common gynecologic cancer and its incidence is rising among premenopausal women. Hysterectomy and bilateral salpingo-oophorectomy, traditional treatment for endometrial cancer, causes loss of fertility and ovarian function, both of which can significantly negatively impact a young woman's physical and mental well-being. Recently, conservative management with progestational agents has been reported with success from both oncologic and reproductive perspectives. However, there are no randomized trials comparing conservative versus surgical therapy. Patients who are candidates for conservative therapy must be extensively counseled regarding the risks and must comply with close surveillance.

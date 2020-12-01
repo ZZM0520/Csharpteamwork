@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9537976/
+title=Endometrial cancer: current concepts and management.
+from:Surg Oncol Clin N Am
+time=1998 Apr
+abstract: Endometrial cancer is the most common pelvic gynecologic cancer in women. Its occurrence is associated with endometrial hyperplasia, unapposed estrogen therapy, and more recently, tamoxifen. The staging uses information obtained at the time of surgery. Hysterectomy continues to be the primary treatment for most patients with endometrial cancer, whereas postoperative radiation therapy is used in the treatment of patients with other than low-risk prognostic factors.

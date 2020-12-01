@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27697995/
+title=Immunotherapy in Endometrial Cancer: In the Nick of Time.
+from:Clin Cancer Res
+time=2016 Dec 1
+abstract: Immunotherapy with checkpoint inhibitors is changing the face of oncology treatments for many tumors, and endometrial carcinoma may not be an exception. Several endometrial cancer groups from the molecular taxonomy are characterized by having an ultramutated/hypermutated genome, which could be the first Achilles' heel identified in this malignancy in decades. Clin Cancer Res; 22(23); 5623-5. ©2016 AACRSee related article by Santin et al., p. 5682.

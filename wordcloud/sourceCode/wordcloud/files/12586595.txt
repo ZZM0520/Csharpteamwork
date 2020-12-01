@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12586595/
+title=Landmark contribution of Hans-Ludvig Kottmeier to management of early-stage endometrial cancer.
+from:Gynecol Oncol
+time=2003 Feb
+abstract: 

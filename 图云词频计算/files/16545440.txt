@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16545440/
+title=Visceral fat amount as predictive factor for early laparotomic conversion in obese patients with endometrial cancer.
+from:Gynecol Oncol
+time=2006 Jul
+abstract: 

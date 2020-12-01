@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8631534/
+title=Do we know the best therapy for early endometrial cancer?
+from:Gynecol Oncol
+time=1996 Feb
+abstract: 

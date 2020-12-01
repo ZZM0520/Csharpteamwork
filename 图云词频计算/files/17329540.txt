@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17329540/
+title=A prospective blinded evaluation of the accuracy of frozen section for the surgical management of endometrial cancer.
+from:Obstet Gynecol
+time=2007 Mar
+abstract: 

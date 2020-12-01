@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16677596/
+title=Can a mast cell subtype (MC(T)) play a role in the progression of endometrial cancer through angiogenesis?
+from:Am J Obstet Gynecol
+time=2006 Dec
+abstract: 

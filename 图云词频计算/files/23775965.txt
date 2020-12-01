@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23775965/
+title=Early relapse of endometrial cancer in a patient infected with HIV.
+from:J Clin Oncol
+time=2013 Jul 20
+abstract: 

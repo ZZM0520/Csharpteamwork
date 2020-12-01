@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12409083/
+title=Loss of progesterone receptor may lead to an invasive phenotype in human endometrial cancer.
+from:Eur J Cancer
+time=2002 Nov
+abstract: 

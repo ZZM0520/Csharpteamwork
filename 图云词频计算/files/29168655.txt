@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/29168655/
+title=Endometrial cancer evolution: new molecular-biologic types and hormonal-metabolic shifts.
+from:Future Oncol
+time=2017 Dec
+abstract: The question hidden in the title of this manuscript (whether the topic develops or remains constant) is important for all areas of science. It is also a serious problem for endometrial cancer (EC) study. In recent times the incidence of EC gradually increases in parallel with obesity epidemics. The main point of this review was evaluation of changes in EC area in last few decades, which are not only seen in tumor incidence, but also in its biology, hormonal-metabolic characteristics of patients and in the ratio of risk and anti-risk factors. One can hope that data accumulated recently and summarized here under the notion of EC evolution will find its use for advancement of EC prevention and treatment.

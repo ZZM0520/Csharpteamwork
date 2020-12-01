@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18055712/
+title=Endometrial cancer: what is a clinician to do?
+from:Obstet Gynecol
+time=2007 Dec
+abstract: 

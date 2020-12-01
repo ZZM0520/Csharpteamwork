@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18374816/
+title=Surgical management of endometrial cancer: how much is enough?
+from:Gynecol Oncol
+time=2008 Apr
+abstract: 

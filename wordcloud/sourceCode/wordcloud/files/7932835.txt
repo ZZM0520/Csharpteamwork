@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7932835/
+title=Screening for endometrial cancer.
+from:J Natl Med Assoc
+time=1994 Aug
+abstract: 

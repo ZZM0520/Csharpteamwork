@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8157201/
+title=Wound seeding associated with endometrial cancer.
+from:Gynecol Oncol
+time=1994 Mar
+abstract: We report a patient with well-differentiated adenocarcinoma of the endometrium who developed a recurrence in the anterior abdominal wall probably secondary to wound seeding at the time of her original surgery. She underwent total abdominal hysterectomy, bilateral salpingo-oophorectomy. She then received 15 mCi of 32P for positive peritoneal washings. She was free of disease until 2 years later when a large lower incision mass developed. She had no evidence for intra-abdominal disease and a radical resection with a myocutaneous flap was undertaken. Radical resection for isolated metastases may be of benefit for patients with endometrial cancer. Patients with positive cytology should be observed closely for incisional recurrence.

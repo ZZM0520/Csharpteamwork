@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12476699/
+title=[Standards, Options and Recommendations 2000 for the management of patients with endometrial cancer (non-metastatic)(abridged report)].
+from:Gynecol Obstet Fertil
+time=2002 Nov
+abstract: 

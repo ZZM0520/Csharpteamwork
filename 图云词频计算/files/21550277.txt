@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21550277/
+title=[Adjuvant radiotherapy in patients with endometrial cancers].
+from:Cancer Radiother
+time=2011 Jul
+abstract: The treatment of patients with endometrial cancer has been extensively modified in recent years. Several randomized studies have redefined the indications for adjuvant therapy in tumours staged 1. In the absence of poor prognostic factors, the management tends to be less aggressive than before, often limited to vaginal brachytherapy. Conversely, for more advanced lesions, for which prognosis is poor, combinations of chemoradiation are currently being evaluated. This literature review aims to provide an update on recent developments in the management of adjuvant radiotherapy for endometrial carcinoma.

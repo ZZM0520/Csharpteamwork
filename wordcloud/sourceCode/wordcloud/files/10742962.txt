@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10742962/
+title=Survival rates significantly worse for African-Americans with endometrial cancer.
+from:Oncology (Williston Park)
+time=2000 Mar
+abstract: 

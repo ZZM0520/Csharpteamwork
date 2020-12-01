@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16263547/
+title=Is laparoscopic or abdominal hysterectomy with bilateral salpingo-oophorectomy more efficient in operative treatment of endometrial cancer?
+from:J Obstet Gynaecol
+time=2005 Oct
+abstract: We compared the efficiency and safety of 12 laparoscopic and 13 abdominal hysterectomies performed with bilateral salpingo-oophorectomy in the operative treatment of endometrial cancer. In all patients, the surgery was extended to include pelvic lymphadenectomy, where the histopathological examination confirmed advanced disease greater than IB (according to FIGO). Our work confirms that laparoscopic hysterectomy with bilateral salpingo-oophorectomy in endometrial cancer is a safe procedure for the patient and it seems to be more effective in lymph node sampling to abdominal surgery (via laparotomy). Moreover, complications are less frequent and severe when the patient is operated via the laparoscopic approach.

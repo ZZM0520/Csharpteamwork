@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23279090/
+title=Systematic lymphadenectomy in endometrial cancer.
+from:J Obstet Gynaecol Res
+time=2013 Feb
+abstract: 

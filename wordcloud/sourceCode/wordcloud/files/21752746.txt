@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21752746/
+title=Discussion: 'Tumor diameter as a predictor in endometrial cancer surgery' by Yanazume et al.
+from:Am J Obstet Gynecol
+time=2011 Jun
+abstract: In the roundtable that follows, clinicians discuss a study published in this issue of the Journal in light of its methodology, relevance to practice, and implications for future research. Article discussed: Yanazume S, Saito T, Eto T, et al. Reassessment of the utility of frozen sections in endometrial cancer surgery using tumor diameter as an additional factor. Am J Obstet Gynecol 2011;204:531.e1-7.

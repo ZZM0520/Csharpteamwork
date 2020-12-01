@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31097108/
+title=High-Grade Endometrial Carcinomas: Classification with Molecular Insights.
+from:Surg Pathol Clin
+time=2019 Jun
+abstract: This article provides an overview of the current diagnosis of endometrial carcinoma subtypes and provides updates, including the most recent molecular findings from The Cancer Genome Atlas and others. Interpretation of relevant immunohistochemistry and critical diagnostic differential diagnosis with pitfalls are discussed.

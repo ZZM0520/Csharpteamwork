@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21508697/
+title=Uterine papillary serous carcinoma.
+from:Clin Obstet Gynecol
+time=2011 Jun
+abstract: Uterine papillary serous carcinoma (UPSC) is a histologic variant of endometrial cancer that accounts for only 10% of new cases of uterine cancer but is responsible for 40% of deaths from the disease. UPSC is an aggressive tumor with a predilection for early spread beyond the uterus. Treatment for UPSC typically entails surgery and in most women is followed by multimodality adjuvant therapy. In this review, we describe the epidemiology, natural history, treatment, and outcome of UPSC.

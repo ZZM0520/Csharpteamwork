@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8599245/
+title=Endometrial cancer: risk factors and diagnosis.
+from:W V Med J
+time=1996 Jan-Feb
+abstract: Endometrial cancer occurs more frequently than any other cancer of the female reproductive tract. The overall five-year survival rate for patients with endometrial carcinoma in a series of 13,000 patients was 68%. If diagnosed with Stage I disease, the patient's five-year survival increases to 75% (17). Early diagnosis of uterine cancer is accomplished by physician recognition of risk factors, symptoms and signs.

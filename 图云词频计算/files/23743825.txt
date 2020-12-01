@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23743825/
+title=Candidate biomarkers for genetic and clinicopathological diagnosis of endometrial cancer.
+from:Int J Mol Sci
+time=2013 Jun 6
+abstract: The recent increase in the frequency of endometrial cancer has emphasized the need for accurate diagnosis and improved treatment. The current diagnosis is still based on conventional pathological indicators, such as clinical stage, tumor differentiation, invasion depth and vascular invasion. However, the genetic mechanisms underlying endometrial cancer have gradually been determined, due to developments in molecular biology, leading to the possibility of new methods of diagnosis and treatment planning. New candidate biomarkers for endometrial cancer include those for molecular epigenetic mutations, such as microRNAs. These biomarkers may permit earlier detection of endometrial cancer and prediction of outcomes and are likely to contribute to future personalized therapy for endometrial cancer.

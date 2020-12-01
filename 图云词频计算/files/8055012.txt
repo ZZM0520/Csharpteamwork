@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8055012/
+title=The sexual adaptation of women treated for endometrial cancer.
+from:Cancer Pract
+time=1994 Mar-Apr
+abstract: This study explores the process of sexual adaptation in women treated for endometrial cancer. Methodology was primarily qualitative with in-depth interviews. Data were collected by means of semistructured tape-recorded interviews; detailed field notes; and quantitative measures of self-concept, self-esteem, body image, and satisfaction with sexual functioning. The quantitative instruments used to measure these constructs were the Tennessee Self-Concept Scale and three visual analog scales. A vivid picture of women's experience of sexual adaptation after treatment for endometrial cancer emerged. This study's findings indicate that the experience of sexual adaptation in women who undergo treatment for endometrial cancer is a process that evolves. This process begins with the onset of symptoms and continues beyond the completion of therapy. Factors that enhanced the adaptational process were identified by the participants.

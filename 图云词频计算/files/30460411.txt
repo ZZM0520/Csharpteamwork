@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30460411/
+title=Surgical staging in endometrial cancer.
+from:J Cancer Res Clin Oncol
+time=2019 Jan
+abstract: In several malignancies, it has been demonstrated that the lymph nodal status is the most important pathologic factor affecting prognosis and giving the indication to further adjuvant treatment. The surgical assessment of the lymph nodal status in endometrial cancer is debated since 30 years. Recently, the sentinel lymph node mapping is rapidly gaining clinical acceptance in endometrial cancer. The adoption of Indocyanine Green as a safe and user friendly tracer for sentinel lymph node mapping increased the speed to which this procedure is getting applied in clinical practice. As a consequence of this rapid growth, several fundamental questions have been raised and are still debatable. In this manuscript, we discuss the importance of a known pathological lymph nodal status, the technique of the sentinel lymph node mapping with the reported false negative rates and detection rates according to the different tracers adopted, and the clinical scenarios in which a sentinel lymph node mapping could be employed.

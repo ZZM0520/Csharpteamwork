@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31472758/
+title=Precision medicine in endometrial cancer.
+from:Gynecol Oncol
+time=2019 Sep
+abstract: 

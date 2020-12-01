@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15628999/
+title=Endometrial cancer epidemiology and prevention in Federation of Bosnia and Herzegovina, B&amp;H.
+from:Bosn J Basic Med Sci
+time=2004 Oct
+abstract: In Federation of Bosnia and Herzegovina during 2002 a total of 67 cases of endometrial cancer (ICD 10th Revision Code C54) were registered among female population older then 15 years (1 per 10,000 population). Nine women were diagnosed with non specific malignant uteri neoplasia (C55)--without clarifying if that was cervix or corpus uteri located cancer, but assumption is that these cancers are actually endometrial cancer. Majority of cases are older then 50 years, 48 of them (71.6%), while 29 (28.4%) are from 15 to 49 years old. During 2000 about 189,000 new endometrial cancer cases were reported with 44,700 endometrial cancer deaths in the World. In this paper we presented geographical distribution of cases registered in FB&amp;H, as well as leading risk factors, protective factors and prevention and possibilities for screening methods.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27869494/
+title=Necrotising fasciitis caused by metastatic endometrial cancer: a rare cause of a life-threatening condition.
+from:Ann R Coll Surg Engl
+time=2017 Feb
+abstract: We report a case of necrotising fasciitis caused by metastatic endometrial adenocarcinoma. Metastases to the lumbar spine with local invasion to the iliopsoas muscle led to an iliopsoas abscess, which subsequently progressed to necrotising fasciitis of the flank. This patient lacked common risk factors for necrotising fasciitis. There are no previous reports in the literature of necrotising fasciitis with this aetiology. We discuss the available evidence for aetiology of and risk factors for necrotising fasciitis, and the relation of time to surgery with prognosis.

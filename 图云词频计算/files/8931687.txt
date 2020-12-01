@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8931687/
+title=Intermediate-risk endometrial cancer. A management approach.
+from:Am J Clin Oncol
+time=1996 Dec
+abstract: In the United States, endometrial cancer remains the most frequently diagnosed tumor of the female genital tract. The Gynecologic Oncology Group (GOG) has previously included patients with disease confined to the uterus and moderately or poorly differentiated tumors that invade at least half the myometrium in protocols designed for "intermediate levels of risk". Although such patients are ideally staged surgically, the role of adjuvant therapies such as postoperative pelvic irradiation remains unclear. This report offers a management approach for these women based on opportunities for enhanced local control with an acceptable level of morbidity according to supportive data from the available literature.

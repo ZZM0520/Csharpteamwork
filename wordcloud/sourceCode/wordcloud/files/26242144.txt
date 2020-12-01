@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26242144/
+title=[MODERN APPROACHES TO THE SURGICAL TREATMENT FOR EARLY-STAGE ENDOMETRIAL CANCER].
+from:Vopr Onkol
+time=2015
+abstract: The article is devoted to one of the most controversial issues of modern oncogynecology--the volume of surgery for endometrial cancer of early stages. There are discussed the indications for lymphadenectomy and its volume as well as how correlate performing lymphadenectomy and conducting postoperative radiotherapy.

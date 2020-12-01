@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10671656/
+title=Tailoring radiation to the extent of disease for uterine-confined endometrial cancer.
+from:Semin Radiat Oncol
+time=2000 Jan
+abstract: More than 50 years ago, endometrial cancer was found to be sensitive to radiation, and adjuvant radiation was observed to decrease the incidence of pelvic recurrences. Over the last 2 decades, substantial progress has been made in the understanding of prognostic factors for survival and patterns of disease recurrence for patients with endometrial cancer. Few randomized trials have been done because of the relatively few patients who are at risk of recurrence and the strong bias of many oncologists toward the use of adjuvant radiation. Principles guiding treatment recommendations are based predominately on retrospective publications containing variance in pathological evaluation, surgical evaluation, and patient selection. Preliminary analysis of a randomized Gynecologic Oncology Group trial is reviewed. Optimal therapy for many patients remains to be better defined.

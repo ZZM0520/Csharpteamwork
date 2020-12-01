@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25343539/
+title=Lymphadenectomy in early stage endometrial cancer: a critical review of the current literature.
+from:Tumori
+time=2014 Sep-Oct
+abstract: To date there has been no consensus on the exact oncological importance of systematic lymphadenectomy in early stage endometrial cancer. In this scenario, the balance between potential therapeutic benefit and procedure-related morbidity plays a central role in the indication for the procedure since the likelihood of detecting a metastatic node is relatively low. Compared with laparotomy, laparoscopic lymphadenectomy has several clearly demonstrated advantages and is an important tool to reduce morbidity. Additionally, many authors have developed less invasive methods to selectively identify patients who are at increased risk of lymph node involvement. This paper aims to review the current literature evidence and guidelines regarding the role of lymphadenectomy in patients with early stage endometrial cancer. Alternatives such as lymphatic sampling or sentinel lymph node biopsy are possible solutions but must be further investigated through more comprehensive studies. 

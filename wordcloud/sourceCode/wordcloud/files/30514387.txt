@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30514387/
+title=Endometrial cancer: an overview of novelties in treatment and related imaging keypoints for local staging.
+from:Cancer Imaging
+time=2018 Dec 4
+abstract: Endometrial cancer is the most common gynaecologic malignancy in developed countries and its incidence is increasing. First-level treatment, if no contraindicated, is based on surgery. Pre-operative imaging is needed for evaluation of local extent and detection of distant metastases in order to guide treatment planning. Radiological evaluation, based on transvaginal ultrasound, MR and CT, can make the difference in disease management, paying special attention to assessment of entity of myometrial invasion, cervical stromal extension, and assessment of lymph nodal involvement and distant metastases.

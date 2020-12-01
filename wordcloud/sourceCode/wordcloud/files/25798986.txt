@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25798986/
+title=Practice Bulletin No. 149: Endometrial cancer.
+from:Obstet Gynecol
+time=2015 Apr
+abstract: 

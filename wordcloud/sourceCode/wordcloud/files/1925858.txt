@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1925858/
+title=Endometrial cancer. Changing concepts in therapy.
+from:Surg Clin North Am
+time=1991 Oct
+abstract: All patients with adenocarcinoma of the endometrium should have a total abdominal hysterectomy, bilateral salpingo-oophorectomy, peritoneal cytology study, and pelvic and para-aortic node biopsies when feasible. Patients with stage Ia disease do not need further therapy and have an excellent prognosis. Patients with stage Ib or Ic disease are at some risk for recurrence and should be considered for pelvic radiation, although their survival may be unaltered by this treatment. Patients found to have stage IIIc disease on the basis of metastases to the pelvic nodes should receive whole-pelvic radiation. Patients with multiple metastatic sites or with clear-cell or serous papillary adenocarcinomas should be considered for whole-abdominal radiation or other systemic treatment. Surgical staging with pelvic and para-aortic node biopsies is important, as it allows the clinician to make individualized treatment decisions based on accurate data and known prognostic factors.

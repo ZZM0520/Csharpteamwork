@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10502416/
+title=Clarity and confusion regarding adjuvant radiation therapy in early endometrial cancer.
+from:Gynecol Oncol
+time=1999 Oct
+abstract: 

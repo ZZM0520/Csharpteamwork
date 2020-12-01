@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/32487600/
+title=Surgical Versus Conservative Treatment for Endometrial Cancer in Women of Reproductive Age: Incidence of Urinary Tract Symptoms.
+from:Anticancer Res
+time=2020 Jun
+abstract: Endometrial cancer is the most common gynecologic malignancy. The mainstay of treatment for endometrial cancer is total hysterectomy with bilateral salpingo-oophorectomy. Radiation and chemotherapy accompanied with progestins can also play a significant role in treatment. Lower urinary tract symptoms (LUTS) following therapy for endometrial cancer are an extremely difficult and challenging condition that deteriorates patients' quality of life. Current literature remains rather scarce regarding LUTS after therapy for endometrial cancer. This review aimed to investigate the incidence of LUTS in endometrial cancer treatment.

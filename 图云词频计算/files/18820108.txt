@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18820108/
+title=Comparison of examination of the entire cervix with routine cervical sampling in hysterectomy specimens from women with endometrial cancer: comment on a paper.
+from:J Clin Pathol
+time=2008 Oct
+abstract: 

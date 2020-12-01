@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26513891/
+title=Endometrial cancer in unicornuate uterus: a case report.
+from:Eur J Gynaecol Oncol
+time=2015
+abstract: Purpose of investigation:Miillerian anomalies have not been implicated as a significant risk factor for the development of cervical, uterine, and ovarian cancers; in the present literature, there are only a few reports of endometrial cancer arising in patients with Miillerian abnormalities. To the best of the authors' knowledge, this is the first reported case of endometrial cancer arising in a patient with unicornuate uterus.Case report:A 69-year-old Caucasian woman underwent clinical examination and office hysteroscopy with endometrial biopsy because of abnormal post-menopausal bleeding. The diagnosis was endometrial cancer in unicornuate uterus, hence the patient underwent total hysterectomy with pelvic lymphadenectomy.Conclusion:Uterine malformations and genetic disorders may cause a delayed diagnosis of gynaecological cancers. Gynaecological examination in asymptomatic patients and differential diagnosis in abnormal uterine bleeding patients should be considered.

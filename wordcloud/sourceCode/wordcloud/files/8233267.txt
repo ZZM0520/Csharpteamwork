@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8233267/
+title=Oral contraceptives and endometrial cancer.
+from:Obstet Gynecol
+time=1993 Dec
+abstract: Objective:To evaluate the effect of ever-use of oral contraceptives (OCs) on the risk of endometrial cancer in women aged 50-64 years.Methods:A case-control study was carried out using 142 incident cases of endometrial cancer and 1042 matched controls, aged 50-64. All subjects were members of Group Health Cooperative of Puget Sound in Seattle, Washington. Relative risk (RR) estimates were calculated for ever-users of OCs compared to never-users.Results:Twenty-six cases (18%) and 270 controls (26%) had taken OCs at some time, yielding an RR of 0.48 (95% confidence interval [CI] 0.26-0.89) for ever-users compared to never-users. This estimate was adjusted for multiple risk factors. There was little effect of duration of OC use, age at first use, or number of years since last use in these data.Conclusion:Women aged 50-64 years at Group Health Cooperative who had taken OCs at some time appear to be protected from developing endometrial cancer later in life, compared to women who had never taken OCs.

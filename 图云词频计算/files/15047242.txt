@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15047242/
+title=The role of MRI in the conservative management of endometrial cancer.
+from:Gynecol Oncol
+time=2004 Apr
+abstract: Background:Young patients with endometrial cancer who desire to preserve their fertility often decline hysterectomy in favor of conservative progestin therapy. Proper candidates should have disease confined to the uterus and a well-differentiated tumor. One of the evolving techniques to evaluate the extent of the disease and myometrial or cervical invasion is magnetic resonance imaging (MRI).Case:A young patient with early-stage endometrial cancer initially declined surgery and was treated with megestrol. MRI suggested myoinvasion, and the patient consented to surgical staging. The final pathology revealed no residual carcinoma.Conclusions:The accuracy of MRI in detecting myoinvasion is limited, and as such results should be interpreted with caution when this information is used in counseling a young patient regarding surgical staging for endometrial cancer.

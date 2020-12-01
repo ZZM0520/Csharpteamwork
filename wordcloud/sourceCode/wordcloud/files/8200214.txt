@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8200214/
+title=Depot-medroxyprogesterone acetate (DMPA) and cancer of the endometrium and ovary.
+from:Contraception
+time=1994 Mar
+abstract: This review addresses possible associations between depot-medroxy-progesterone acetate (DMPA) and endometrial and epithelial ovarian cancers. Two unexpected endometrial carcinomas were observed at autopsy of rhesus monkeys treated for 10 years with 50 times the human doses of DMPA. A record linkage in the USA did not suggest any association between DMPA and endometrial cancer. A multicentre case-control study in Thailand showed a strong protective effect of DMPA for endometrial cancer. Studies from the USA, Mexico and Thailand did not observe any association between use of DMPA and epithelial ovarian cancer. The available information, therefore, indicates that use of DMPA protects against endometrial cancer and is not associated with epithelial ovarian cancer.

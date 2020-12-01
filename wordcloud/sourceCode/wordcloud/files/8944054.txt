@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8944054/
+title=Estrogen and progesterone receptors in endometrial cancer. Clinicopathological correlations and prognostic significance.
+from:APMIS Suppl
+time=1996
+abstract: 

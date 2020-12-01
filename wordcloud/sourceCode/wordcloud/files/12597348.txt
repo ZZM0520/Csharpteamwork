@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12597348/
+title=Optimal therapy and management of endometrial cancer.
+from:Expert Rev Anticancer Ther
+time=2003 Feb
+abstract: Carcinoma of the endometrium is the most common malignancy of the female genital tract. Fortunately, this neoplasm presents with abnormal clinical symptoms in its early stages. The majority of cases will be detected at a curable stage when the neoplasm is still confined to the uterus. Given this fact, surgical removal of the involved organ remains the cornerstone of treatment for this disease. Certain pathologic risk factors for recurrence have been identified and are the basis for which adjuvant therapy is recommended. Controversy in management exists as to the approach and extent of primary surgery as well as the indications for adjuvant therapy. Management of this disease is reviewed.

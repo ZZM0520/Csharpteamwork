@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25686116/
+title=Obesity, lymphadenectomy and survival outcomes in intermediate to high-risk, early-stage endometrial cancer patients.
+from:Future Oncol
+time=2015
+abstract: Aim:Lymphadenectomy or lymph node dissection is a topic of controversy in endometrial cancer (EC) treatment.Materials &amp; methods:Associations between lymph node dissections and clinical factors were retrospectively examined in obese, endometrioid endometrial cancer patients with early-stage disease between 1995 and 2005. Overall, EC-specific and recurrence-free survival were also evaluated.Results:Out of 192 patients, 61 (32%) did not have a lymph node examination, 55 (29%) had less than ten lymph nodes removed and 76 (39%) had ≥10 removed. Lymph node dissection count was not significantly associated with overall, EC-specific or recurrence-free survival.Conclusion:Analysis revealed no significant associations between ≥10 dissected lymph nodes and survival outcomes among obese, EC patients, which supports the need for additional investigation of the merit of lymphadenectomy among these patients.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1955271/
+title=Endometrial cancer incidence and oral contraception.
+from:Int J Epidemiol
+time=1991 Sep
+abstract: 

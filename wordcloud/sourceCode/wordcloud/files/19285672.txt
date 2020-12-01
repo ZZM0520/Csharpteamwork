@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19285672/
+title=New surgical staging of endometrial cancer: 20 years later.
+from:Int J Gynaecol Obstet
+time=2009 May
+abstract: 

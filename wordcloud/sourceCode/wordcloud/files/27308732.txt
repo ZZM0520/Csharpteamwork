@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27308732/
+title=Endometrial cancer: Not your grandmother's cancer.
+from:Cancer
+time=2016 Sep 15
+abstract: Worldwide, the incidence of endometrial carcinoma (EC) is rapidly increasing, and the highest disease burden is reported in North America and Western Europe. Although the prognosis remains good for patients with are diagnosed with early stage EC, for those with recurrent or metastatic disease, the options are few, and the median overall survival is short. It is imperative to gain a greater understanding of all aspects of EC, limit its effect on scarce health care resources and, more importantly, prevent this cancer from significantly impacting future generations of women. An exciting new era of endometrial cancer research and clinical management has begun that incorporates biologically and clinically relevant genomic and clinicopathologic parameters. Continued collaborative research efforts and funding are essential if we are to advance our understanding of this disease and improve clinical outcomes. Cancer 2016. © 2016 American Cancer Society. Cancer 2016;122:2787-2798. © 2016 American Cancer Society.

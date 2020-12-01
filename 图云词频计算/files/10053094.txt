@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10053094/
+title=Endometrial cancer: predictive value of cervical cytology.
+from:Gynecol Oncol
+time=1999 Mar
+abstract: 

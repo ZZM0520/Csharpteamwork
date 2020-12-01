@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9752303/
+title=[Cancer of the endometrium. Epidemiology, anatomopathology, screening, diagnosis, evolution, prognosis, treatment principles].
+from:Bull Cancer
+time=1998 Apr
+abstract: 

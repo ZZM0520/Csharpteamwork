@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22273420/
+title=The role of ultrasound imaging in detecting endometrial cancer in postmenopausal women with vaginal bleeding.
+from:J Obstet Gynecol Neonatal Nurs
+time=2011 Sep-Oct
+abstract: Approximately 10% of women with postmenopausal bleeding have endometrial cancer, the most common reproductive organ malignancy among women in the United States. The use of transvaginal ultrasonography allows the clinician to identify women at risk for endometrial cancer and triage them to an appropriate procedure for a histologically confirmed diagnosis.

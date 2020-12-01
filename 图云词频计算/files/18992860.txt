@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18992860/
+title=Relevance of surgical approach and adjuvant therapy in survival of obese patients with endometrial cancer.
+from:Am J Obstet Gynecol
+time=2009 Mar
+abstract: 

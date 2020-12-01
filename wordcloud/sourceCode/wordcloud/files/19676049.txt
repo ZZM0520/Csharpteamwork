@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19676049/
+title=Re: coffee drinking and risk of endometrial cancer--a population-based cohort study.
+from:Int J Cancer
+time=2010 Apr 1
+abstract: 

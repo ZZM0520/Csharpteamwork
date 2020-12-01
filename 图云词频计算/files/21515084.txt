@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21515084/
+title=[Endometrial cancer: from paraaortic lymphadenectomy to conservative treatment].
+from:Gynecol Obstet Fertil
+time=2011 May
+abstract: 

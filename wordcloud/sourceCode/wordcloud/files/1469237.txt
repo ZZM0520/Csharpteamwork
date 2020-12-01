@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1469237/
+title=[Endometrial cancer: we should be finished with it!].
+from:J Gynecol Obstet Biol Reprod (Paris)
+time=1992
+abstract: 

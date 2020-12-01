@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8784886/
+title=Endometrial hyperplasia and endometrial cancer.
+from:Obstet Gynecol Clin North Am
+time=1996 Jun
+abstract: Endometrial cancer is the most frequently seen gynecologic neoplasm, but it fortunately has low mortality, which is due largely to its presentation with abnormal bleeding and its subsequent early diagnosis. The morbidity associated with therapy for early lesions is moderate. Hyperplasia with atypia should be treated as early cancers. Many molecular markers are currently under study. Markers may soon help us identify invasive lesions at higher risk of recurring and thus more suitable for adjunct therapy. Screening in the general population is not recommended, but a high-risk group that is more suitable for screening could be identified, including obese and nulliparous women, those treated with unopposed estrogen or tamoxifen, or those with family or past histories of breast or colon cancer. Development of chemoprevention with an oral contraceptive during the reproductive years is under way, and there may be a role for chemoprevention in the reversal of hyperplasias.

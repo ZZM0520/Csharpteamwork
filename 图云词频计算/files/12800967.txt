@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12800967/
+title=Information from your family doctor. Endometrial cancer.
+from:Am Fam Physician
+time=2003 Jun 1
+abstract: 

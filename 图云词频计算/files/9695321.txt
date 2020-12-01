@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9695321/
+title=[Preoperative evaluation of cervical involvement in endometrial cancer].
+from:Ginekol Pol
+time=1998 May
+abstract: Usefulness of fractionated curettage, histeroscopy, transvaginal sonography and MR-imaging in the preoperative diagnosis of cervical involvement of endometrial cancer was studied. Sensitivity, specificity, efficacy, positive and negative prognostic value of above-mentioned examinations were compared. None of examinations was adequate for diagnosis of presence of cervical invasion because of their low positive prognostic values. Negative prognostic value of all examinations was high. MR-imaging and transvaginal sonography had the highest efficacy and comparatively high sensitivity and specificity. Authors suggest, that transvaginal sonography--considering its simplicity and relative cheapness--should be obligatory in the diagnosis of endometrial cancer advancement.

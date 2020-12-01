@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21734165/
+title=Endometrial cancer.
+from:BMJ
+time=2011 Jul 6
+abstract: 

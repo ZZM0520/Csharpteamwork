@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19422864/
+title=Current challenges in clinical management of endometrial cancer.
+from:Adv Drug Deliv Rev
+time=2009 Aug 10
+abstract: Endometrial cancer remains a management challenge. Improved understanding of the mechanisms of carcinogenesis may enable better understanding of biologic behavior and guide therapy. Improvements in diagnostic imaging, radiation delivery systems, and systemic therapies potentially can improve outcomes while minimizing morbidity. Novel strategies for screening and prevention also hold promise for reducing incidence and mortality of this disease.

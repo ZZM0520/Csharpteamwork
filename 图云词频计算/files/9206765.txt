@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9206765/
+title=[Endometrial carcinoma: an increasing neoplasm. Screening and early diagnosis: proposal for a protocol].
+from:Minerva Ginecol
+time=1997 Apr
+abstract: Endometrial cancer is the most common cancer of the genital tract and it represents 10% of all cancers diagnosed in women. A protocol for screening and early diagnosis of this tumor has been designed by the authors. All asymptomatic women with risk factors undergo transvaginal sonography. The value of endometrial thickness suggests the need for endometrial sampling. On the contrary, such a procedure is always combined with transvaginal sonography in case of women with atypical genital bleeding. The aim of the protocol is to verify the efficacy of transvaginal sonography and endometrial sampling as combined procedures for screening and early diagnosis of endometrial cancer.

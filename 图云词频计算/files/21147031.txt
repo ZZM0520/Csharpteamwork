@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21147031/
+title=Should we screen for endometrial cancer?
+from:Lancet Oncol
+time=2011 Jan
+abstract: 

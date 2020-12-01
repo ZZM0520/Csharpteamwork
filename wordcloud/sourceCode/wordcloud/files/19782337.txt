@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19782337/
+title=Observations on the role of assisted laparoscopic surgery in patients with early stage endometrial cancer.
+from:Am J Obstet Gynecol
+time=2010 Jan
+abstract: 

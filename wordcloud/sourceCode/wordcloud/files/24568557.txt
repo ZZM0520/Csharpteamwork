@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24568557/
+title=Efficacy of IVF following conservative management of endometrial cancer.
+from:Gynecol Endocrinol
+time=2014 Apr
+abstract: Five cases of conservative management of early stage uterine carcinoma were reported. All patients successfully underwent in vitro fertilization (IVF). Role of conservative treatment, IVF and prophylactic surgery followed competition of parity was discussed.

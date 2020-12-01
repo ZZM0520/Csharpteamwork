@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25558671/
+title=[Sentinel lymph node biopsy in endometrial cancer--a part of modern operative treatment].
+from:Akush Ginekol (Sofiia)
+time=2014
+abstract: After brest cancer the endometrial cancer is the most common gynaecological malignancy. The lymphno destatus is with great prognostic value. There is no agreement for the therapeutic valuae and the contents of the lymph node desectionin early stages. That is why the sentinel lymph node biopsy is a part of modern operative treatment of endometrial cancer.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16452817/
+title=Fertility-preserving treatment in young women with endometrial cancer.
+from:Gynakol Geburtshilfliche Rundsch
+time=2006
+abstract: Nonsurgical fertility-preserving treatment of well-differentiated endometrial cancer with systemic progestins has been described for young women who desire to preserve their fertility. The overall response to progestin treatment in 9 retrospective studies is 79% with 79 subsequent live births. Recurrence can be expected in approximately 36-40% of conservatively treated patients who initially responded. Synchronous ovarian cancer has been reported in approximately 9%. However, amongst 162 receiving systemic, continuous treatment with progestins no death caused by cancer has been reported. We review guidelines for diagnosis, treatment and follow-up in young women undergoing conservative treatment for endometrial cancer.

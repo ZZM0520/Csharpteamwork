@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22231748/
+title=[Postoperative vaginal brachytherapy in endometrial cancer].
+from:Bull Cancer
+time=2012 Jan
+abstract: Several randomized studies published in recent years have greatly changed the management of postoperative endometrial cancer, especially for lesions of intermediate prognosis. Vaginal brachytherapy is now standard treatment for these lesions at the expense of external beam radiation, which, despite an improvement in locoregional control, has no impact on overall survival. This review aims to take stock of new indications for vaginal brachytherapy detailing the trials that led to change standards or care.

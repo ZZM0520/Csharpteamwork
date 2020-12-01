@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21664661/
+title=Adjuvant treatment for stage IIIC endometrial cancer: options and controversies.
+from:Gynecol Oncol
+time=2011 Sep
+abstract: Endometrial cancer is the most common gynecologic malignancy. Locally advanced and high risk endometrial cancer encompasses a heterogeneous group of patients and optimal treatment for various sub-groups of these patients remains controversial. Stage IIIC is the most common sub-stage of patients with locally advanced endometrial carcinoma. This article reviews retrospective and prospective data of various adjuvant treatment approaches involving chemotherapy, radiation therapy, or combined modality therapy, including the recently proposed "sandwich" regimens that have yielded encouraging results. Areas of controversy are also discussed to assist clinicians in identifying the most effective adjuvant treatment regimens for patients with locally advanced disease. On-going randomized trials are briefly discussed.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/29786994/
+title=The role of microRNAs in endometrial cancer and influence on future therapy: focusing on miRNA-21.
+from:Eur J Gynaecol Oncol
+time=2016
+abstract: MicroRNAs are small noncoding polynucleotides, which are involved in numerous biological processes including cell proliferation, differentiation, embryonic development, as well as regulation of cell death and survival. Recent investigations have shown impact of microRNAs on cancers prognosis and diagnosis. Current review focused on the role of microRNA-21 in cancers tumorigenesis. Endometrial cancer is the most common gynecological malignancy and the fourth most common in general classification of cancers in Western Europe; thus discovering new molecules may become a useful diagnostic tool. Furthermore, in this review, the authors emphasized microRNAs having considerable influence on endometrial cancer development. Finally, they highlighted the role of microRNAs as a target for future therapy and circulating microRNAs as a potential biomarker in malignancies.

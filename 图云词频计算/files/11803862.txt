@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11803862/
+title=[Expression of p53 protein in women with endometrial cancer].
+from:Akush Ginekol (Sofiia)
+time=2001
+abstract: Many oncogenes and tumour suppressor genes are connected with the steps of carcinogenesis. Fifteen patients with endometrial cancer were immunohistochemically examined for the presence of abnormal p53 protein. The immunopositivity was comparted in the cancer tissues and analyzed with the conventional clinicopathological prognostic factors as grade, stage, depth of myometrial invasion, lymph-vascular space invasion, metastases in the lymph nodes and metastases in the abdominal cavity. Abnormal expression of p53 was observed in 7 women with endometrial cancer and in 5 patients we observed moderate cytoplasmatic reaction for BCL-2. The correlation between the positive reaction reaction for p53 and BCL-2 means more aggressive tumor, respectively is a bad prognostic factor. The overexpression of p53 is a very important parameter for the progression of the endometrial cancer.

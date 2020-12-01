@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8862896/
+title=Modern techniques of radiation therapy for endometrial cancer.
+from:Clin Obstet Gynecol
+time=1996 Sep
+abstract: 

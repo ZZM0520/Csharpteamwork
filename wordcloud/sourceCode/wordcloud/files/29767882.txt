@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/29767882/
+title=Tertiary cytoreduction for recurrent endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=2017
+abstract: This paper reviews the surgical approach experiences in endometrial cancer recurrence and presents for the first time data on the surgical management of endometrial cancer patients at the time of their second recurrence. Surgery could represent a pivotal role in selected cases of recurrent endometrial cancer, offering long-term complete remissions and a survival advantage.

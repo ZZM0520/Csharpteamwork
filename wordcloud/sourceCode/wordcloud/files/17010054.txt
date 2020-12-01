@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17010054/
+title=Exogenous steroids for menopausal symptoms and breast/endometrial cancer risk.
+from:Int J Gynecol Cancer
+time=2006
+abstract: A literature search was performed to collect information concerning hormone replacement therapy (HRT) for menopausal symptoms by exogenous steroids and breast and endometrial cancer risk. Relevant studies in English were selected from Medline. HRT can alleviate vasomotor symptoms at least partially. HRT in women &gt;50 years of age induces increased risk of breast and endometrial cancer. In women &lt;50 years of age, HRT does not completely negate the breast cancer risk reduction by premature menopause. No data exist on endometrial cancer risk in these young women taking HRT. In conclusions, the decision to use HRT should be weighed against the risks and discouraged in women older than 50 years of age and after breast cancer. Counseling should be performed in an individual manner.

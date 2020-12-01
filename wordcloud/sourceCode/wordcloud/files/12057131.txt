@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12057131/
+title=Endometrial carcinoma.
+from:Curr Treat Options Oncol
+time=2001 Apr
+abstract: Endometrial cancer is a common tumor of the female genital tract. The majority of women diagnosed with endometrial cancer present with early-stage disease. Although the optimal treatment for these patients requires hysterectomy, the use of lymphadenectomy is controversial. Growing scientific data support the use of lymphadenectomy in all patients diagnosed with endometrial cancer. When performed by an experienced surgeon, pelvic and para-aortic lymphadenectomy is a safe and potentially therapeutic procedure that provides prognostic information to the patient and physician. This information allows appropriate, cost-effective treatment strategies to be created for all women with endometrial cancer.

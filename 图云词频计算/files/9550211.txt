@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9550211/
+title=Unusually prolonged ovarian function ending in endometrial cancer development. A case report.
+from:Eur J Obstet Gynecol Reprod Biol
+time=1998 Mar
+abstract: An unusual case of overprolonged ovarian function in a 77-year-old woman that ended in the development of endometrial cancer is presented in this paper. The established knowledge of the correlation of uncontrolled oestrogen activity to this type of cancer is evaluated and correlated with our patient's hormonal readings.

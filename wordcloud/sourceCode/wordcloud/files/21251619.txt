@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21251619/
+title=Counterpoint: The role of adjuvant radiation in endometrial cancer. Inside, outside, or not at all?
+from:Brachytherapy
+time=2011 Jan-Feb
+abstract: 

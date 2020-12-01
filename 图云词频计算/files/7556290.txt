@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7556290/
+title=Epidemiology and survival of endometrial cancer. Valuation of data of National Cancer Institute in Naples 1987-1992.
+from:Eur J Gynaecol Oncol
+time=1995
+abstract: Cancer of the endometrium is a neoplasm which essentially strikes postmenopausal women and in which the predominant risk factors are recognized as an excessive imbalance of estrogen and obesity. The survival rate is good in the first stage and is acceptable in the second, while in the third and especially the fourth stage is unfavorable. To verify and evaluate such facts we have carried out a study of survival rates on patients admitted in our Institute surgery division from 1987 to 1992. The results confirm the importance of the stage and histologic grading of the determining variables, while there appears to be more controversy regarding the role of myometrial invasion. In conclusion, our data show that intervention by pelvic-aortic lymphadenectomy contributes to an improvement in survival rates independently of stage.

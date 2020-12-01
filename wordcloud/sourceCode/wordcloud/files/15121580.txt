@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15121580/
+title=Outcome of fertility-sparing treatment with progestins in young patients with endometrial cancer.
+from:Obstet Gynecol
+time=2004 May
+abstract: 

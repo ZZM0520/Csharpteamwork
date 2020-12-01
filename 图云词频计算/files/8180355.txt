@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8180355/
+title=Endometrial cancer screening.
+from:Curr Opin Obstet Gynecol
+time=1994 Feb
+abstract: Endometrial cancer is the most common malignancy of the female genital tract. The prognosis of the endometrial carcinoma is strongly correlated with the myometrial infiltration depth. Therefore, it is of utmost clinical interest to detect the malignancies at the earliest stage or even as a precancer. All approaches, like cytologies and uterine smears, have failed to fulfil prerequisites for screening of endometrial cancer. Measurement of the endometrial thickness by transvaginosonography (TVS) can define a risk group for endometrial cancer in postmenopausal women. Further investigations have to clarify whether the combination of TVS and color Doppler can reduce the number of false-positive findings.

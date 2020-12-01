@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7630013/
+title=[Expression of CD44 in endometrial cancer and metastasis].
+from:Nihon Rinsho
+time=1995 Jul
+abstract: We have examined expression of CD44 in 17 normal endometria and 58 endometrial carcinomas by reverse transcription and polymerase chain reaction (RT-PCR) and by immunohistochemistry using antibodies to CD44. CD44 variants were expressed in 13 out of 17 (76.5%) normal endometria, whereas 11 out of 58 (19.0%) endometrial carcinomas. Furthermore, lymph-vascular space involvement of cancer cells was observed to be statistically significant in the CD44 negative group as opposed to the positive group. Immunohistochemical examination revealed that intense staining in normal endometria was seen on the gland cells at the basement membrane side. CD44 may have a role in the function of normal endometrium such as implantation, and CD44 might be related with metastasis of endometrial cancer cells through lymph-vascular space.

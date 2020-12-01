@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11873315/
+title=[Radiotherapy for endometrial cancer].
+from:Zentralbl Gynakol
+time=2002 Jan
+abstract: Over the past decades, incidence, therapy and overall survival of endometrial cancer have changed considerably. Since 1977, surgical treatment has been preferred. In 1988, for example, only 5 % of the patients, mainly inoperable, were treated by primary irradiation. Patients, who undergo surgical treatment alone, have a significantly better outcome than patients with surgery and adjuvant irradiation. Patients treated by primary irradiation show the worst survival outcome, because of the selection bias for advanced stages. This observation even holds true, if adjusted for age and therapy modality. Modern irradiation technology may offer curative treatment options even in cases with advanced stages or severe co-morbidity, as well as locoregional recurrence.

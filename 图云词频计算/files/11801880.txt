@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11801880/
+title=The role of radiation therapy in early endometrial cancer.
+from:Curr Opin Obstet Gynecol
+time=2002 Feb
+abstract: Few randomized studies have addressed the best choice of adjuvant radiation therapy after surgery for stage I endometrial cancer. Although whole pelvic radiation decreases the incidence of pelvic and vaginal cancer recurrence, there is no convincing evidence that it improves survival in women who have been completely staged. Several studies have indicated that women with high-risk stage I endometrial adenocarcinoma are treated adequately with extended surgical staging and vaginal cuff radiation. In the absence of randomized trials suggesting that whole pelvic radiation improves survival, it should be limited only to the highest risk stage I subgroups. Vaginal cuff brachytherapy appears to provide excellent local control of disease with minimal morbidity.

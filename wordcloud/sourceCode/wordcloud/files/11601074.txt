@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11601074/
+title=[Evaluation and treatment of endometrial cancer].
+from:Rev Prat
+time=2001 Sep 1
+abstract: Endometrial cancer is the most common gynaecologic cancer and its incidence increases with age. Prognosis is good because in over 80% of cases the cancer is discovered early. Preoperative work-up should include definition of the operability of such patients, who are often elderly with frequent co-morbidity. Preoperative evaluation and operative findings allow guiding the treatment and evaluating the prognosis. Main determinants are local extension, penetration into the myometrium, histologic stage of the tumour and involvement of lymph modes or peritoneum. Surgery is the first approach since it establishes the evaluation and comprises the first step of treatment. When necessary, subsequent treatment uses irradiation. Treatment with hormones or antimitotic drugs is less effective and is used for forms that are locally advanced, metastatic or recurrent after initial treatment.

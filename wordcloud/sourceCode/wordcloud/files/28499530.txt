@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28499530/
+title=Recognition and Therapeutic Options for Malignancy of the Cervix and Uterus.
+from:Obstet Gynecol Clin North Am
+time=2017 Jun
+abstract: An update on the current epidemiology and a review of the risk factors of cervical and endometrial cancers are discussed. Cervical cancer prevention with a focus on human papillomavirus vaccination and cervical cancer screening is reviewed, emphasizing the new focus of less frequent intervention in an effort to maintain high rates of early detection of disease while decreasing unnecessary and anxiety-provoking colposcopies, biopsies, and excisional procedures. The replacement of traditional endometrial hyperplasia terminology with more relevant clinical categories, with an emphasis on the introduction of endometrial intraepithelial neoplasia, is presented. Fertility-sparing options in the management of early cervical and endometrial cancers are reviewed.

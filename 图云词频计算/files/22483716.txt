@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22483716/
+title=[Arguments against sentinel node procedure in endometrial cancer].
+from:Gynecol Obstet Fertil
+time=2012 Apr
+abstract: 

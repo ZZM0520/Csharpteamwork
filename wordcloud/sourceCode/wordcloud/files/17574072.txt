@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17574072/
+title=Advancing our understanding of endometrial cancer histologic subtypes: should we lump or split?
+from:Gynecol Oncol
+time=2007 Jul
+abstract: 

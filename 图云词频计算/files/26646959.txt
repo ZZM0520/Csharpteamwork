@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26646959/
+title=[Increasingly better diagnosis and treatment of endometrial cancer].
+from:Lakartidningen
+time=2015 Dec 8
+abstract: Endometrial cancer is the most common gynecological cancer in developed countries and the observed rise in incidence is mainly caused by life style factors including obesity and diabetes. The management of the disease has undergone major changes in the past 5-10 years. Morphological and genetic studies constitute the basis for the new classification of the disease, and data emerging from the Cancer Genome Atlas suggest that genomic patterns differ within the two types of endometrial cancer. The prognosis seems to be related to occult lymphatic spread but the role of lymphadenectomy is heavily debated. Development of novel biomarkers, sentinel lymph node technique and refined radiological methods may reduce the need of comprehensive staging in the future. The results from the Cancer Genome Atlas suggest that women with endometrial cancer may benefit from »targeted therapies« in the evolving era of personalised medicine. 

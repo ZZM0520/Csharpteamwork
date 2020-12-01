@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17215032/
+title=Young patients with endometrial carcinoma selected for conservative treatment: a need for vigilance for synchronous ovarian carcinomas, case report and literature review.
+from:Gynecol Oncol
+time=2007 Mar
+abstract: Background:The aim of this paper is to report a case of synchronous ovarian malignancy in a very young patient with early endometrial cancer who desired fertility-sparing management.Case:Twenty one-year-old patient presented with an apparent early stage endometrial cancer and desiring conservative management. After failure of conservative management for 3 years, surgery was performed. An incidentally small papillary serous ovarian tumor of low malignant potential was found.Conclusion:Careful preoperative and intraoperative assessment of the adnexa is mandatory in young women with endometrial cancer. Those who desire ovarian preservation should be counseled regarding the high potential for coexisting ovarian malignancy.

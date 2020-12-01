@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27108545/
+title=Refining the Definition of Low-Risk Endometrial Cancer: Improving Value.
+from:Gynecol Oncol
+time=2016 May
+abstract: 

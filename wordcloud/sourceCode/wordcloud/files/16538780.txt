@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16538780/
+title=Radiotherapy improves survival in stage I endometrial cancer.
+from:Lancet Oncol
+time=2006 Mar
+abstract: 

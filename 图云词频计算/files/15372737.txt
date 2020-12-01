@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15372737/
+title=Can transvaginal sonographic measurement of endometrium alone predict endometrial cancer?
+from:Am J Obstet Gynecol
+time=2004 Aug
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20889443/
+title=[Role of laparoscopy in the treatment of early endometrial cancer].
+from:Orv Hetil
+time=2010 Oct 17
+abstract: Endometrial cancer is the most frequent malignant tumor of the female genital tract. Traditionally, surgical treatment is performed via laparotomy, but laparoscopy has recently gained wider acceptance. Data regarding survival and recurrence are comparable in case of laparotomy or laparoscopy. Surgical morbidity and postoperative recovery time are significantly lower by laparoscopy. In case of early endometrial cancer laparoscopy is an invaluable alternative method of choice but it has to be performed by skilled laparoscopic surgeons. Authors review the current literature regarding the role of laparoscopy in the treatment of early stage endometrial cancer.

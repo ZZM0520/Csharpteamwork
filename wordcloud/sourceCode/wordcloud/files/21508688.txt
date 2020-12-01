@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21508688/
+title=Endometrial cancer remains a major cause of cancer-related morbidity and mortality among women. Foreword.
+from:Clin Obstet Gynecol
+time=2011 Jun
+abstract: 

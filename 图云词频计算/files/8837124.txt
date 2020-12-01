@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8837124/
+title=Changing concepts in the management of endometrial cancer.
+from:Oncology (Williston Park)
+time=1996 Jul
+abstract: Endometrial carcinoma was a clinically staged disease until the late 1980s, at which point, staging changed to a surgicopathologically defined system. This change in staging, in turn, altered the clinical management of this cancer. Based on surgicopathologic prognostic information, adjuvant radiation evolved from a preoperative treatment for all patients to a postoperative treatment for selected patients. The role of radiation in surgically staged patients is currently being evaluated. More innovative systemic strategies are needed for patients with advanced or recurrent disease.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8765289/
+title=Surgical staging for endometrial cancer.
+from:Am J Obstet Gynecol
+time=1996 Aug
+abstract: 

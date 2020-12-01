@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15947972/
+title=Endometrial cancer.
+from:Cell Tissue Res
+time=2005 Oct
+abstract: Endometrial cancer is the most common gynaecological malignancy in the developed world. The majority of cases can be divided into two broad categories based on clinico-pathological and molecular characteristics; Type I oestrogen-dependent with endometrioid morphology and Type II non-oestrogen-dependent with serous papillary or clear cell morphology. As has been described for other malignancies, such as colorectal carcinoma, the transition from normal endometrium to carcinoma is thought to involve a stepwise accumulation of alterations in cellular regulatory pathways leading to dysfunctional cell growth. This article reviews the current knowledge of the molecular changes commonly associated with endometrial cancer and presents possible progression models.

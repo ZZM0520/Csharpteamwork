@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23156285/
+title=[Therapy of the recurrent endometrial cancer].
+from:Nihon Rinsho
+time=2012 Jun
+abstract: 

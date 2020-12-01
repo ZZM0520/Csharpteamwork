@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26722044/
+title=Gremlin 2 is Repressed in Invasive Endometrial Cancer and Inhibits Cell Growth In Vitro.
+from:Anticancer Res
+time=2016 Jan
+abstract: Background:There exist limited therapeutic opportunities regarding the treatment of endometrial cancer (EC), and novel therapies based on the molecular profiling of EC cells are required.Materials and methods:We used microarray analysis of EC tumour samples in order to identify tumour-specific changes regarding gene expression.Results:It was found that gremlin 2, an inhibitor of bone morphogenetic protein (BMP) signaling, was repressed in EC samples, and that gremlin 2 inhibited tumour cell growth.Conclusion:Down-regulation of gremlin 2 may lead to carcinogenesis and progression of EC. We suggest that re-activation of gremlin 2-associated pathways could suppress EC progression and should thus be explored as a potential novel therapeutic approach.

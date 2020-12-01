@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15582010/
+title=Comment on "The impact of complete surgical staging on adjuvant treatment decisions in endometrial cancer".
+from:Gynecol Oncol
+time=2004 Dec
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1296308/
+title=[Cancer of the endometrium. Epidemiology, diagnosis, development, prognosis, treatment].
+from:Rev Prat
+time=1992 Nov 15
+abstract: 

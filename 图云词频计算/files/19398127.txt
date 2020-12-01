@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19398127/
+title=Residual tumor after neoadjuvant chemotherapy and interval debulking surgery for advanced endometrial cancer.
+from:Gynecol Oncol
+time=2009 Aug
+abstract: 

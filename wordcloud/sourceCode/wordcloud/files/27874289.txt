@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27874289/
+title=Epigenetic changes as prognostic predictors in endometrial carcinomas.
+from:Epigenetics
+time=2017 Jan 2
+abstract: Endometrial carcinoma is one of the most frequent gynecological malignancies of the female. The diagnostic and prognostic markers for the high-risk subgroups with unfavorable prognosis are under intense debate worldwide, and, therefore, the aim of this study was to identify new potential DNA methylation markers for the high-risk groups. We used the Illumina Infinium HumanMethylation450 BeadChip to analyze the DNA methylation pattern and investigated its association with clinicopathological features important for defining the high-risk (FIGO-grade 3) and low-risk (FIGO-grade 1) groups of patients with endometrial cancer (n = 31 and n = 39, respectively). We identified specific DNA methylation signature in high-risk endometrial tumors, and potential molecular biomarker genes (TBX2, CHST11, and NID2) associated with unfavorable clinical predictive and prognostic factors.

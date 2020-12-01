@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19167050/
+title=Sentinel node of endometrial cancer after hysteroscopic injection.
+from:Gynecol Oncol
+time=2009 May
+abstract: 

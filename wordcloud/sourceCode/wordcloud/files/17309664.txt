@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17309664/
+title=Adjuvant therapy for early-stage endometrial cancer: a review.
+from:Int J Gynecol Cancer
+time=2007 Sep-Oct
+abstract: Most patients with endometrial cancer (EMC) present their symptoms early in their course, leading to an overall favorable outcome. However, some patients who are in early-stage diseases may carry some risk features that would hamper their prognoses. For these early-stage diseases with high risk of recurrences, radiation therapy certainly plays a major role as an adjuvant treatment. Despite an excellent local diseases control by radiation, systemic failures are still encountered. To improve the prognoses, other types of adjuvant therapy have been attempted. In this review, various options of adjuvant treatment for this early-stage EMC including radiation therapy, chemotherapy, and hormonal therapy are discussed.

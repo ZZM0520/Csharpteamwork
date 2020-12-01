@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30707144/
+title=Reply to Alizadeh's Letter to the Editor on 'Dietary patterns and endometrial cancer: a meta-analysis'.
+from:Eur J Cancer Prev
+time=2019 Mar
+abstract: 

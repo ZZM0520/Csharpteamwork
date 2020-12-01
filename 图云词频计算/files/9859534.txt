@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9859534/
+title=[The diagnostic value of dilatation and curettage in endometrial carcinoma].
+from:Akush Ginekol (Sofiia)
+time=1998
+abstract: The diagnostic accuracy of endometrial curettage is studied in 75 patients treated for endometrial cancer with respect to: 1. Detection of endometrial cancer; 2. Histologic type and grade of the cancer; 3. Spread to the cervical canal. It is found that: 1. The diagnosis of cancer by D&amp;C is correct in 84% of cases; 2. The diagnosis of adenosquamous cancer is made by D&amp;C in 25%; 3. Evidence of spread to the cervical canal by D&amp;C is found in 24 cases and confirm ed by surgery in 7 (29.2%) cases, giving a false positive rate of 70.8%. Negative finding in py with target biopsy is advisable in cases of: 1. Positive cervical finding in the D&amp;C specimen; 2. Negative finding in D&amp;C specimen amd persisting symptoms.

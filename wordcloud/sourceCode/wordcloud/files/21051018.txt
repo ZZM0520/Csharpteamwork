@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21051018/
+title=Laparoscopy or laparotomy for early endometrial cancer?
+from:Lancet Oncol
+time=2010 Nov
+abstract: 

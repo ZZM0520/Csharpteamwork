@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8307498/
+title=Estrogen and endometrial cancer: an epilogue a la recherche du temps perdu.
+from:Gynecol Oncol
+time=1994 Jan
+abstract: 

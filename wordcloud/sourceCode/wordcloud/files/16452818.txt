@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16452818/
+title=[The validity of chemotherapy in the treatment of endometrial cancer].
+from:Gynakol Geburtshilfliche Rundsch
+time=2006
+abstract: Endometrial cancer is a heterogeneous tumour with two types which can be distinguished clinically, histologically and pathogenetically:the classical endometrioid cancer (type 1) with a good prognosis and the aggressive histological type 2 with a poor prognosis and early metastatic spread. The most active cytotoxic drugs in advanced or metastatic endometrial cancer are the anthracyclines, the platinum salts and the taxanes. In most studies, combination chemotherapy is superior to monotherapy in terms of response rates. In the last few years there is growing evidence that chemotherapy can prolong overall survival in metastatic endometrial cancer and that adjuvant chemotherapy can reduce recurrence rates in high-risk situations.

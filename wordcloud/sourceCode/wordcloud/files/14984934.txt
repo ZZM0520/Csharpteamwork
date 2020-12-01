@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/14984934/
+title=Adjuvant radiotherapy following properly staged endometrial cancer: what role?
+from:Gynecol Oncol
+time=2004 Mar
+abstract: 

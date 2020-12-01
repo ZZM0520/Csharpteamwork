@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24020138/
+title=Role of omentectomy and appendectomy in surgical staging of endometrioid endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=2013
+abstract: Purpose:The purpose of this study was to determine whether it was necessary to add omentectomy and appendectomy to the surgical staging of endometrioid endometrial cancer.Materials and methods:Records were reviewed from June 2005 to June 2009 for endometrioid endometrial cancer patients who underwent total abdominal hysterectomy, bilateral salpingo-oophorectomy, pelvic and para-aortic lymphadenectomy, infracolic omentectomy and appendectomy.Results:In total, 186 patients were included in the analysis. Disease was limited to uterus in 93% of patients and 87% of patients had Stage I disease. There was only one omental metastasis and no appendix metastasis in all stages.Conclusion:Routine omentectomy and appendectomy are unnecessary in surgical staging of endometrioid endometrial cancer unless there is suspicion of gross metastases during intraoperative examination.

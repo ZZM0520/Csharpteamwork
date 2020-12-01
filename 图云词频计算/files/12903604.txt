@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12903604/
+title=[Hysteroscopy in the diagnosis of endometrial carcinoma].
+from:Tumori
+time=2003 Jul-Aug
+abstract: Objective:To determine the diagnostic value of hysteroscopy in endometrial cancer.Methods:216 patients underwent hysteroscopy and endometrial biopsy. A comparison was made between hysteroscopic impression and histological examination.Results:Sensitivity of hysteroscopy for diagnosing of endometrial cancer was 83.33%, specificity was 99.04%, positive predictive value was 71.42% and negative predictive value was 99.52%.Conclusion:Hysteroscopy was found to have a very important role in the diagnosis of endometrial cancer.

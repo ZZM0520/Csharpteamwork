@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18440189/
+title=Post-operative ascites following lymphadenectomy for early stage endometrial cancer.
+from:Eur J Surg Oncol
+time=2009 Jul
+abstract: 

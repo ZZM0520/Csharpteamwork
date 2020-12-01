@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8571063/
+title=[Endometrial cancer. Epidemiology, diagnosis, clinical course, management].
+from:Rev Prat
+time=1995 Dec 1
+abstract: 

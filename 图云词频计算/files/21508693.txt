@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21508693/
+title=The role of lymphadenectomy in endometrial cancer.
+from:Clin Obstet Gynecol
+time=2011 Jun
+abstract: The role of lymphadenectomy in the management of endometrial cancer is rapidly evolving. Although retrospective reports have suggested that lymphadenectomy is associated with a therapeutic benefit, recent prospective trials have questioned the therapeutic effect of lymphadenectomy. Lymphadenectomy remains the gold standard for detecting metastatic disease to the regional nodes. In this review, we discuss the controversies surrounding lymphadenectomy for endometrial cancer.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12893236/
+title=Concern with "Is there a survival benefit to adjuvant radiotherapy in high-risk surgical stage I endometrial cancer?".
+from:Gynecol Oncol
+time=2003 Aug
+abstract: 

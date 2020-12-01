@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28034650/
+title=Untangling the Black-White mortality gap in endometrial cancer: a cohort simulation.
+from:Am J Obstet Gynecol
+time=2017 Mar
+abstract: 

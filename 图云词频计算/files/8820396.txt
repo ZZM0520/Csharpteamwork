@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8820396/
+title=[Cervico-vaginal and endometrial cytology in the screening for endometrial cancer].
+from:Minerva Ginecol
+time=1995 Nov
+abstract: In contrast to cervical cancer, no routine mass screening programs for the early detection of endometrial cancer have been organized. All of the methods used by cytologists for studying endometrial changes have limitations. Cervicovaginal smears allow diagnosis of, at best, 60% to 70% of carcinomas of the endometrium. Intrauterine sampling is another possible method. It consists of direct aspiration of uterine cavity, scraping or brushing of the mucosa or uterine washing. Any method of endometrial sampling is imperfect, even dilatation and curettage has been shown to miss endometrial carcinoma. The lack of an effective, inexpensive and easy-to-use sampling method is the reason for the nonexistent decline in the incidence of invasive endometrial carcinoma.

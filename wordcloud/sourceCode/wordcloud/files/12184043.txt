@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12184043/
+title=Endometrial cancer.
+from:Semin Oncol Nurs
+time=2002 Aug
+abstract: Objectives:To provide an update for nurses involved in the care of women at risk or being treated for endometrial cancer.Data sources:Review articles, research reports, and medical and nursing text-books.Conclusions:Endometrial cancer is the most common gynecologic malignancy. Although most women with endometrial cancer present with early stage disease and have an excellent chance of cure, approximately 6,600 women in the United States are expected to die from the disease in 2002. Treatment of patients with advanced or recurrent disease remains challenging, with no proven best standard of treatment.Implications for nursing practice:Nursing plays an important role in prevention and early detection of endometrial cancer, patient education, patient care, and rehabilitation.

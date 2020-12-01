@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21956474/
+title=Endometrial cancer and application of proteomics.
+from:Exp Oncol
+time=2011 Sep
+abstract: 

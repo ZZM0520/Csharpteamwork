@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23792598/
+title=Comments on "Effects of uterine manipulation on surgical outcomes in laparoscopic management of endometrial cancer: a prospective randomized clinical trial".
+from:Int J Gynecol Cancer
+time=2013 Jul
+abstract: 

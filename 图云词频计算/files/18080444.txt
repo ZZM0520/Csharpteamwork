@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18080444/
+title=Cervical and endometrial cancer during pregnancy.
+from:Recent Results Cancer Res
+time=2008
+abstract: 

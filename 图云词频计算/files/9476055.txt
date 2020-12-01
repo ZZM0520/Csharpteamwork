@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9476055/
+title=Endoscopic lymphadenectomy and LAVH in the treatment of endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=1998
+abstract: This article describes the results of two and half years experience in laparoscopic treatment of patients with endometrial cancer stage I and II. Between January 1994 and October 1996, 25 patients were treated by laparoscopy procedures. All of them had performed LAVH and pelvic lymphadenectomy. The technique of the laparoscopic procedure was accurately described. No operative complications were observed and blood loss did not exceed 250 ml. In 7 patients (27.8%) nodal metastases were found. Mean 14 (range 7-25) lymph nodes were removed. After surgery some patients required radiotherapy. Up to now all patients are free of disease. We believe that laparoscopic assisted surgical staging of stage I and II endometrial cancer is an attractive alternative to the traditional surgical laparotomy approach.

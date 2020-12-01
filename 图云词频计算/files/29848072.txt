@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/29848072/
+title=Expression and prognostic value of miRNA-29b in peripheral blood for endometrial cancer.
+from:Future Oncol
+time=2018 Jun
+abstract: Aim:We explored the role of miR-29b expression in endometrial cancer (EC) progression and patient prognosis.Materials &amp; methods:Patients with primary or metastatic EC (n = 356), patients with endometrial benign tumors (n = 149) and healthy female subjects (n = 155) were collected. We assessed the diagnostic value of miR-29b expression for EC using a receiver operating characteristic curve.Results:The miR-29b expressions were lower in patients with primary or metastatic EC. Using miR-29b expression to diagnose EC produced 0.976 area under the curve, 96.1% sensitivity and 97.9% specificity. Cox proportional hazard regression model verified a low miR-29b expression and is an unfavorable prognostic indicator for EC.Conclusion:We conclude that downregulated miR-29b expression correlates with poor EC prognosis and is helpful to evaluate the EC prognosis.

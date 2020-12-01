@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16635327/
+title=[Study of differential gene expression in different stage human endometrial cancer].
+from:Zhonghua Fu Chan Ke Za Zhi
+time=2006 Jan
+abstract: Objective:To study the gene expression profile of different stage endometrial cancer and identify genes related to the progression and metastasis of endometrial cancer.Methods:cDNA microarray was used to analyze the differentially expressed genes between different stage endometrial cancers. The hierarchical cluster analysis was applied to the gene expression profile of 32 endometrial cancers.Results:Twelve differentially expressed genes were identified between different stage endometrial cancers. The conformity rate was 66% between the result of hierarchical cluster analysis and the operative-histological stages of International Federation of Gynecology and Obstetrics (FIGO).Conclusion:Genes related to the endometrial cancer progression and metastasis can be identified by differential gene expression profile with cDNA microarray and high-risk endometrial cancer may be distinguished before surgery by hierarchical cluster analysis.

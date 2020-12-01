@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19908401/
+title=Patient information. Endometrial cancer.
+from:Am Fam Physician
+time=2009 Nov 15
+abstract: 

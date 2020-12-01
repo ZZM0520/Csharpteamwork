@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26443384/
+title=The role of miRNAs in endometrial cancer.
+from:Epigenomics
+time=2015
+abstract: miRNAs are small noncoding RNAs that regulate gene expression at the post-transcriptional level. Since their discovery, miRNAs have been associated with every cell function including malignant transformation and metastasis. Endometrial cancer is the most common gynecologic malignancy. However, improvement should be made in interobserver agreement on histological typing and individualized therapeutic approaches. This article summarizes the role of miRNAs in endometrial cancer pathogenesis and treatment. 

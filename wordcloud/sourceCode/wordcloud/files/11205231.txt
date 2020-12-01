@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11205231/
+title=Macrophage infiltration and angiogenesis in endometrial cancer.
+from:Anticancer Res
+time=2000 Nov-Dec
+abstract: The aim of this study was to determine whether tumor-associated macrophages (TAMs) infiltration correlates with clinicopathological factors including microvessel, counts and clinical outcome in endometrial cancer. Overall 56 out of the 109 endometrial cancers (51.4%) expressed distinct tumor-associated macrophages infiltration in their tumor stroma. Tumor-associated macrophages infiltration was significantly high in tumors with deep myometrial invasion, high grade and elderly patients. Microvessel counts strongly correlated with tumor-associated macrophages infiltration in tumor stroma (p = 0.0002). However, tumor-associated macrophages infiltration was not a prognostic factor. In conclusion, tumor-associated macrophages may play a crucial role in the promotion of angiogenesis, but can not be used to prodict prognosis of patients with endometrial cancer.

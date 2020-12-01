@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10422678/
+title=Endometrial stromal sarcoma: a clinicopathologic study.
+from:Eur J Gynaecol Oncol
+time=1999
+abstract: Background:This study is a clinicopathologic evaluation of five patients with endometrial stromal sarcoma.Patients and methods:Over a period of 9 years 5 cases of ESS were observed in our Unit. The patients were retrospectively staged according to the FIGO staging system for endometrial cancer. The neoplasm was divided into two groups based on mitotic activity. Patients underwent endouterine curettage, surgery therapy and, except one of them, chemotherapy.Results:Two patients had low-grade ESS stage Ib and Ic. The other three had high-grade ESS, and were in stage IIIa. Treatment was surgery for all patients, and adjuvant chemotherapy for 4 out of 5. Both patients in stage I are alive, clinically free from the disease, 25 and 36 months after diagnosis. In stage III all patients died 14, 25 and 36 months after diagnosis.Conclusion:ESS is a rare uterine neoplasm. Histologic grade is the most important prognostic factor.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8039747/
+title=[Adjuvant postoperative treatment of endometrial cancer].
+from:Gynakologe
+time=1994 Apr
+abstract: 

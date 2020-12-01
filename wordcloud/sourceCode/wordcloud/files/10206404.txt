@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10206404/
+title=The importance of family history in young patients with endometrial cancer.
+from:Eur J Obstet Gynecol Reprod Biol
+time=1999 Feb
+abstract: Endometrial cancer occurs primarily in postmenopausal women older than 60 years of age. Especially in young patients with endometrial cancer, a positive family history with respect to cancer and/or development of synchronous or metachronous tumors can be indicative of hereditary factors. One genetic disorder, playing an important role in the development of endometrial cancer in young women, is hereditary non-polyposis colorectal cancer (HNPCC). The mean age to develop endometrial cancer because of a mutation in one of the HNPCC-genes is below 50 years. Mutation carriers have a life-time risk of about 50% for endometrial cancer. Especially young patients with endometrial cancer should always be asked for the family history and after primary treatment the family history should regularly be updated during follow-up.

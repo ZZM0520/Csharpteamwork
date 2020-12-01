@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26810685/
+title=Re: Reappraisal of endometrial thickness for the detection of endometrial cancer in postmenopausal bleeding: a retrospective cohort study.
+from:BJOG
+time=2016 Feb
+abstract: 

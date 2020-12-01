@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31434687/
+title=Endometrial cancer during pregnancy: management strategies.
+from:Int J Gynecol Cancer
+time=2019 Sep
+abstract: 

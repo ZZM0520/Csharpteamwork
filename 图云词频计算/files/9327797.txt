@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9327797/
+title=Is routine follow-up after endometrial cancer justified?
+from:CMAJ
+time=1997 Oct 1
+abstract: 

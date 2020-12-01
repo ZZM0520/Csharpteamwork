@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7705671/
+title=Predicting endometrial cancer among older women who present with abnormal vaginal bleeding.
+from:Gynecol Oncol
+time=1995 Mar
+abstract: We studied 203 women ages 49 or over who presented with abnormal vaginal bleeding and who underwent either endometrial biopsy or dilation and curettage at the Brigham and Women's Hospital. Using information from the clinical history, we predicted their risk for endometrial cancer (36 patients) or complex endometrial hyperplasia (16 patients). Factors independently associated with endometrial cancer/complex hyperplasia included age 70 or older (OR = 9.1, P = 0.0001), diabetes (OR = 3.7, P = 0.02), and nulliparity (OR = 2.7, P = 0.02). After adjusting for age, menopause was borderline significant (OR = 2.6, P = 0.07). Our data estimated a risk of endometrial cancer/complex hyperplasia of 87% for a woman possessing all of these factors, and a risk of less than 3% if she had none of them. Our model provides an inexpensive, simple means for assessing the risk of endometrial cancer and complex hyperplasia in the post- or perimenopausal woman with abnormal bleeding.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8267085/
+title=Interval to treatment in endometrial cancer.
+from:Am J Obstet Gynecol
+time=1993 Dec
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26682635/
+title=Flotillin-1 protein is upregulated in human endometrial cancer and localization shifts from epithelial to stromal with increasing tumor grade.
+from:Cancer Invest
+time=2016
+abstract: Endometrial cancer is the most common invasive gynecological malignancy. Flotillin-1 is an integral membrane protein and estrogen responsive gene. Flotillin-1 expression and localization in human endometrial cancers grades 1-3 was investigated using real-time RT-PCR and immunohistochemistry. Flotillin-1 mRNA levels were unchanged in endometrial cancer versus benign endometrium. Flotillin-1 protein was significantly reduced in the epithelial compartment with increasing tumor grade, although levels increased in the tumor stroma across grades. We have identified a novel factor in human endometrial cancer and observed a shift in epithelial to stromal localization with increasing tumor grade in women. 

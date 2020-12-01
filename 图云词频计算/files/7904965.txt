@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7904965/
+title=Estrogen replacement therapy and endometrial cancer. ACOG Committee Opinion: Committee on Gynecologic Practice Number 126--August 1993.
+from:Int J Gynaecol Obstet
+time=1993 Oct
+abstract: 

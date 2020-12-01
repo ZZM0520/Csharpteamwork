@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17009649/
+title=Sentinel node biopsy helps to diagnose spread of endometrial cancer. A case report.
+from:Eur J Gynaecol Oncol
+time=2006
+abstract: Background:The sentinel lymph node (SLN) could improve the staging of endometrial cancer.Case:In a patient with endometrial cancer, preoperative lymphoscintigraphy showed a highly radioactive SLN in the left external iliac chain and a radioactive SLN in the right external iliac chain and at the promontory. Intraoperative lymphatic mapping using blue dye and a hand-held gamma probe showed the same nodes, as well as a blue node near the vena cava. Selective removal of these nodes allowed detection of a micrometastasis in the left external iliac node. Pelvic node dissection was performed, and a micrometastasis was found in a left non sentinel iliac node.Conclusion:The presence in our patient of micrometastases in a SLN and in a non-SLN belonging to the same chain confirms the value of SLN detection for diagnosing tumor spread.

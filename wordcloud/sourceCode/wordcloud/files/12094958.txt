@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12094958/
+title=Identification of high risk patients with endometrial carcinoma. Prognostic assessment of endometrial cancer.
+from:Eur J Gynaecol Oncol
+time=2002
+abstract: Objectives:To verify the importance of DNA ploidy on clinical outcome in endometrial carcinoma and to investigate whether the prognostic information obtained by this variable is independent from other clinical-pathologic features.Materials and methods:Univariate and multivariate analysis of clinical and pathologic prognostic factors obtained from 203 consecutive cases of endometrial cancer, that had been surgically treated in our hospital, were performed.Results:Significant prognostic factors according to the Kaplan-Meier method were age at the time of diagnosis, grade of differentiation, peritoneal cytology, node involvement, vascular invasion, myometrial infiltration and ploidy. At multivariate analysis only DNA ploidy resulted to be an independent variable.Conclusions:In our analysis DNA content is the only parameter which preserved prognostic significance in multivariate analysis.

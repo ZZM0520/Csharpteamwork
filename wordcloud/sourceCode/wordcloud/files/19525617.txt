@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19525617/
+title=[Laparoscopic approach in endometrial cancer: current data and evidence].
+from:Gynakol Geburtshilfliche Rundsch
+time=2009
+abstract: Endometrial cancer is the most common gynecologic malignancy in Switzerland. Nowadays the gold standard for the treatment of endometrial cancer is total abdominal hysterectomy, bilateral salpingo-oophorectomy and in most cases pelvic and para-aortic lymphadenectomy. However, the use of minimally invasive surgical techniques has increased in recent years. Several prospective, randomized trials demonstrate the safety, feasibility and effectiveness of laparoscopy; the impact on survival and disease-free survival is equivalent to that of laparotomy. In future, laparoscopy and maybe robotic surgery could be effective in a selected population. Until then, further large-scale, prospective multicenter studies with longer follow-ups are required to confirm the current data.

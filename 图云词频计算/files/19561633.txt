@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19561633/
+title=Role of lymphadenectomy in the staging of endometrial cancer.
+from:Nat Rev Clin Oncol
+time=2009 Jul
+abstract: 

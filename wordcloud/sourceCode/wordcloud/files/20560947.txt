@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20560947/
+title=Changes in the treatment of endometrial cancer.
+from:BJOG
+time=2010 Aug
+abstract: 

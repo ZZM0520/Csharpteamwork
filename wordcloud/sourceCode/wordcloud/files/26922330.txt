@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26922330/
+title=Lymphovascular Space Invasion as a Risk Factor in Early Endometrial Cancer.
+from:Curr Oncol Rep
+time=2016 Apr
+abstract: Management of early endometrial cancer is contentious these days with little agreement between oncologists as well as across MDTs or tumour boards and indeed across countries. This is because of the state of knowledge with regards to risk factors in early endometrial cancer; although we recognise risk factors affect outcome, we haven't yet been able to demonstrate that our treatments make a significant difference. We have reviewed available literature on LVSI and are able to demonstrate that it is an independent risk factor for nodal metastasis as well as distant recurrence. We need a randomised trial integrating grade and LVSI and testing therapeutic options of radiotherapy and chemotherapy. However, it is unlikely to see the light of day. Therefore, we are left with this knowledge of prognostic factors and it is our duty to integrate this into our decision-making during our multidisciplinary team meetings and make decisions tailored to individual patient circumstances. 

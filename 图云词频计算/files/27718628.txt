@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27718628/
+title=Renovated (nondual) approach to endometrial cancer typing: endocrine and inflammatory issues.
+from:Future Oncol
+time=2017 Jan
+abstract: 

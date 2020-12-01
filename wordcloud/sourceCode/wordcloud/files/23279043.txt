@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23279043/
+title=Grave outcome of granulocyte colony-stimulating factor-producing endometrial cancer: a case report and literature review.
+from:J Obstet Gynaecol Res
+time=2013 May
+abstract: Granulocyte colony-stimulating factor (G-CSF)-producing nonhematopoietic malignancies have been reported in various organs, and most of them have been associated with poor clinical outcome. However, because of the rarity of reported cases, information regarding G-CSF-producing gynecological malignancies, especially uterine corpus cancer, is limited. We report a case of G-CSF-producing endometrial cancer, which exhibited a grave clinical outcome. Our case strongly indicates the aggressive nature of G-CSF-producing endometrial cancer.

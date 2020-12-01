@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/30141611/
+title=Controversies on Transvaginal Ultrasound Screening for Endometrial Cancer in Asymptomatic Postmenopausal Women.
+from:Rev Med Chir Soc Med Nat Iasi
+time=2016 Oct-Dec
+abstract: Endometrial cancer (EC) in postmenopausal women is usually associated with abnormal vaginal bleeding. However, asymptomatic cases of EC have been reported. The incidence of EC has been estimated to 1.3-3.05 per 1,000 screened postmenopausal asymptomatic women, the most significant ultra-sonographic feature being the thickened endometrium. We reviewed the literature on the accuracy of endometrial thickness measurement by transvaginal sonography (TVS) in predicting EC in asymptomatic postmenopausal women. The use of endometrial thickness as a sole screening test was found not to be of high predictive value and it should be combined with the evaluation of EC risk factors and followed by hysteroscopy and biopsy in suspicious cases. The lack of a universal cut-off value for endometrial thickness that could be correlated to EC is pointed out.

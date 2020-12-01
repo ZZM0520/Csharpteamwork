@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10610349/
+title=Re: a significant correlation between melatonin deficiency and endometrial cancer.
+from:Gynecol Obstet Invest
+time=1999
+abstract: 

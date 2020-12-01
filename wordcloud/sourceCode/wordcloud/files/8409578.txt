@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8409578/
+title=Endometrial bacterial flora detected in patients with uterine endometrial cancer.
+from:Kansenshogaku Zasshi
+time=1993 Aug
+abstract: Certain bacteria produce some carcinogens such as N-nitro compounds, n-butyric acid and n-valeric acid. From this point of view, the examination of intrauterine bacterial flora in patients with uterine endometrial cancer may provide important information. Twenty patients with the diagnosis of uterine endometrial cancer and 20 patients without complications other than myoma uteri were enrolled in the study. Enterobacteriaceae, Streptococcus agalactiae and anaerobic bacteria were mainly detected. The products of these bacteria might be considered to contribute to the initiation of endometrial carcinogenesis. Mixed abnormal flora between aerobic and anaerobic bacteria were detected in all patients with uterine endometrial cancer. It is suggested that uterine endometrial cancer provides favorable conditions for bacterial growth. Mixed abnormal bacterial flora also might influence the onset and growth of uterine endometrial cancer.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9070125/
+title=The management of endometrial cancer.
+from:Br J Obstet Gynaecol
+time=1997 Feb
+abstract: 

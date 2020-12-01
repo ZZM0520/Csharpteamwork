@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24905773/
+title=Endometrial cancer: a review and current management strategies: part I.
+from:Gynecol Oncol
+time=2014 Aug
+abstract: Endometrial carcinoma is the most common gynecologic malignancy. A thorough understanding of the epidemiology, pathophysiology, and management strategies for this cancer allows the obstetrician-gynecologist to identify women at increased risk, contribute toward risk reduction, and facilitate early diagnosis. The Society of Gynecologic Oncology's Clinical Practice Committee has reviewed the literature and created evidence-based practice recommendations for diagnosis and treatment. This article examines: • Risk factors, including genetic predisposition • Diagnostic and metastatic evaluation • Surgical management of early and advanced cancer, including lymphadenectomy in early cancer.

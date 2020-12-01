@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15059170/
+title=Natural history of endometrial cancer: report of one woman who did not accept treatment.
+from:Acta Obstet Gynecol Scand
+time=2004 May
+abstract: 

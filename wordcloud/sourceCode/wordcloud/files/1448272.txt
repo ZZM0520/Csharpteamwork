@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1448272/
+title=[Importance of prognostic factors in the prognosis of cancer of the endometrium].
+from:Orv Hetil
+time=1992 Nov 29
+abstract: 126 stage I and II endometrial cancer patients were followed up for at least 5 years to evaluate the impact of surgical-pathological risk factors on the survival. Out of the prognostic variables evaluated the age and clinical stage failed to influence the 5-year survival rate. The effect on survival of factors such as low grade of differentiation and the depth of myometrial infiltration was however significant, (p &lt; 0.01 and p &lt; 0.001 respectively). The early local recurrence has also significant negative prognostic value (p &lt; 0.05). This latter can be effectively prevented through the prehysterectomy suture of the external cervical os. On the basis of their findings authors suggest to consider the grade and the depth of myometrial invasion beside the clinical stage at the determination of the extension of the surgical procedure and at the decision on the administration of postoperative irradiation.

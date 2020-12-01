@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8735304/
+title=ACOG committee opinion. Tamoxifen and endometrial cancer. Number 169, February 1996. Committee on Gynecologic Practice. American College of Obstetricians and Gynecologists.
+from:Int J Gynaecol Obstet
+time=1996 May
+abstract: 

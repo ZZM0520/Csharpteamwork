@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10948629/
+title=[Endometrial cancer: a current therapeutic and diagnostic protocol].
+from:Akush Ginekol (Sofiia)
+time=2000
+abstract: In the presented methodical scheme, consecutively and systematically are scrutinised the epidemiology, the risk factors, the etiopathogenesis, the histopathology and the clinical signs of the endometrial cancer. The diagnostic possibilities, as well as the staging principles are pointed. The current treatment tactics, therapeutic schemes according to the stage and follow-up corresponding to the requirements of the oncological doctrine are presented.

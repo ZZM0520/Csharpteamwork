@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23797524/
+title=Minimally invasive diagnosis and treatment of endometrial cancer after LeFort colpocleisis.
+from:Female Pelvic Med Reconstr Surg
+time=2013 Jul-Aug
+abstract: Background:Endometrial carcinoma is rare after LeFort colpocleisis. Standards for its diagnosis and treatment have not been established.Case:A 74-year-old woman presented with postmenopausal bleeding 14 months after LeFort colpocleisis. Here, we describe the use of the colpocleisis channels in our novel 2-stage approach. In the first stage, endometrial carcinoma was diagnosed with vaginohysteroscopy and dilatation and curettage via the channels. In the second stage, the cancer was optimally treated with total robotic hysterectomy, bilateral salpingo-oophorectomy, and lymph node dissection. Assistance and specimen retrieval were achieved through the vaginal channels. The patient recovered without compromise to the pelvic floor.Conclusions:Endometrial cancer after LeFort colpocleisis can be diagnosed and treated with minimally invasive approaches without disrupting the colpocleisis or the pelvic floor support.

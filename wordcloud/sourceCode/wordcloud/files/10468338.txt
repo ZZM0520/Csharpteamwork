@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10468338/
+title=Genetic analysis of familial and multiple malignancies of endometrial cancer.
+from:Int J Gynaecol Obstet
+time=1999 Aug
+abstract: The presence of the positive replication errors (RER) phenotype in familial and multiple primary malignancies of endometrial cancer, and its association with a poor prognosis was examined. We analyzed 40 endometrial cancers for RER. Eight endometrial cancers with the RER(+) phenotype at multiple microsatellite loci were detected. The presence of the RER(+) phenotype was higher than in non-familial malignancies. None of the eight cases with the RER(+) phenotype involved multiple primary malignancies; however these patients had shorter survival times. In this study, we suggest that RER examination in endometrial cancer may be useful for establishing a diagnosis of a familial malignancy, and for predicting a poor prognosis.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7844456/
+title=[A case of endometrial cancer detected at 2 years after childbirth].
+from:Nihon Sanka Fujinka Gakkai Zasshi
+time=1995 Jan
+abstract: 

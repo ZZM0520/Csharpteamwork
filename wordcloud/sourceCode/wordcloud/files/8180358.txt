@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8180358/
+title=Surgicopathologic staging of endometrial adenocarcinoma.
+from:Curr Opin Obstet Gynecol
+time=1994 Feb
+abstract: In 1988, the International Federation of Gynecologists and Obstetricians' (FIGO) staging criteria for endometrial cancer were changed to require that surgical observations be included in the staging process. Staging now requires thorough intraperitoneal and retroperitoneal search and documentation of metastatic cancer; in addition, direct uterine inspection for tumor invasion and degree of cervical involvement replace length of uterine cavity and endocervical curettage. With change, there have naturally been questions regarding the method, benefit, and risk of surgical staging. The major concerns include: do all patients require surgical staging? what are the risk factors of endometrial cancer? what is gained from preoperative evaluation? what is the technique of surgical staging? what are the hazards to the patient? how is staging incorporated into treatment? and, what is the current experience with surgical staging? These questions are addressed in this review.

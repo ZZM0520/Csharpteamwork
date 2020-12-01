@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18692881/
+title=Endometrial cancer and lymph node surgery: the spins continue--a case for reason.
+from:Gynecol Oncol
+time=2008 Oct
+abstract: 

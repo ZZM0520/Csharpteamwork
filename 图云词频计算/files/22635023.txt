@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22635023/
+title=From the tailoring of adjuvant treatment to the tailoring of pelvic and aortic lymphadenectomy in stage I endometrial cancer.
+from:Int J Gynecol Cancer
+time=2012 Jun
+abstract: 

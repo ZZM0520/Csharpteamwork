@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15887315/
+title=Endometrial cancer may need additional treatment.
+from:Health News
+time=2005 May
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18549088/
+title=[Laparoscopy in the management of endometrial cancer].
+from:Rev Med Suisse
+time=2008 Apr 16
+abstract: Recent advance in laparoscopy have changed the surgical approach of endometrial cancer patients. The Swissendos Center, Fribourg, in collaboration with AGO (Groupe de travail pour la gynécologie oncologique) and AGE (groupe de travail pour la gynécologie endoscopique) have established a consensus based on the available evidence for the use of laparoscopy in the management of patients with endometrial cancer The main objective was to define Swiss clinical practice guidelines appropriate to the country and consistent with the needs of the physicians.

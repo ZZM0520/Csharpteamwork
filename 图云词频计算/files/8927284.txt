@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8927284/
+title=[Transvaginal echographic evaluation of myometrial invasion in patients with endometrial cancer].
+from:Minerva Ginecol
+time=1996 Jun
+abstract: Twenty-one patients with endometrial cancer who underwent laparotomy, were pre-operatively examined by transvaginal sonography. A deep myometrial invasion (&gt; 50%) was noted sonographically in 9 patients (42.3%), with a superficial invasion (&lt; 50%) in 12 (57.2%). A deep invasion was histologically seen in 10 patients (47.6%), with a superficial invasion in 11 (52.4%). In myometrial deep invasion evaluation, transvaginal sonography showed a 90% sensibility, a 73% specificity, a 75% positive predictive value and a 93% negative predictive value. In 3 cases (14.3%) the invasion depth was sonographically overestimated and in 1 case (4.8%) underestimated. These results make possible an important role of transvaginal sonography in staging endometrial cancer, to select patients needing for pelvic and lomboaortic lymphadenectomy over total abdominal hysterectomy with vaginal collar.

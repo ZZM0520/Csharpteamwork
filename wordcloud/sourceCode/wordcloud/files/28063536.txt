@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28063536/
+title=Role du traitement adjuvant en matiere de cancer de l'endometre.
+from:J Obstet Gynaecol Can
+time=2016 Dec
+abstract: 

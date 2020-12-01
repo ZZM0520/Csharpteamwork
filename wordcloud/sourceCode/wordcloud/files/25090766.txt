@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25090766/
+title=[Decision and therapeutic tree for endometrial cancer].
+from:Rev Prat
+time=2014 Jun
+abstract: Endometrial cancer is the most common gynecological cancer in France with a favorable overall prognosis. This article is based on the new recommendations for diagnosis and treatment of endometrial cancer published by the National Cancer Institute in 2010. Data from endometrial biopsy (histological type and grade) and pelvic MRI (FIGO stage) assess the prognosis of the disease and determine the therapeutic management. Treatment is thus better adapted to each situation and there is a de-escalation therapy for patients with limited stage and, in contrast, a more extensive treatment for some patients with a poorer prognosis.

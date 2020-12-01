@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11873312/
+title=[Treatment of endometrial carcinoma - evidence based criteria].
+from:Zentralbl Gynakol
+time=2002 Jan
+abstract: The evaluation of decisions in treating endometrial cancer according to levels of evidence and grades for recommendation is gaining importance. This can help to evaluate results of studies and publications for guidelines and standards in treating endometrial cancer. - Concerning endometrial cancer there are some publications with a high level of evidence especially in early stages whereas data of treating progressive and advanced disease with a high level of evidence is lacking. - There are some studies with an acceptable level of evidence evaluating radiation and surgical treatment in stages I and II. In stages III and IV further data concerning evaluation of hormonal treatment and chemotherapy is pending.

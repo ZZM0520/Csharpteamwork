@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17991358/
+title=Treatment considerations in advanced endometrial cancer.
+from:Curr Oncol Rep
+time=2007 Nov
+abstract: An estimated 39,080 new cases of endometrial cancer will occur in the United States in 2007, along with 7400 deaths associated with this disease. Fortunately, with surgical staging, the majority of women are diagnosed with disease at an early stage and are often completely treated with a hysterectomy alone. However, 13% of women who are surgically staged have stage III disease, and 3% to 13% have stage IV disease identified at that time. Over the past 10 years, the role of cytoreductive surgery, radiotherapy, and chemotherapy in endometrial cancer have been actively investigated. This review outlines and summarizes some of these important developments and findings.

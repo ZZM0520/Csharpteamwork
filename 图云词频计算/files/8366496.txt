@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8366496/
+title=Link found between smoking and risk of endometrial cancer.
+from:J Psychosoc Nurs Ment Health Serv
+time=1993 Jul
+abstract: 

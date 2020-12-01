@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9595298/
+title=Antiestrogenic compounds inhibit estrogen induced expressions of basic fibroblast growth factor and its mRNA in well-differentiated endometrial cancer cells.
+from:Gen Pharmacol
+time=1998 Jul
+abstract: 

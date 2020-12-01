@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19362225/
+title=Clinicopathologic significance of DNA mismatch repair defects in endometrial cancer: the devil is in the details.
+from:Gynecol Oncol
+time=2009 May
+abstract: 

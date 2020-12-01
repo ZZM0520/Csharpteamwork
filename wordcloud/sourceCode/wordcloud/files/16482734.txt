@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16482734/
+title=Educating women regarding the early detection of endometrial cancer--what is the evidence?
+from:Clin J Oncol Nurs
+time=2006 Feb
+abstract: Endometrial cancer, cancer of the lining of the uterus, is the most common gynecologic malignancy in the United States, with an estimated 40,880 new cases diagnosed in 2005 (American Cancer Society [ACS], 2005a). Fortunately, mortality rates for endometrial cancer are relatively low, with 96% of women living five years or longer after being diagnosed with localized disease. Most women (72%) are diagnosed with localized disease (Ries et al., 2002) because early-stage, localized disease most often presents with abnormal uterine bleeding, leading many women to seek prompt medical attention, ultimately resulting in early detection (ACS, 2005a).

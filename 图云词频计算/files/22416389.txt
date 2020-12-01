@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22416389/
+title=[Laparoscopic surgery for treatment of endometrial cancer].
+from:Vopr Onkol
+time=2011
+abstract: Surgery is the cornerstone of the treatment of endometrial cancer. With introduction of new technologies the laparoscopic intervention becomes increasingly popular for treatment of endometrial cancers. Forty five patients with endometrial cancer were operated in N.N. Petrov Research Institute of Oncology from September 2011 to March 2011. Laparoscopic hysterectomy with appendages was performed in 30 patients (66.7%), in 14 (66.7%) patients was also performed pelvic lymphadenectomy and in 1 (2.2%) case additional omentectomy was required. There were no intraoperative complications. The postoperative period was characterized by early mobilization, satisfactory intestinal peristaltic in the first 24 hours, minimal complication rate and absence of contraindications for adjuvant radiotherapy.

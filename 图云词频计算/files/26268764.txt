@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26268764/
+title=[Pathologic assessment and clinical impacts for endometrial cancer and precursors after progestin treatment].
+from:Zhonghua Bing Li Xue Za Zhi
+time=2015 Mar
+abstract: 

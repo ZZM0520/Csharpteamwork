@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/14751179/
+title=Laparoscopic enterolysis before adjuvant radiotherapy in a case of endometrial cancer.
+from:Gynecol Oncol
+time=2004 Jan
+abstract: Case:A 33-year-old woman presenting with endometrial cancer stage FIGO Ic. After hysterectomy, bilateral oophorectomy and lymph node dissection, combined radiotherapy was indicated. Computer tomography scan was performed to plan radiotherapy and large bowel adhesions were found. To prevent bowel complications during radiation therapy, laparoscopic enterolysis of the adhesions was performed. We were able to start and apply radiation therapy only 22 days after initial laparotomy. Our patient had a history of deep vein thrombosis as a result of oral contraceptive medication. The endoscopic treatment enabled us to shorten the time of immobilization and bed rest substantially.Conclusion:Laparoscopy is an appropriate method to prevent complications due to radiotherapy.

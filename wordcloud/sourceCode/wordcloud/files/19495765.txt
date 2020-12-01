@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19495765/
+title=[Modern therapy concepts for endometrial cancer].
+from:Pathologe
+time=2009 Jul
+abstract: Most cases of endometrial cancer (EC) become symptomatic at an early stage and have a good prognosis. EC has been traditionally treated with total abdominal hysterectomy plus bilateral salpingo-oophorectomy. For early stage, low grade cases (endometrioid, pT1a, pT1b; G1, G2) this is adequate therapy. For higher stages and grades, especially for type II EC (serous, clear cell) this therapy is insufficient. The efficacy of systematic pelvic and paraaortic lymphadenectomy for high risk EC, however, remains to be evaluated. External pelvic radiotherapy has been shown to improve local control in stage I and II EC, but has no positive effect on survival. A comparable improvement of local control can be achieved by vaginal brachytherapy with significantly less toxicity. Adjuvant chemotherapy is probably efficacious in EC. Its usefulness as exclusive adjuvant therapy or in combination with brachytherapy and/or external beam therapy remains to be evaluated by prospective trials.

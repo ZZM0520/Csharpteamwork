@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22198566/
+title=Personalized therapy in endometrial cancer: challenges and opportunities.
+from:Cancer Biol Ther
+time=2012 Jan 1
+abstract: Early stage endometrial cancer is generally curable. However, progress in the treatment of advanced and recurrent endometrial cancer has been limited. This has led to a shift from the use of traditional chemotherapeutic agents and radiotherapy regimens to the promising area of targeted therapy, given the large number of druggable molecular alterations found in endometrial cancer. To maximize the effects of directed targeted therapy, careful molecular characterization of the endometrial tumor is necessary. This represents an important difference in the use of targeted therapy vs. traditional chemotherapy or radiation treatment. This review will discuss relevant pathways to target in endometrial cancer as well as the challenges that arise during development of a personalized oncology approach.

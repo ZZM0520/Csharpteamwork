@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22381261/
+title=Lymphadenectomy in endometrial cancer: what's the right question?
+from:Am J Obstet Gynecol
+time=2012 May
+abstract: 

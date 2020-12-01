@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18706845/
+title=[Stage I endometrial carcinoma].
+from:Cancer Radiother
+time=2008 Nov
+abstract: Most endometrial cancers are diagnosed at stage I (disease limited to the uterine corpus). The definitive treatment for endometrial carcinoma consists in total abdominal hysterectomy and bilateral salpingo-oophorectomy with or without lymphadenectomy. The decision of adjuvant treatment depends on risk factors. Postoperative radiotherapy plays a major role in the management of stage I endometrial cancer but the respective place of external radiotherapy and vaginal brachytherapy remains controversial. Adjuvant external beam radiotherapy reduces locoregional recurrences, but carries a risk of toxicity without overall survival benefits. Recent data suggest that vaginal brachytherapy is effective in preventing vaginal recurrence with lower toxicity and should be the treatment of choice for intermediate risk endometrial cancer.

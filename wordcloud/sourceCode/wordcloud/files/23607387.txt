@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23607387/
+title=[Objective assessment of the tissue trauma in surgery of endometrial cancer].
+from:Ceska Gynekol
+time=2013 Jan
+abstract: Objective:To review the current possibilities of objective assessment of tissue trauma in surgical treatment of endometrial cancer.Type of study:Review article.Setting:Department of Obstetrics and Gynaecology, Faculty of Medicine and Dentistry, Palacky University in Olomouc.Material and methods:After critical evaluation of relevant contemporary literature, selected methods of the objective estimation of the extent of tissue trauma are presented. The aim of their choice was to find methods objectivly assessing the extent of tissue trauma in connection with using different types of surgical procedures in endometrial cancer treatment.Conclusion:The following clinical and biochemical markers - VAS, KO, CRP, IL-6, neopterin, kynurenin, retinol, α-tocoferol and citrulin seem to be best suitable for the assessment of surgical trauma. These markers should objectivly evaluate the peroperative burden in different types of surgical procedures used for treatment of endometrial cancer.

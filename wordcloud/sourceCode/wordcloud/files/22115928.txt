@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22115928/
+title=DNA ploidy in endometrial cancer: unfinished business?
+from:Ann Oncol
+time=2012 May
+abstract: 

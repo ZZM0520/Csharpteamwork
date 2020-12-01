@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17700504/
+title=Endometrial cancer. Recognizing signs, understanding risks.
+from:Mayo Clin Womens Healthsource
+time=2007 Sep
+abstract: 

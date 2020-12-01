@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19435210/
+title=[New ultrasonic techniques in the diagnosis and monitoring of endometrial cancer].
+from:Vopr Onkol
+time=2009
+abstract: Sixty-six peri- or postmenopausal patients with endometrial pathology were treated and followed-up. Ultrasound, color Doppler examination and energy mapping of uterine intra-tumor vessels were used. Endometrial carcinoma was diagnosed in 52 (78.8%), mean age 65.4 +/- 7.0. Ultrasound angiography is instrumental in such diagnosis as it registers peculiarities of intra-organ and tumor-related features. It contributes to improvement of diagnosis and to efficacy of antitumor therapy monitoring.

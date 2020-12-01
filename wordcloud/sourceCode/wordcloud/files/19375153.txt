@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19375153/
+title=Updating of a recent meta-analysis of randomized controlled trials to assess the safety and the efficacy of the laparoscopic surgery for treating early stage endometrial cancer.
+from:Gynecol Oncol
+time=2009 Jul
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10887635/
+title=Clinical trials referral resource. Current clinical trials in endometrial cancer.
+from:Oncology (Williston Park)
+time=2000 Jun
+abstract: 

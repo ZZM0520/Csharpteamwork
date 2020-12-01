@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22982616/
+title=Role of estrogen receptor beta in gynecological cancer.
+from:Gynecol Oncol
+time=2012 Dec
+abstract: Estrogen receptor β is expressed in normal and neoplastic ovarian and endometrial tissues. Recent studies indicate that levels of this receptor decline in ovarian tumorigenesis, like in breast or prostate cancer. Furthermore, ERβ expression has been associated with good prognosis in ovarian cancer. In contrast, previous studies on the role of this receptor in endometrial cancer suggested that ERβ might play different roles in the carcinogenesis of the ovary and endometrium. Besides its possible role as a prognostic factor, ERβ might be a potential target for the treatment of ovarian and endometrial cancer.

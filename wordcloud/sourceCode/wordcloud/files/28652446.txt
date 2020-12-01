@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28652446/
+title=Debulking Surgery for High-grade Serous Endometrial Cancer with Disseminated Peritoneal Lesions.
+from:In Vivo
+time=2017 Jul-Aug
+abstract: Endometrial cancer is one of the most common malignancies in postmenopausal women with good results in terms of survival, especially when diagnosed in early stages. However, prognosis significantly worseness when disseminated lesions are found. We present the case of a 60-year-old patient who presented with diffuse abdominal pain and weight loss. The patient was diagnosed with endometrial cancer with disseminated lesions and successfully submitted to debulking surgery. At two-year follow-up, the patient presents no recurrent disease.

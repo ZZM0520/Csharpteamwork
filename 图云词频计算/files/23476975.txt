@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23476975/
+title=[IV. Minimal invasiveness treatment for young women with endometrial cancer].
+from:Gan To Kagaku Ryoho
+time=2013 Feb
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26508591/
+title=A critical assessment on the role of sentinel node mapping in endometrial cancer.
+from:J Gynecol Oncol
+time=2015 Oct
+abstract: Endometrial cancer is the most common gynecologic malignancy in the developed countries. Although the high incidence of this occurrence no consensus, about the role of retroperitoneal staging, still exists. Growing evidence support the safety and efficacy of sentinel lymph node mapping. This technique is emerging as a new standard for endometrial cancer staging procedures. In the present paper, we discuss the role of sentinel lymph node mapping in endometrial cancer, highlighting the most controversies features. 

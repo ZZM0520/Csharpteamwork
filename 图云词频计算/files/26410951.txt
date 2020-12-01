@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/26410951/
+title=[THE ROLE OF POSITIVE PERITONEAL CYTOLOGY DURING THE SURGERY OF ENDOMETRIAL CANCER].
+from:Akush Ginekol (Sofiia)
+time=2015
+abstract: A survey to investigate the incidence rate and prognostic factors for positive peritoneal cytology in patients with endometrial cancer has been conducted.

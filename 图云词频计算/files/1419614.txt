@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1419614/
+title=Trends in endometrial cancer incidence and survival in the Swiss Canton of Vaud.
+from:Br J Cancer
+time=1992 Oct
+abstract: 

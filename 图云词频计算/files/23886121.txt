@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23886121/
+title=Molecular therapy as a future strategy in endometrial cancer.
+from:Asian Pac J Cancer Prev
+time=2013
+abstract: Of all gynecologic cancers, endometrial cancer is the most common cancer in the US and Europe. In addition, it is presently the second most common gynecologic cancer in the world. As a result of increasing menopausal, obese and tamoxifen use women, the incidence of the cancer seems to be on the increase. Surgery is the major treatment, whereas postoperative radiation therapy in high-intermediate risk patients many prevent locoregional recurrence. Adjuvant chemotherapy can improve progression free survival in advanced or recurrent cancers. Molecular targeted therapies are now a focus of attention including anti-vascular endothelial growth factor (VEGF), mammalian target of rapamycin (mTOR) inhibitor and tyrosine kinase inhibitor (TKI). They may provide useful future strategies for control of endometrial malignancies in developing countries and across the world. 

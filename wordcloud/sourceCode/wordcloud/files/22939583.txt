@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22939583/
+title=Lymph node dissection in endometrial cancer treatment--to do or not to do, that remains the question.
+from:Gynecol Oncol
+time=2012 Oct
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7732953/
+title=Carcinoma of the endometrium.
+from:Am Fam Physician
+time=1995 May 1
+abstract: Carcinoma of the endometrium is the most common gynecologic malignancy. The majority of women present with stage I disease, and the most common presenting symptom is postmenopausal bleeding. Early detection of endometrial cancer is important, because up to 90 percent of patients with stage I disease can be successfully treated. Certain risk factors, such as obesity, hypertension and diabetes mellitus, are associated with the development of this malignancy. Office endometrial sampling has a sensitivity of up to 97 percent for diagnosing carcinoma of the endometrium and can often eliminate the need for dilatation and curettage. Endometrial cancer is treated by total abdominal hysterectomy, bilateral salpingo-oophorectomy and, in many cases, postoperative radiation therapy.

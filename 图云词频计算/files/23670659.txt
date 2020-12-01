@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23670659/
+title=Genetics: new classification for endometrial cancer puts genes in POLE position.
+from:Nat Rev Clin Oncol
+time=2013 Jun
+abstract: 

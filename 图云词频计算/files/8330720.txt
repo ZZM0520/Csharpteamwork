@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8330720/
+title=[Hysteroscopic staging of endometrial cancer. Comment on the contribution by R. Schild, Th. Kutter].
+from:Geburtshilfe Frauenheilkd
+time=1993 Jun
+abstract: 

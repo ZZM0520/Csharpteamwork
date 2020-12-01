@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25549990/
+title=The emerging epidemic of endometrial cancer: Time to take action.
+from:Cochrane Database Syst Rev
+time=2014 Dec 22
+abstract: 

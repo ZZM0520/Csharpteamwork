@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15053075/
+title=Preoperative brachytherapy in endometrial cancer--proposal of a new clinical protocol.
+from:Eur J Gynaecol Oncol
+time=2004
+abstract: High-dose rate brachytherapy preoperative treatment has been described. The proposal of a protocol contains an outline of patient qualifications for this kind of treatment, as well as necessary laboratory and diagnostic imaging examinations. Methods of brachytherapy (low-dose rate and high-dose rate), methods of surgery and postoperative management of patients with endometrial cancer are discussed.

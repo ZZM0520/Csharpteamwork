@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15759345/
+title=Diagnostic analysis of two sister pairs with endometrial cancer.
+from:Di Yi Jun Yi Da Xue Xue Bao
+time=2005 Feb
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/21257077/
+title=Endometrial cancer.
+from:Gynecol Oncol
+time=2011 Feb
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15107259/
+title=Hormone therapy after endometrial cancer.
+from:J Br Menopause Soc
+time=2003 Dec
+abstract: Endometrial carcinoma is often listed in data sheets as an absolute contraindication to hormone replacement therapy. However, observational studies have not shown an increased rate of recurrence or mortality. Thus, it is often used after stage I or II disease. Alternatives such as progestogens, tibolone, raloxifene, venlafaxine and herbal preparations are examined. The use of progestogens is under discussion because of potential adverse effects on the breast. Generally after treatment for endometrial cancer, current preference should be for low-dose oestrogen monotherapy rather than continuous combined therapy with progestogen addition in view of the increased risk of breast cancer and cardiovascular disease found with the latter regimen. It is important to note that risk factors for endometrial cancer such as hypertension, obesity, polycystic ovary syndrome and diabetes mellitus also increase the risk of cardiovascular disease. However, women must be informed about potential risks and the use of alternatives.

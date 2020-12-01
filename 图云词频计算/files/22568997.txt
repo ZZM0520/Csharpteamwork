@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22568997/
+title=Towards individualisation of treatment in endometrial cancer.
+from:Br J Cancer
+time=2012 May 8
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25025796/
+title=[Follow-up of endometrial cancer].
+from:Bull Cancer
+time=2014 Jul-Aug
+abstract: Available data on appropriate follow-up in endometrial cancer highlight the need of well-conducted studies. Most recurrences tend to occur within three years and involve symptoms. Routine tests are not advocated without symptoms. In case of suspicious recurrence, TEP/CT seems to be the most sensitive and specific method. There is limited evidence to decide whether follow-up schedules with multiple visits result in survival benefits. An appropriate follow-up should be discussed based upon the risk of recurrence. Counselling on the potential symptoms of recurrence should be a major aim. 

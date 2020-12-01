@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23344296/
+title=Risk factors for developing endometrial cancer after benign endometrial sampling.
+from:Obstet Gynecol
+time=2013 Feb
+abstract: 

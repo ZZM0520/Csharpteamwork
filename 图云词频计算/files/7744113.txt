@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7744113/
+title=Hysteroscopy with selective endometrial sampling after unsuccessful dilatation and curettage in diagnosis of symptomatic endometrial cancer and endometrial hyperplasias.
+from:Eur J Gynaecol Oncol
+time=1995
+abstract: We report the incidence of endometrial hyperplasia and endometrial cancer recognised by hysteroscopy in 202 patients with recurrent abnormal uterine bleeding. In all these women previously performed dilatation and curettage was unsuccessful. Endoscopy connected with direct biopsy allowed us to recognise in 26 (12.9%) patients pathological endometrial lesions in 19 of cases endometrial hyperplasia (with or without cell atypia) and in 7 patients endometrial cancer. The hysterosocpically recognised abnormalities in more than 70% were focal. Hysteroscopy with selective endometrial biopsy, performed after unsuccessful curettage is an essential tool in the diagnosis of recurrent abnormal uterine bleeding caused by pathological endometrial lesions.

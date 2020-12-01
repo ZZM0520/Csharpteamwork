@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9196568/
+title=Endometrial cancer.
+from:Br J Hosp Med
+time=1997 Mar 19-Apr 1
+abstract: 

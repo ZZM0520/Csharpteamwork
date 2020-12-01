@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/1796840/
+title=[Endometrial cancer: the value of radio-oncology].
+from:Arch Gynecol Obstet
+time=1991
+abstract: 

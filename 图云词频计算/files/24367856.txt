@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/24367856/
+title=The value of pelvic radiation therapy after hysterectomy for early endometrial cancer.
+from:Oncology (Williston Park)
+time=2013 Oct
+abstract: Although endometrial carcinoma is one of the most common cancers affecting women, most cases are detected at an early stage and are cured with hysterectomy alone. Most recurrences occur in the relatively small subset of patients whose surgical specimens reveal multiple risk factors. Clinicians have sought to define adjuvant treatments that can improve the outcome of treatment for these higher-risk patients. Although randomized trials have demonstrated that radiation therapy improves local control, they have failed to demonstrate an improvement in survival with radiation therapy. In this review, the results and limitations of studies concerning adjuvant radiation therapy and chemotherapy for endometrial cancer will be discussed, focusing on evidence that can help to guide treatment decisions.

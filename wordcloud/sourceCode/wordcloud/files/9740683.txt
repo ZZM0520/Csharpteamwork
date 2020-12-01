@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9740683/
+title=Staging and therapeutic value of lymphadenectomy in endometrial cancer.
+from:Gynecol Oncol
+time=1998 Aug
+abstract: 

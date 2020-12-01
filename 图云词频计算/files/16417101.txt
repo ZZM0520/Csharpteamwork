@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16417101/
+title=[Angiogenesis-prognostic factor in patients with endometrial cancer].
+from:Ginekol Pol
+time=2005 Oct
+abstract: Endometrial carcinoma is one of the most commonly found cancers. In numerous kinds of cancers, tumor microvessel density correlates with clinical stage of disease and is considered as an independent prognostic factor. Evaluation of angiogenesis intensity in endometrial cancer also seems to be an independent prognostic factor and statistically correlates with FIGO stage of disease, histological type and grade of tumor, depth of myometrial invasion and metastasis. Activity of angiogenic factors in human tissues and serum provides additional reference concerning the growth and progression of endometrial cancer.

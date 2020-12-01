@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15277252/
+title=Endometrial cancer: a frequent orphan disease.
+from:Ann Oncol
+time=2004 Aug
+abstract: 

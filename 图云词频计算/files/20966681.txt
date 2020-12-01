@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20966681/
+title=Predicting parametrial involvement in endometrial cancer: is this the end for radical hysterectomies in stage II endometrial cancers?
+from:Obstet Gynecol
+time=2010 Nov
+abstract: 

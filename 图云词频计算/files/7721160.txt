@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/7721160/
+title=[Prognostic survival of women after surgery for endometrial cancer].
+from:Ginekol Pol
+time=1994 Sep
+abstract: The influence a few factors on prognosis on 5-th year survival has been estimated in 367 patients with endometrial cancer with stage I, II and III disease which underwent surgery and radiotherapy. The stage is the most important and competent authority indicators of prognosis on 5-th year survival, among prognostic variables for endometrial carcinoma the most important have been identified as: 1) histologic type, 2) grading, 3) depth of myometrial invasion. The 5 year survival appeared correlated with the age of patients survival of patients younger than 59 years of age was higher and statistically significant.

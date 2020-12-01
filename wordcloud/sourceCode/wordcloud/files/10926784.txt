@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10926784/
+title=Is there a role for surgical cytoreduction in stage IV endometrial cancer?
+from:Gynecol Oncol
+time=2000 Aug
+abstract: 

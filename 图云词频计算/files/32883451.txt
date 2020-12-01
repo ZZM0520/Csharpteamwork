@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/32883451/
+title=Eliminating disparities in endometrial cancer: adherence to high-quality care is not enough.
+from:Am J Obstet Gynecol
+time=2020 Sep
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16956055/
+title=[Molecular prognostic factors and pathogenesis of endometrial cancer].
+from:Ceska Gynekol
+time=2006 Jul
+abstract: Objective:To evaluate the importance of molecular markers for prognosis and pathogenesis of endometrial carcinoma.Design:A review article.Setting:Department of Medical Genetics and Fetal Medicine, University Hospital, Olomouc, Department of Obstetrics and Gynecology, University Hospital, Olomouc.Methods:This article reviews the current knowledge of the molecular changes in the development of endometrial cancer, and their possible importance for the patient's prognosis.Conclusion:The new molecular biomarkers are apparently going to play a significant role in the management of endometrial carcinoma treatment in the near future.

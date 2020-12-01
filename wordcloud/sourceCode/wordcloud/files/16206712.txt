@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16206712/
+title=[Methods of screening for endometrial cancer].
+from:Srp Arh Celok Lek
+time=2005 Mar-Apr
+abstract: One of the established strategies for combating cancer is screening the asymptomatic population for premalignant conditions and early-stage disease. The prevalence of endometrial cancer in asymptomatic women is low and the overall prognosis is good because women present in early stage with abnormal bleeding. For all these reasons, screening for endometrial cancer is not recommended in general population. However, screening in high risk population will be very important in the future.

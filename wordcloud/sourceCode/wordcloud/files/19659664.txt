@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19659664/
+title=Rare presentation of endometrial carcinoma with singular bone metastasis.
+from:Eur J Cancer Care (Engl)
+time=2010 Sep
+abstract: The major symptom at diagnosis of endometrial cancer is post-menopausal bleeding; it is present in around 90% of cases. Singular bone metastasis is described as an uncommon site for endometrial cancer at diagnosis, showing in just 5-6% of cases. In this report we describe a rare presentation of a singular bone metastasis because of endometrial cancer of a woman with previous diagnosis of early breast cancer. A review of literature uncovered some cases of bone metastasis at presentation of endometrial cancer and that it can occur as first symptom of cancer before vaginal bleeding. This rare presentation of uterine cancer needs to be studied and described because it may be seen and needs a homogeneous treatment to improve survival.

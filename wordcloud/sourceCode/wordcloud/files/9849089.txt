@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9849089/
+title=[Measures to prevent endometrial cancer in hyperplastic processes].
+from:Voen Med Zh
+time=1998 Oct
+abstract: 

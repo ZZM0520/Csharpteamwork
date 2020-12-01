@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19126501/
+title=The roles of endoscopy in endometrial cancer.
+from:Taiwan J Obstet Gynecol
+time=2008 Dec
+abstract: Advancements in technology have increased the availability of valuable minimally invasive techniques for gynecologists to use in the management of patients with endometrial cancer. Hysteroscopy has recently been confirmed as an accurate diagnostic method for endometrial carcinoma. Several retrospective studies have found increased positive peritoneal cytology in women who underwent hysteroscopy, but recent studies have indicated that there is currently no evidence to suggest that diagnostic hysteroscopy increases the risk of malignant cells spreading into the peritoneal cavity, or worsens the prognosis in women with endometrial carcinoma. Laparoscopy plays an important role in treating endometrial cancer. Most studies have shown no differences in recurrence rates or survival between patients who underwent laparoscopic or abdominal staging surgery. Laparoscopy offers many advantages, including avoidance of an abdominal incision, a shorter hospital stay, and a probable more rapid recovery time.

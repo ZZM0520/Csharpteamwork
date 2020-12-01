@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/27048101/
+title=Management of endometrial cancer: issues and controversies.
+from:Eur J Gynaecol Oncol
+time=2016
+abstract: Although endometrial cancer (EC) is the most common gynecologic cancer in developed countries, several aspects of its management are still controversial. In particular, the need to perform lymphadenectomy represents an important matter of discussion. Because of the discordant results in the literature, it is still not possible to draft any definitive conclusions regarding the therapeutic value of lymph node dissection. The present review discusses the role of lymphadenectomy in the setting of EC, risk factors for lymphatic spread, identification of patients at risk for lymph node dissemination, and the current evidence for adjuvant therapies in patients with positive nodes. Reasons for the difficulty in demonstrating any therapeutic value of pelvic and para-aortic lymphadenectomy are also discussed.

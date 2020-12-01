@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9150182/
+title=ERT for survivors of endometrial cancer? A new trial will resolve debate.
+from:J Natl Cancer Inst
+time=1997 May 7
+abstract: 

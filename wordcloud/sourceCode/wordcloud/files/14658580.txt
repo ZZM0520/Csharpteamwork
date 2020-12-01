@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/14658580/
+title=Adjuvant radiotherapy in Stage I endometrial cancer. Where do we stand?
+from:Eur J Gynaecol Oncol
+time=2003
+abstract: This paper reviews the anatomical spread and failure patterns of surgical Stage I endometrial cancer. The controversial aspects of the optimal adjuvant treatment are presented. An attempt is made to identify the most effective management approach based on the pertinent literature data.

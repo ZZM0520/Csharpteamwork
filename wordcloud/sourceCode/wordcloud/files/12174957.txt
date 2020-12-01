@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12174957/
+title=Inguinal lymph node metastasis as the presenting symptom of endometrial cancer: a case report.
+from:Anticancer Res
+time=2002 Jul-Aug
+abstract: Background:Less than 5% of patients with endometrial cancer present with stage IV disease and among these inguinal metastasis is rare.Case:A 54-year-old patient presented with a palpable, 5x3 cm right inguinal mass. Histopathology showed bulky lymph nodes with mucinous adenocarcinoma. Hysteroscopy and curettage revealed well-differentiated endometrioid adenocarcinoma. Total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy and systematic pelvic and paraaortic lymphadenectomy were performed. Final histopathology showed an endometrioid adenocarcinoma with infiltration of the inner half of the myometrium. Metastases up to 2.3 cm in diameter were found in 11 out of 76 pelvic, and 17 out of 51 paraaortic lymph nodeConclusion:Inguinal lymph node metastasis can occur in patients with endometrial cancer and may be the presenting symptom in patients with occult endometrial disease.

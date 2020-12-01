@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/18761190/
+title=Early stage endometrial cancer: to radiate or not to radiate--that is the question.
+from:Gynecol Oncol
+time=2008 Sep
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/16199620/
+title=Endometrial cancer with concurrent ovarian malignancy: assessing the risks.
+from:Obstet Gynecol
+time=2005 Oct
+abstract: 

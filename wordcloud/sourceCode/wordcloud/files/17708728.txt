@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/17708728/
+title=Three cases of endometrial cancer associated with "bioidentical" hormone replacement therapy.
+from:Med J Aust
+time=2007 Aug 20
+abstract: We describe three women who developed endometrial cancer after taking "bioidentical" hormone replacement therapy (HRT) to relieve menopausal symptoms. Although pharmaceutical HRT is a well established and tested therapy, little is known about the quality control, safety and efficacy of bioidentical HRT. Women should be advised to avoid bioidentical HRT, and those who continue to use it should receive regular endometrial surveillance.

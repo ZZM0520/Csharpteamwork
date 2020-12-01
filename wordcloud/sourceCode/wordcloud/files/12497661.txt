@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/12497661/
+title=Clinicopathologic and biological parameters predicting the prognosis in endometrial cancer.
+from:Yonsei Med J
+time=2002 Dec
+abstract: Endometrial carcinoma is the most common malignancy of the female genital tract in United States or Europe, but in Korea, its incidence is comparatively low than that of cervical cancer of uterine cervix. Recently the prolonged life expectancy, postmenopausal use of hormone replacement therapy, and the availability of easily applied diagnostic techniques have led to increasing incidence of endometrial cancer. Although during the past several decades, the histopathology, spread patterns, and prognostic factors of endometrial cancers have been better defined, the clinicopathologic and biologic prognostic parameters should be further evaluated for the better treatment results in endometrial cancer.

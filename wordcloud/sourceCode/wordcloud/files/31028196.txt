@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31028196/
+title=Co-localization of Coagulation Factor X and its Inhibitory System, PZ/ZPI, in Human Endometrial Cancer Tissue.
+from:In Vivo
+time=2019 May-Jun
+abstract: Background/aim:Hemostatic system components contribute to cancer progression independently from their roles in hemostasis. It has been shown that protein Z (PZ)/protein Z-dependent protease inhibitor (ZPI) inhibit coagulation factor X (FX). The aim of the study was to analyze the expression of PZ/ZPI in relation to the main coagulation factor - FX in human endometrial cancer tissue.Materials and methods:Immunohistochemical analysis was performed on 21 endometrial cancer specimens employing antibodies against ZPI, PZ and FX.Results:Endometrial cancer cells showed a strong expression of ZPI and PZ and medium expression of FX. Normal endometrial tissue showed no expression of ZPI, PZ or FX.Conclusion:Strong expression of PZ and ZPI in endometrial cancer cells suggests a role of these proteins in endometrial cancer.

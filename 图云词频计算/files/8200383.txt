@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/8200383/
+title=Adjuvant progestagen therapy improves survival in patients with endometrial cancer after hysterectomy. Results of one-institutional prospective clinical trial.
+from:Eur J Gynaecol Oncol
+time=1993
+abstract: A prospective study was conducted to determine the effectiveness of adjuvant hormonotherapy in endometrial cancer after surgery. Two hundred and five patients were randomly assigned to adjuvant progestagen treatment or were given no additional therapy. The follow-up was 5-years. We concluded that there was evidence of gain from adjuvant progestagen therapy in postoperative endometrial cancer. The group of patients who received progestagens had significantly longer survival than the control group without hormonotherapy (Logrank test; P &lt; 0.001).

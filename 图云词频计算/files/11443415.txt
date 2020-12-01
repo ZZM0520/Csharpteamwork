@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/11443415/
+title=Trocar-site metastasis is not always due to laparoscopy.
+from:Surg Endosc
+time=2001 Aug
+abstract: The use of laparoscopic surgical techniques for the management of gynecologic malignancies has increased over the last years. Metastasis developing at the trocar insertion site is an emerging problem. We present the case of a 66-year-old woman with endometrial cancer who was diagnosed with an umbilical tumor after laparoscopically assisted vaginal hysterectomy (LAVH) and bilateral salpingoophorectomy. The interval between LAVH and diagnosis of the umbilical tumor was 13 months. The tumor was excised, and metastasis of endometrial cancer was histologically confirmed. Review of computer tomograms taken before LAVH showed a tumor in the umbilical area that had not been recognized before therapy. Therefore, tumor manifestation at the abdominal wall after laparoscopic surgery should not automatically be considered the result of iatrogenic spreading.

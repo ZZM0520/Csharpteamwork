@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22621816/
+title=The risk of diagnostic hysteroscopy in women with endometrial cancer.
+from:Am J Obstet Gynecol
+time=2012 Jul
+abstract: Objective:We sought to evaluate whether hysteroscopy in patients with endometrial cancer had an effect on disease stage or mortality.Study design:This was a retrospective cohort analysis of data linked between a registry of women diagnosed with endometrial cancer and physician billing data on hysteroscopy.Results:A 99.8% match rate was obtained. Eighty-five percent of cases had complete data on staging. Of these 1972 cases, 672 (34.1%) had undergone hysteroscopy. There was no difference in stage III disease between the hysteroscopy (7.1%) vs no hysteroscopy (6.5%) group (P = .38). There was also no difference in death rates, 13.2% vs 15.2% (P = .25), or in the proportion of women dying of female genital organ cancer, 46.1% vs 42.1% (P = .53), respectively.Conclusion:Hysteroscopy is not associated with a higher rate of stage III disease or mortality. It allows for accurate diagnosis with direct visualization and biopsy, and should be considered a safe diagnostic tool.

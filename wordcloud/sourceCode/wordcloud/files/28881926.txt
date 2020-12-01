@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/28881926/
+title=Appendix 5: Endometrial cancer: eUpdate published online 8 June 2017 (www.esmo.org/Guidelines/Gynaecological-Cancers).
+from:Ann Oncol
+time=2017 Jul 1
+abstract: 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/23691598/
+title=[Characterization of stem cells in human normal endometrium and endometrial cancer].
+from:Fukuoka Igaku Zasshi
+time=2013 Feb
+abstract: 

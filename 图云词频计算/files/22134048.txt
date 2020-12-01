@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/22134048/
+title=[Endometrial cancer imaging].
+from:Bull Cancer
+time=2012 Jan
+abstract: Endometrial cancer is staged according to the International Federation of Gynecology and Obstetrics surgical system. Clinical estimation of stage, however, can be inaccurate in more than 20%, and therefore, preoperative imaging of the disease may assist in planning the optimal course of treatment. Magnetic resonance imaging (MRI) may detect gross myometrial extension or extension of tumor to the cervical stroma, which can alter management and therefore help in preoperative surgical planning. This issue is increasingly relevant as less invasive surgical techniques, such as laparoscopic surgeries, are becoming more commonplace for lower stage cancers. Currently, MRI is the most widely used modality for preoperative planning.

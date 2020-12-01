@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19819649/
+title=[Surgical treatment of early endometrial cancer: what are the benefits of laparoscopy?].
+from:J Gynecol Obstet Biol Reprod (Paris)
+time=2009 Nov
+abstract: The development of gynaecologic laparoscopic surgery has also spread into some areas of the pelvic cancer surgery. Nevertheless, in France, less than 5% of interventions for endometrial cancer are currently performed by laparoscopy. As compared with laparotomy, laparoscopy, which is equally effective, provides per- and postoperative benefits, with comparable recurrence and survival rates. Operators' training seems to be the most significant limitation to the development of laparoscopy in the surgical treatment of early endometrial cancer.

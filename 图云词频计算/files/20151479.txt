@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20151479/
+title=Endometrial cancer. Caught early, often curable.
+from:Mayo Clin Health Lett
+time=2010 Jan
+abstract: 

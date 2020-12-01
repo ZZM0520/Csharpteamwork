@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19258955/
+title=Endometrial cancer state of the science meeting.
+from:Int J Gynecol Cancer
+time=2009 Jan
+abstract: There is a pressing need to improve our understanding of endometrial cancer (EC) and uterine carcinosarcoma and to develop new treatment strategies to improve outcomes. In recognition of this, a State of the Science meeting on EC was held last November 28 and 29, 2006, in Manchester, United Kingdom. The meeting was cosponsored by the National Cancer Research Institute (UK), the National Cancer Institute (US), and the Gynecological Cancer Intergroup. The objectives of the meeting were as follows: 1. To review current knowledge and understanding of EC and its treatments. 2. To identify key issues for translational research and clinical trials. 3. To identify the most important trials for women with endometrial carcinoma and uterine carcinosarcoma, both those already underway or to be done, for which the Gynecological Cancer Intergroup might facilitate international cooperation.

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25531045/
+title=USA endometrial cancer projections to 2030: should we be concerned?
+from:Future Oncol
+time=2014 Dec
+abstract: Aim:As the incidence of endometrial cancer (EC) increased considerably since 2007, this study aimed to project the burden of EC to the year 2030.Methods:Multivariate linear regression was used to project EC incidence by modeling trends in EC incidence from 1990 to 2013, while accounting for temporal changes in obesity, hysterectomy and smoking.Results:The best-fitting model predicting EC rates included a time effect plus effects for hysterectomy (12-year lag), severe obesity (3-year lag) and smoking (9-year lag). The best-fitting model projected an increase to 42.13 EC cases per 100,000 by the year 2030, a 55% increase over 2010 EC rates.Conclusion:The projected increase of EC over next 16 years indicates the need for close monitoring of EC trends.

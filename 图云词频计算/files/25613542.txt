@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/25613542/
+title=The immune system in the normal endometrium and implications for endometrial cancer development.
+from:J Reprod Immunol
+time=2015 Jun
+abstract: Although described for the first time some decades ago, the contribution of the immune system to the establishment of tumors has not been extensively pursued for a long time. Over the last decade, however, more and more evidence has been accumulating concerning the role the immune system plays in tumor development and progression and its possible role in patient prognosis. In addition, interest is growing in preclinical and clinical research concerning the use of the immune system in the treatment of cancer. Immunotherapy for gynecological cancers in general, and for endometrial cancer in particular, is still in its infancy. Only a small number of studies, with varying success rates, have been published. Here, we provide a concise overview of the literature available on the role of the immune system in the normal endometrium and in endometrial cancer, in addition to the possible implications for future immunotherapeutic studies. 

@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20709223/
+title=Para-aortic lymphadenectomy in endometrial cancer.
+from:Lancet
+time=2010 Aug 14
+abstract: 

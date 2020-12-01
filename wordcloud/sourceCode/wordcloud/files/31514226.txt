@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/31514226/
+title=Reflection on the current status of endometrial cancer in New Zealand.
+from:Aust N Z J Obstet Gynaecol
+time=2019 Dec
+abstract: Incidence of endometrial cancer is increasing rapidly in the developed world and is the most common gynaecological cancer in Australia and New Zealand. In line with obesity rates, the landscape and average age of women diagnosed with endometrial cancer are changing. There is still unmet need in early diagnosis, directed treatment, management of comorbidities and prevention strategies. This opinion piece aims to reflect on the current status of endometrial cancer in New Zealand in parallel to Australia, drawing out areas for future research and discussion.

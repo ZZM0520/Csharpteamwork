@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/20887169/
+title=Evidence-based review of the utility of radiation therapy in the treatment of endometrial cancer.
+from:Womens Health (Lond)
+time=2010 Sep
+abstract: Endometrial cancer is the most common cancer of the female genital tract in the USA and usually presents at an early stage. Most women are cured with surgery, however, some patients may require adjuvant therapy including radiation and/or chemotherapy. Risk factors determine the need for adjuvant treatment and, based on these risk factors, patients are categorized as being at low, intermediate or high risk for recurrence. In this article we will review the best level of evidence available for the use of radiation therapy within each risk stratum. The most controversy and debate is associated with patients stratified to the intermediate-risk group.

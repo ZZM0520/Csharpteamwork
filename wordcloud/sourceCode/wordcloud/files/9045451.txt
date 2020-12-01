@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/9045451/
+title=[The prognostic significance of progesterone receptor level in endometrial cancer].
+from:Ugeskr Laeger
+time=1997 Jan 27
+abstract: Oestrogen receptor (ER) and progesterone receptor (PR) contents were determined by biochemical (dextran charcoal-coated (DCC) assay) and immunohistochemical (ICA) methods in biopsies from 145 primary endometrial adenocarcinomas. Correlations between receptor contents and cancer specific survival were examined in a multivariate analysis including histopathological characteristics. Median patient follow-up time was 67 months with 18 cancer deaths. "High" PR levels correlated significantly (p = 0.004) with survival, independently of stage risk group (stages Ia-Ib vs Ic-IV). Patient age and histological grade were prognostic factors in a univariate setting but these parameters were eliminated in the multivariate model. The association between PR contents and cancer survival suggests that determination of PR can be of importance in the evaluation of endometrial cancer.

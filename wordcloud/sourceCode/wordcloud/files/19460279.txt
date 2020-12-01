@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/19460279/
+title=Chemo- and radiotherapy in adjuvant management of optimally debulked endometrial cancer.
+from:J Natl Compr Canc Netw
+time=2009 May
+abstract: The role of chemotherapy and radiotherapy in adjuvant management of optimally debulked endometrial cancer with extrauterine involvement is evolving. Recent studies have suggested an expanded role for chemotherapy and questioned the benefit of radiation therapy. Ongoing and planned clinical trials should provide clarification.

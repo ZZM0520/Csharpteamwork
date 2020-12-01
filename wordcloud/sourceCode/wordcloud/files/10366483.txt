@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/10366483/
+title=Surgical staging in endometrial cancer: is excellent survival due to thorough staging or patient selection?
+from:Gynecol Oncol
+time=1999 Jun
+abstract: 

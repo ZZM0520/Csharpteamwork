@@ -1,0 +1,5 @@
+url=https://pubmed.ncbi.nlm.nih.gov/15535258/
+title=[Endometrial cancer diagnosis by MR imaging].
+from:Nihon Rinsho
+time=2004 Oct
+abstract: 
